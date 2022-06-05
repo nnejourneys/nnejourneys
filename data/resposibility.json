@@ -1,0 +1,20 @@
+{
+  "responsibility": [
+    {
+      "icon": "/images/icons/user.svg",
+      "title": "Local Team"
+    },
+    {
+      "icon": "/images/icons/car.svg",
+      "title": "Locally owned Transport"
+    },
+    {
+      "icon": "/images/icons/shop.svg",
+      "title": "Purchases from small locally owned businesses"
+    },
+    {
+      "icon": "/images/icons/home.svg",
+      "title": "Local Family & Community owned Accommodation"
+    }
+  ]
+}
