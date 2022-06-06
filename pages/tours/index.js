@@ -61,7 +61,8 @@ export default function TourIndex({ allTours }) {
         <title> Tours | {CMS_NAME} </title>
       </Head>
 
-      <Container className="filterex">
+      <Container >
+        <div className="tour-filters">
         <h2 className="text-center my-5"> Tours </h2>
           <div className="mx-auto"> 
             <div id="category-options"  className=" justify-content-center mb-5" onClick={handleCategoryChange}>
@@ -172,6 +173,7 @@ export default function TourIndex({ allTours }) {
                 </div>
                  
             </div>
+        </div>
         </div>
       </Container>
       <Container className="mt-5">
