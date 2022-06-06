@@ -12,7 +12,7 @@ export default function Thankyou( ) {
         <title> {CMS_NAME} </title>
       </Head> 
        <Container>
-         <h4 className="my-5"> Thank you for your message we will get back to you as soon as possible. </h4>
+         <h4 className="my-5 text-center"> Thank you for your message we will get back to you as soon as possible. </h4>
        </Container>
     </>
   );
