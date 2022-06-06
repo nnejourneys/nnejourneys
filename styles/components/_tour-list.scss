@@ -16,8 +16,12 @@
   -webkit-transform: translateY(20px);
           transform: translateY(20px);
   opacity: 0.99;
-  & h4, h5, h6{
-  color: var(--nne-font-primary);
+   & h4{
+    color: var(--nne-font-primary);
+    text-shadow: 2px 2px 3px #060606;
+  }
+  & h5, h6{
+  color: var(--nne-white);
   text-shadow: 2px 2px 3px #060606;
   }
 }
