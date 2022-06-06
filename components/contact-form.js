@@ -1,31 +1,31 @@
 import React, { useState } from "react";
-import { Container, Col, Row, Form, Button } from "react-bootstrap";
-import SuccessMessage from "./success-message";
+import { Col, Row, Form, Button } from "react-bootstrap";
+// import SuccessMessage from "./success-message";
 
 export default function ContactForm() {
-  const [show, setShow] = useState(false);
-  function encode(data) {
-    return Object.keys(data)
-      .map(
-        (key) =>
-          encodeURIComponent(key) + "=" + encodeURIComponent(data[key])
-      )
-      .join("&");
-  }
+  // const [show, setShow] = useState(false);
+  // function encode(data) {
+  //   return Object.keys(data)
+  //     .map(
+  //       (key) =>
+  //         encodeURIComponent(key) + "=" + encodeURIComponent(data[key])
+  //     )
+  //     .join("&");
+  // }
   
-  const formSubmitHandeler = (event) => {
-    event.preventDefault();
-    fetch("/", {
-      method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({
-        "form-name": event.target.getAttribute("name"),
-        ...name,
-      }),
-    })
-      .then(setShow(!show))
-      .catch((error) => alert(error));
-  };
+  // const formSubmitHandeler = (event) => {
+  //   event.preventDefault();
+  //   fetch("/", {
+  //     method: "POST",
+  //     headers: { "Content-Type": "application/x-www-form-urlencoded" },
+  //     body: encode({
+  //       "form-name": event.target.getAttribute("name"),
+  //       ...name,
+  //     }),
+  //   })
+  //     .then(setShow(!show))
+  //     .catch((error) => alert(error));
+  // };
   // const formSubmitHandeler = (e) => {
   //   e.preventDefault();
   //   setShow(!show);
@@ -34,14 +34,14 @@ export default function ContactForm() {
     <>
       <div className="col-lg-6 col-md-7">
         <div className="p-5 rounded box-shadow">
-          {!show && (
+          {/* {!show && ( */}
             <Form
               name="contact"
               method="POST"
               // action="/thankyou/#contact"
               data-netlify="true"
               netlify-honeypot="bot-field"
-              onSubmit={formSubmitHandeler}
+              // onSubmit={formSubmitHandeler}
             >
               <div className="col-lg-12">
                 <h3 className="mb-4">Get in touch</h3>
@@ -99,8 +99,8 @@ export default function ContactForm() {
                 </Button>
               </div>
             </Form>
-          )}
-          {show && <SuccessMessage />}
+          {/* // )}
+          // {show && <SuccessMessage />} */}
         </div>
       </div>
     </>
