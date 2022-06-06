@@ -1,5 +1,5 @@
 import React from "react";
-import Form from "../components/form";
+import ContactForm from "../components/contact-form";
 import Contactdata from "../data/contact.json";
 import Image from "next/image";
 
@@ -60,7 +60,7 @@ export default function Contact() {
               </ul>
             </div>
 
-            <Form />
+            <ContactForm />
           </div>
         </div>
       </section>
