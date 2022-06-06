@@ -77,8 +77,8 @@ export default function TourIndex({ allTours }) {
               </div>
             </div> 
 
-            <div className={selectedCategory === "active" ? "d-flex" : "d-none"} value={selectedTag} onChange={handleTagChange} >
-       
+            <div className={selectedCategory === "active" ? "d-inline-flex" : "d-none"} value={selectedTag} onChange={handleTagChange} >
+              <div className="d-md-flex">
               <div className="form-check me-3">
                   <input className="form-check-input" type="radio" name="flexRadioDefault"  value="" />
                   <label className="form-check-label" htmlFor="flexRadioDefault1">
@@ -109,10 +109,11 @@ export default function TourIndex({ allTours }) {
                   Overland
                   </label>
                 </div>
+                </div>
             </div>
 
-            <div className={selectedCategory === "leisure" ? "d-flex" : "d-none"} value={selectedTag} onChange={handleTagChange} >
-           
+            <div className={selectedCategory === "leisure" ? "d-inline-flex" : "d-none"} value={selectedTag} onChange={handleTagChange} >
+            <div className="d-md-flex">
               <div className="form-check me-3">
                   <input className="form-check-input" type="radio" name="flexRadioDefault"  value="" />
                   <label className="form-check-label" htmlFor="flexRadioDefault1">
@@ -144,9 +145,10 @@ export default function TourIndex({ allTours }) {
                   </label>
                 </div>
             </div>
+            </div>
 
-            <div className={selectedCategory === "culture" ? "d-flex" : "d-none"} value={selectedTag} onChange={handleTagChange} >
-             
+            <div className={selectedCategory === "culture" ? "d-inline-flex" : "d-none"} value={selectedTag} onChange={handleTagChange} >
+            <div className="d-md-flex">
               <div className="form-check me-3">
                   <input className="form-check-input" type="radio" name="flexRadioDefault"  value="" />
                   <label className="form-check-label" htmlFor="flexRadioDefault1">
@@ -171,7 +173,7 @@ export default function TourIndex({ allTours }) {
                   Nagaland
                   </label>
                 </div>
-                 
+                </div>
             </div>
         </div>
         </div>
