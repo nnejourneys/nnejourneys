@@ -89,7 +89,7 @@ export default function EnquiryForm({ title }) {
                 type="message"
                 name="message"
             // value={message} onChange={this.handleChange} 
-            placeholder="Your message. Please include as much information about your requirement as possible." rows="5"/>
+            placeholder="Your message. Please include as much information about your requirement." rows="5"/>
           </Form.Group>
 
           <div class="d-grid mb-5">
