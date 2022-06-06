@@ -168,7 +168,10 @@ export default function Tour({ tour }) {
                 </Tab>
                 <Tab eventKey="enquire" title="Enquire">
                   <h5>Enquire</h5>
-                  <EnquiryForm />
+                  <EnquiryForm title={tour.title} />
+
+
+                  {/* /****************** */}
                 </Tab>
               </Tabs>
               <hr className="mt-5" />
