@@ -25,10 +25,17 @@
   z-index: 30;
 }
 
+
 .nav-link{
+  color:#060606 !important;
+} 
+
+.nav-tabs {
   color: black !important;
-  &:focus{
-    color: rgb(99, 99, 99) !important;
+  background-color: rgb(225, 225, 225) !important;
+  & :focus{
+    color: rgb(91, 91, 91) !important;
+    background-color: rgb(255, 255, 255) !important;
   }
 }
 
