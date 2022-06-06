@@ -27,11 +27,14 @@ export default function EnquiryForm({ title }) {
       .then(setShow(!show))
       .catch((error) => alert(error));
   };
+
+  handleChange = e => this.setState({ [e.target.name]: e.target.value });
   // const formSubmitHandeler = (e) => {
   //   e.preventDefault();
   //   setShow(!show);
   // };
   return (
+    const { name, email, message } = this.state;
     <>
       <div className="col-lg-6 col-md-7">
       {!show && (
@@ -60,6 +63,8 @@ export default function EnquiryForm({ title }) {
                 <Form.Control
                   type="name"
                   name="name"
+                  value={name}
+                  onChange={this.handleChange} 
                   placeholder="Name"
                   required
                 />
@@ -70,6 +75,8 @@ export default function EnquiryForm({ title }) {
                 <Form.Control
                   type="email"
                   name="email"
+                  value={email}
+                  onChange={this.handleChange} 
                   placeholder="Email"
                   required
                 />
@@ -78,7 +85,7 @@ export default function EnquiryForm({ title }) {
           </div>
 
           <Form.Group className="mb-3" controlId="formTextarea"> 
-            <Form.Control as="textarea" 
+            <Form.Control as="textarea" value={message} onChange={this.handleChange} 
             placeholder="Your message. Please include as much information about your requirement as possible." rows="5"/>
           </Form.Group>
 
