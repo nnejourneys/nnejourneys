@@ -1,50 +1,72 @@
-import React from "react";
+import React, { useState } from "react";
+import { Col, Row, Form, Button } from "react-bootstrap";
+import SuccessMessage from "./success-message";
 
-export default function EnquiryForm() {
+export default function EnquiryForm({ title }) {
+  const [show, setShow] = useState(false);
+  const formSubmitHandeler = (e) => {
+    e.preventDefault();
+    setShow(!show);
+  };
   return (
     <>
       <div className="col-lg-6 col-md-7">
-        <form action="https://formspree.io/f/mvovqgwd" method="POST">
+      {!show && (
+        <Form
+          name="enquiryForm" 
+          method="POST"
+          data-netlify="true"
+          netlify-honeypot="bot-field"
+          onSubmit={formSubmitHandeler}
+        >
+          <p className="d-none">
+            <label>
+              Don’t fill this out if you’re human: <input name="bot-field" />
+            </label>
+          </p>
+          <input type="hidden" name="form-name" value="enquiryForm" />
+          <input
+            id="tourtitle"
+            name="tourtitle"
+            type="hidden"
+            value={title}
+          />
           <div className="row">
             <div className="col-lg-6">
-              <input
-                type="text"
-                name="name"
-                id="name"
-                className="form-control"
-                placeholder="Name"
-                required
-              />
+              <Form.Group className="mb-3" controlId="formName">
+                <Form.Control
+                  type="name"
+                  name="name"
+                  placeholder="Name"
+                  required
+                />
+              </Form.Group>
             </div>
             <div className="col-lg-6">
-              <input
-                type="email"
-                className="form-control"
-                name="email"
-                id="email"
-                placeholder="Email Address"
-                required
-              />
+              <Form.Group className="mb-3" controlId="formEmail">
+                <Form.Control
+                  type="email"
+                  name="email"
+                  placeholder="Email"
+                  required
+                />
+              </Form.Group>
             </div>
           </div>
 
-          <div className="col-lg-12">
-            <textarea
-              className="form-control p-2"
-              name="message"
-              id="message"
-              rows={5}
-              placeholder="Your Message Here..."
-              required
-              style={{ height: "8rem" }}
-            ></textarea>
-          </div>
-          <div className="col-lg-12">
-            <button className="btn btn-primary" type="submit">
+          <Form.Group className="mb-3" controlId="formTextarea"> 
+            <Form.Control as="textarea" 
+            placeholder="Your message. Please include as much information about your requirement as possible." rows="5"/>
+          </Form.Group>
+
+          <div class="d-grid mb-5">
+            <Button variant="primary" type="submit">
               Submit
-            </button>
+            </Button>
           </div>
-        </form>
+        </Form>
+        )}
+        {show && <SuccessMessage />}
       </div>
     </>
   );
