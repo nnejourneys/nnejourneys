@@ -42,6 +42,7 @@ export default function EnquiryForm({ title }) {
           method="POST"
           data-netlify="true"
           netlify-honeypot="bot-field"
+          action="/thankyou"
           // onSubmit={formSubmitHandeler}
         >
           <p className="d-none">
@@ -85,6 +86,8 @@ export default function EnquiryForm({ title }) {
 
           <Form.Group className="mb-3" controlId="formTextarea"> 
             <Form.Control as="textarea" 
+                type="message"
+                name="message"
             // value={message} onChange={this.handleChange} 
             placeholder="Your message. Please include as much information about your requirement as possible." rows="5"/>
           </Form.Group>
