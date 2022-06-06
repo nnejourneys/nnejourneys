@@ -4,10 +4,33 @@ import SuccessMessage from "./success-message";
 
 export default function EnquiryForm({ title }) {
   const [show, setShow] = useState(false);
-  const formSubmitHandeler = (e) => {
-    e.preventDefault();
-    setShow(!show);
+
+  function encode(data) {
+    return Object.keys(data)
+      .map(
+        (key) =>
+          encodeURIComponent(key) + "=" + encodeURIComponent(data[key])
+      )
+      .join("&");
+  }
+  
+  const formSubmitHandeler = (event) => {
+    event.preventDefault();
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({
+        "form-name": event.target.getAttribute("name"),
+        ...name,
+      }),
+    })
+      .then(setShow(!show))
+      .catch((error) => alert(error));
   };
+  // const formSubmitHandeler = (e) => {
+  //   e.preventDefault();
+  //   setShow(!show);
+  // };
   return (
     <>
       <div className="col-lg-6 col-md-7">
