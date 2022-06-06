@@ -16,7 +16,7 @@ export default function TourPreview({
 }) {
   return (
     <> 
-      <div className="col-xl-4 col-lg-6 col-md-6 col-sm-12 g-2" >
+      <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12 g-2" >
         <div className="position-relative">
          <Image
             className="img-fluid w-100"
