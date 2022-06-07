@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH"
 subtitle: "Theravada & Animist lands"
 days: "6 to 12 days"
@@ -15,27 +16,27 @@ weight: 3
 # overview
 overview:
   - label : STATES
-    icon : /images/icons/states.svg 
+    icon : bi:globe
     data : Arunachal Pradesh
     
   - label : DURATION
-    icon : /images/icons/flag.svg
+    icon : bytesize:flag
     data : 6 to 12 days
 
   - label : AIRPORT IN
-    icon : /images/icons/location.svg
+    icon : ic:round-flight-land
     data : Dibrugarh (Assam)
 
   - label : AIRPORT OUT
-    icon : /images/icons/location.svg
+    icon : ic:round-flight-takeoff
     data : Dibrugarh (Assam)
     
   - label : BEST TIME
-    icon : /images/icons/shine.svg
+    icon : bi:sun
     data : October to March
 
   - label : COST
-    icon : /images/icons/wallet.svg
+    icon : bi:wallet2
     data : On Request
 
 ############# Not Entered
@@ -49,6 +50,24 @@ over:
  - Best Time- October to March
  - Airport in- Dibrugarh (Assam)
  - Airport out- Dibrugarh (Assam)
+
+overs:
+  - l: Level 
+    d: Off the Grid
+  - l: Total Days 
+    d: 6 to 10
+  - l: Experiences
+    d: Water based activities, walks, cultural insights, cuisine, Rafting & cycling
+  - l: Terrain
+    d: 85% Plains
+  - l: Altitude variation
+    d: 150 to 800 mts
+  - l: Best Time
+    d: October to March
+  - l: Airport in
+    d: Dibrugarh (Assam)
+  - l: Airport out
+    d: Dibrugarh (Assam)
 
 highlights:
  - Periphery of foothills of the Eastern most Himalayas
@@ -92,21 +111,23 @@ faq:
   
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
----
-<!-- 
-#### Cultural Tour of Eastern Arunachal Pradesh: Theravada & Animist lands
 
----
 
+#### Other Ethno-Cultural Tours
+othertours:
+- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
+  link: /tours/culture-tour-western-arunachal-pradesh
+  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
+- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
+  link: /tours/culture-tour-of-nagaland-hornbill-festival
+  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
+- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
+  link: /tours/culture-tour-eastern-arunachal-pradesh
+  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg
+---
+ 
 We take you to one of the least known part of Northeast India. The eastern bit of the region buffering Tibet and Myanmar lies in the state of Arunachal Pradesh. This is a region of giant rivers, uending forests and a ring of hills climbing ever higher till it becomes snowy peaks at the Chinese border. This region is home to the Theravada Buddhist tribes who live in the plains and the Animist ones who live in the hills.
-
-
-###### TOUR IMAGES
-
-![Culture-Tour-of-Eastern-Arunachal-Pradesh](/images/background/culture/easternarunachalculturetourgallery.jpg)
-
-
-  -->
+ 
 
 #### Other Ethno-Cultural Tours
 

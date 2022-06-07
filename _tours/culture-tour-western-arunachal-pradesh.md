@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM"
 subtitle: "Monyul & Brahmaputa Valley"
 days: "8 to 12 days"
@@ -15,27 +16,27 @@ weight: 3
 # overview
 overview:
   - label : STATES
-    icon : /images/icons/states.svg
+    icon : bi:globe
     data : Arunachal Pradesh, Assam
     
   - label : DURATION
-    icon : /images/icons/flag.svg
+    icon : bytesize:flag
     data : 8 to 12 days
 
   - label : AIRPORT IN
-    icon : /images/icons/location.svg
+    icon : ic:round-flight-land
     data : Guwahati (Assam)
 
   - label : AIRPORT OUT
-    icon : /images/icons/location.svg
+    icon : ic:round-flight-takeoff
     data : Guwahati (Assam)
     
   - label : BEST TIME
-    icon : /images/icons/shine.svg
+    icon : bi:sun
     data : Sept-April
 
   - label : COST
-    icon : /images/icons/wallet.svg
+    icon : bi:wallet2
     data : On Request
 
  
@@ -49,6 +50,25 @@ over:
  - Best Time- October to March
  - Airport in- Dibrugarh (Assam)
  - Airport out- Dibrugarh (Assam)
+
+overs:
+  - l: Level 
+    d:  Off the Grid
+  - l: Total Days 
+    d: 6 to 10
+  - l: Experiences
+    d: Water based activities, walks, cultural insights, cuisine, Rafting & cycling
+  - l: Terrain 
+    d: 85% Plains
+  - l: Altitude variation 
+    d: 150 to 800 mts
+  - l: Best Time 
+    d: October to March
+  - l: Airport in 
+    d: Dibrugarh (Assam)
+  - l: Airport out
+    d: Dibrugarh (Assam)
+
 
 highlights:
  - Periphery of foothills of the Eastern most Himalayas
@@ -93,12 +113,23 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
----
-<!-- 
+#### Other Ethno-Cultural Tours
+othertours:
+- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
+  link: /tours/culture-tour-western-arunachal-pradesh
+  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
+- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
+  link: /tours/culture-tour-of-nagaland-hornbill-festival
+  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
+- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
+  link: /tours/culture-tour-eastern-arunachal-pradesh
+  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg
+
+--- 
+
+
 #### Culture Tour of Arunachal Pradesh & Assam: Monyul and the Brahmaputra valley
-
----
-
+ 
 This cultural odessy takes you from the sweltering plains of the Brahmaputra to the high mountains of Western Arunachal Pradesh. The first phase takes you to the periphery of Tawang where as the second stage brings us down to the lush plains of central Assam.In essence covering the Tibetian Buddhist and Vaishnavite areas.
 
 Tawang, the beautiful land of the people of Monpa Tribe, is located in the Western mostpart of the state Arunachal Pradesh bordering China and Bhutan. The district is entirely located amongst the mighty Himalayas and has a rugged terrain with deep valleys and altitude ranging between 3,500 to 6,900 mts. Its snow-capped peaks, pleasant lakes, congenial climate, friendly and hospitable people continue to entice the people who visit. This magical land evokes images of awesome mountain views, remote hamlets, quaint and sleepy villages, magical Gompas, tranquil lakes and mesmerizing mountains.
@@ -109,13 +140,7 @@ Stretching 600 km along the Brahmaputra River Valley, with a spur down to the hi
 
 Beached amid the mighty Brahmaputra River’s ever-shifting puzzle of sandbanks is Majuli, which at around 350 sq km is India’s largest river island. Though continually ravaged by the primal forces of nature (much of it disappears under water every monsoon, and it's steadily shrinking due to erosion), Majuli flaunts unparalleled scenic beauty. Coming here is like stepping back to an earlier India of little motor traffic (cycling is a delight), peaceful woodlands and wetlands, and Mishing tribal villages with wooden stilt houses, where the goats, geese, cows and pigs easily outnumber the people. The island's serene atmosphere is enhanced by the influence of its 22 satras (Hindu Vaishnavite monasteries and centres for art).
 
-
-``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
-
-###### TOUR IMAGES
-
-![Culture-tour-of-Assam-and-Arunachal-Pradesh](/images/background/culture/westernarunachalculturegallery.jpg) -->
-
+ 
 
 
 

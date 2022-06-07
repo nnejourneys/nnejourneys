@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "WALKERS TOUR OF MEGHALAYA"
 subtitle: "Walks in the Clouds"
 days: "6 days"
@@ -15,31 +16,31 @@ weight: 8
 overview:
 
   - label : TOUR DATE
-    icon : /images/icons/shine.svg
+    icon : bi:sun
     data : 10 - 15 April' 2022
 
   - label : DURATION
-    icon : /images/icons/flag.svg
+    icon : bytesize:flag
     data : 6 days
 
   - label : STATES
-    icon : /images/icons/states.svg
+    icon : bi:globe
     data : Meghalaya
 
   - label : LEVEL
-    icon : /images/icons/dashboard.svg
+    icon : bi:speedometer2
     data : Easy to Moderate
 
   - label : AIRPORT IN
-    icon : /images/icons/location.svg
+    icon : ic:round-flight-land
     data : Guwahati (Assam)
 
   - label : AIRPORT OUT
-    icon : /images/icons/location.svg
+    icon : ic:round-flight-takeoff
     data : Guwahati (Assam)
 
   - label : COST
-    icon : /images/icons/wallet.svg
+    icon : bi:wallet2
     data : INR 32,000/ Twin share
 
 over:
@@ -50,6 +51,22 @@ over:
   - Altitude variation- 150 to 1900 mts
   - Airport in- Guwahati (Assam)
   - Airport out- Guwahati (Assam)
+
+overs:
+  - l: Level 
+    d: Easy to Moderate
+  - l: Total Days 
+    d: 6 days
+  - l: Avg walking time 
+    d: 4 to 6 hrs
+  - l: Terrain 
+    d: 100% Hilly
+  - l: Altitude variation 
+    d: 150 to 1900 mts
+  - l: Airport in 
+    d: Guwahati (Assam)
+  - l: Airport out 
+    d: Guwahati (Assam)  
 
 highlights:
   - Explore the Khasi Hills
@@ -99,95 +116,27 @@ galleryimages:
   - "/images/tours/gallery/walking-tour-meghalaya/walking-in-meghalaya.jpg"
   - "/images/tours/gallery/walking-tour-meghalaya/walks-in-meghalaya.jpeg"
   - "/images/tours/gallery/walking-tour-meghalaya/walks-in-the-clouds-meghalaya.jpeg"
+
+#### Other Ethno-Cultural Tours
+othertours:
+- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
+  link: /tours/culture-tour-western-arunachal-pradesh
+  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
+- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
+  link: /tours/culture-tour-of-nagaland-hornbill-festival
+  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
+- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
+  link: /tours/culture-tour-eastern-arunachal-pradesh
+  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg    
 ---
 
-<!-- #### Walking Tour of Meghalaya: Explorations in the 'Abode of Clouds'
-
----
+#### Walking Tour of Meghalaya: Explorations in the 'Abode of Clouds'
 
 This Walking holiday takes you to beautiful Meghalaya, 'The Abode of clouds’.   Meghalaya is a hilly state jutting out between the vast plains of the Brahmaputra valley and that of Bangladesh. Due to its unique geographical location this region records some of the heaviest rainfall on earth, which in turn leads to this state having such a lush and verdant environment. 
 
 The state is divided into the Garo, Khasi and Jaintia hills, however on this tour we will concentrate on the Khasi Hills. The namesake Khasi tribe is one of the only matrilenial societies of the subcontinent, with a unique culture and society. This region is rich in natural wonders, home to some of the deepest caves and highest waterfalls of Asia. The jewels of this region are the Natural Root bridges which dot the surroundings. 
 
 This tour includes multiple day walks to some of the most beautiful trails and interesting locations of the region.
-
-
-
-
-
-###### AT A GLANCE
-```
-> Level: Easy to Moderate
-> Total Days: 6 days
-> Avg walking time: 4 to 6 hrs
-> Terrain: 100% Hilly
-> Altitude variation: 150 to 1900 mts
-
-> Airport in: Guwahati (Assam)
-> Airport out: Guwahati (Assam)
-```
-
-
-
-
-###### HIGHLIGHTS
-```
-> Explore the Khasi Hills
-> Region with heaviest recorder rainfall
-> The only state of India with a matrilineal society
-> Wonders of natural bio-engineering, ‘ The Living root bridges’
-> Kongthong, ‘The Whistling Village’
-> Walk the Bamboo Bridge trail
-> Waterfalls, Caves, Culture and Cuisine of Meghalaya
-```
-
-###### INCLUSIONS
-```
-> All accommodation
-> All Meals
-> All transportation
-> Refreshment and water throughout
-> Guide 
-> FA Kit
-> Activities as mentioned in the itinerary
-> All permits
-```
-
-###### ACCOMMODATION AND MEALS ON THIS TOUR
-```
-> Accommodation: Hotels, Cottages, farmsteads & Camping
-> Meals: As much as possibly we try cover all the local cuisines
-> Refreshments & Water: High energy snacks and Water during throughout
-```
-
-``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
-
-###### TOUR IMAGES
-
-![Walking-tour-of-Meghalaya](/images/background/treks/hiking-tour-of-meghalaya.jpg)
-
-
-
-### FAQ
-
-
-
-##### Terrain
-
-100% hilly 
-
-##### Backup
-Sturdy SUV’s or Mini-coaches and sturdier drivers will accompany you on every trip. These vehicles are along right from your airport pick up to your drop back to the airport.
-
-
-##### Permits
-No special permits required
-
-##### Weather Pattern
-Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 10 C, in the evenings, however the days are still favourable for cycling.
-
-##### Safety 
-We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us. -->
 
 #### Other Departures
 ---

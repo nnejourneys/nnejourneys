@@ -1,10 +1,11 @@
 ---
+draft: false
 title: "Culture Tour of Nagaland & Assam"
 subtitle: "Hornbill Festival and beyond"
 days: "6 to 12 days"
 description : "Hornbill Festival Tour, Nagaland and Assam. Culture, Cuisine and Wildlife of Assam and Nagaland"
 tourdesc: This tour takes you to western Nagaland and central Assam.In Nagaland we get deep insights to the tribes of the region and their rich culture, Where as in Assam we indulge in a bit of wildlife safari's and Tea plantation stays. Often cited as “festival of all festivals”, The Hornbill Festival is a grand celebration that is brought to life each year in Nagaland. It is named after a bird, who is a symbol of ‘‘Respect’’ and ‘‘Folklore’’ among the Nagas. The festival is a powerful representation of the Naga culture through splendid traditional music, dance, traditional games and performances. For a  visitor it means a closer understanding of the people and diverse culture of Nagaland, and an opportunity to experience Naga food which is no less varied, as are the songs, dances and customs of the place. This colourful festival is a certain paradise for a foodie, particularly if one happens to be a non- vegetarian. Nagas love to feast and feed, and at Kisama one can try all kinds of Naga traditional food and also watch them being made during the Hornbill Festival days. Travellers are welcomed warmly to the traditional huts of each tribe showcasing respective traditions. For those interested, one may seat with the youths and elderly people of the tribes alike and interact with them. One can also take part in various contests such as Naga chilly eating, pork eating besides traditional games and other traditional competitions. Meanwhile in Assam we visit the Kaziranga National Park. Famed as a haven for the one-horned rhinoceros, one of India’s great wildlife emblems, Kaziranga National Park encompasses grasslands, wetlands and forests for about 60km on the south side of the Brahmaputra River. Its 2400-plus rhinos comprise two-thirds of the world's population and you're highly likely to see some on any safari in the park (usually grazing peacefully). You'll probably also spot some of the park's 1100 elephants, and if you're very lucky, a tiger (over 100 live here). Also commonly seen are two other rare large mammals, the wild water buffalo and eastern swamp deer. Kaziranga is one of a handful of Wildlife parks that conducts Elephant back safaris, Jeep Safari's as well as boat safari's. 
-bg_image: /images/background/culture/Hornbill-festival-tour-main.jpg
+bg_image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg 
 image : /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg 
 type: "culture"
 category: "culture"
@@ -15,27 +16,27 @@ weight: 3
 # overview
 overview:
   - label : STATES
-    icon : /images/icons/states.svg
+    icon : bi:globe
     data : Nagaland, Assam
     
   - label : DURATION
-    icon : /images/icons/flag.svg
+    icon : bytesize:flag
     data : 6 to 12 days
 
   - label : AIRPORT IN
-    icon : /images/icons/location.svg
+    icon : ic:round-flight-land
     data : Guwahati (Assam)
 
   - label : AIRPORT OUT
-    icon : /images/icons/location.svg
+    icon : ic:round-flight-takeoff
     data : Guwahati (Assam)
     
   - label : BEST TIME
-    icon : /images/icons/shine.svg
+    icon : bi:sun
     data : Nov-Dec
 
   - label : COST
-    icon : /images/icons/wallet.svg
+    icon : bi:wallet2
     data : On Request
 
 ############### Not entered
@@ -49,6 +50,24 @@ over:
  - Best Time- October to March
  - Airport in- Dibrugarh (Assam)
  - Airport out- Dibrugarh (Assam)
+
+overs:
+  - l: Level 
+    d: Off the Grid
+  - l: Total Days 
+    d: 6 to 10
+  - l: Experiences 
+    d: Water based activities, walks, cultural insights, cuisine, Rafting & cycling
+  - l: Terrain 
+    d: 85% Plains
+  - l: Altitude variation 
+    d: 150 to 800 mts
+  - l: Best Time 
+    d: October to March
+  - l: Airport in
+    d: Dibrugarh (Assam)
+  - l: Airport out
+    d: Dibrugarh (Assam)
 
 highlights:
  - Periphery of foothills of the Eastern most Himalayas
@@ -93,25 +112,26 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
+#### Other Ethno-Cultural Tours
+othertours:
+- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
+  link: /tours/culture-tour-western-arunachal-pradesh
+  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
+- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
+  link: /tours/culture-tour-of-nagaland-hornbill-festival
+  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
+- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
+  link: /tours/culture-tour-eastern-arunachal-pradesh
+  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg 
 ---
-
-
-<!-- ---
-
+ 
 #### Culture Tour of Nagaland & Assam: Tribes & Wildlife, Nagaland & Assam
 This tour takes you to western Nagaland and central Assam.In Nagaland we get deep insights to the tribes of the region and their rich culture, Where as in Assam we indulge in a bit of wildlife safari's and Tea plantation stays.
 
  Often cited as “festival of all festivals”, The Hornbill Festival is a grand celebration that is brought to life each year in Nagaland. It is named after a bird, who is a symbol of ‘‘Respect’’ and ‘‘Folklore’’ among the Nagas. The festival is a powerful representation of the Naga culture through splendid traditional music, dance, traditional games and performances. For a  visitor it means a closer understanding of the people and diverse culture of Nagaland, and an opportunity to experience Naga food which is no less varied, as are the songs, dances and customs of the place. This colourful festival is a certain paradise for a foodie, particularly if one happens to be a non- vegetarian. Nagas love to feast and feed, and at Kisama one can try all kinds of Naga traditional food and also watch them being made during the Hornbill Festival days. Travellers are welcomed warmly to the traditional huts of each tribe showcasing respective traditions. For those interested, one may seat with the youths and elderly people of the tribes alike and interact with them. One can also take part in various contests such as Naga chilly eating, pork eating besides traditional games and other traditional competitions.
 
  Meanwhile in Assam we visit the Kaziranga National Park. Famed as a haven for the one-horned rhinoceros, one of India’s great wildlife emblems, Kaziranga National Park encompasses grasslands, wetlands and forests for about 60km on the south side of the Brahmaputra River. Its 2400-plus rhinos comprise two-thirds of the world's population and you're highly likely to see some on any safari in the park (usually grazing peacefully). You'll probably also spot some of the park's 1100 elephants, and if you're very lucky, a tiger (over 100 live here). Also commonly seen are two other rare large mammals: the wild water buffalo and eastern swamp deer. Kaziranga is one of a handful of Wildlife parks that conducts Elephant back safaris, Jeep Safari's as well as boat safari's. 
-
-
-
-``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
-
-###### TOUR IMAGES
-
-![Hornbill-festival-tour-Nagaland-and-Assam](/images/background/culture/hornbill-festival-gallery.jpg) -->
+ 
 
 #### Other Ethno-Cultural Tours
 
