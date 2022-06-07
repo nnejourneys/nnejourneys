@@ -18,11 +18,11 @@ export default function TourCard({
   return (
     <>
       <div className="col-xl-6 col-lg-12">
-        <div className="card mb-3 p-1 border-0 shadow">
+        <div className="card mb-3 p-1 border-0 shadow-lg">
           <div className="row g-0">
             <div className="col-md-7">
               <Image
-                className="img-fluid "
+                className="img-fluid"
                 src={bg_image}
                 layout="responsive"
                 width={240}
@@ -42,43 +42,19 @@ export default function TourCard({
                     </p>
                   </a>
                 </Link>
-                </div>
-                <div className="card-footer bg-transparent border-0 ">
+              </div>
+              <div className="card-footer bg-transparent border-0 ">
                 <Link href={`/tours/${slug}`}>
-                  <a >
-                    <Button className="align-bottom" variant="btn btn-card ">Read more</Button>
+                  <a>
+                    <Button className="align-bottom" variant="btn btn-card ">
+                      Read more
+                    </Button>
                   </a>
                 </Link>
-                
               </div>
             </div>
           </div>
         </div>
-
-        {/* 
-        <div className="row bg-dark">
-          <div className="col-7 p-2">
-            <Image
-              className="img-fluid "
-              src={bg_image}
-              layout="responsive"
-              width={240}
-              height={160}
-              alt={title}
-            />
-          </div> */}
-
-        {/* <div className="col-5 p-2 bg-golden">
-            <Link href={`/tours/${slug}`}>
-              <a>
-                <h5 className="fw-bold">{title}</h5>
-                <h6>{subtitle}</h6>
-                <h6>{days}</h6>
-                <p className="text-white">{cat}</p>
-              </a>
-            </Link>
-          </div> 
-        </div>*/}
       </div>
     </>
   );
