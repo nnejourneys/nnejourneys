@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { Button } from "react-bootstrap";
+import { Icon } from "@iconify/react";
 
 export default function TourCard({
   title,
@@ -18,7 +19,7 @@ export default function TourCard({
   return (
     <>
       <div className="col-xl-6 col-lg-12">
-        <div className="card mb-3 p-1 border-0 shadow-lg">
+        <div className="card mb-3 p-1 border-0 shadow-sm bg-gray">
           <div className="row g-0">
             <div className="col-md-7">
               <Image
@@ -35,18 +36,36 @@ export default function TourCard({
                 <Link href={`/tours/${slug}`}>
                   <a>
                     <h6 className="card-title mb-0">{title}</h6>
-                    <p className="card-text mb-0">{subtitle}</p>
-                    <p className="card-text mb-0">{days}</p>
-                    <p className="card-text mb-0">
-                      <small className="text-muted">{cat}</small>
-                    </p>
+                    <p className="card-text mb-1">{subtitle}</p>
+                    <div className="row">
+                      <div className="col-2">
+                        <h6>
+                          <Icon
+                            className="my-1 pe-2"
+                            icon="iconoir:cycling"
+                            width="40"
+                          />
+                        </h6>
+                      </div>
+                      <div className="col-10">
+                        <p className="card-text mb-0">
+                          <Icon className="me-2 mb-1" icon="bytesize:flag" />
+                           {days}
+                        </p>
+                        <hr className="my-0 bg-warning" />
+                        <p className="card-text mb-0">
+                          <Icon className="me-2 mb-1" icon="bi:speedometer2" />
+                           {cat} 
+                        </p>
+                      </div>
+                    </div>
                   </a>
                 </Link>
               </div>
               <div className="card-footer bg-transparent border-0 ">
                 <Link href={`/tours/${slug}`}>
                   <a>
-                    <Button className="align-bottom" variant="btn btn-card ">
+                    <Button className="my-auto" variant="btn btn-card ">
                       Read more
                     </Button>
                   </a>
