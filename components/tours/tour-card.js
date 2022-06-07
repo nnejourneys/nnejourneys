@@ -18,7 +18,7 @@ export default function TourCard({
   return (
     <>
       <div className="col-xl-6 col-lg-12">
-        <div className="card mb-3 shadow">
+        <div className="card mb-3 p-1 border-0 shadow">
           <div className="row g-0">
             <div className="col-md-7">
               <Image
