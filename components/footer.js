@@ -6,7 +6,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { Nav } from "react-bootstrap";
 import { useRouter } from "next/router";
-
+import { Icon } from '@iconify/react';
 import Contactdata from "../data/contact.json";
 
 export default function Footer() {
@@ -26,7 +26,9 @@ export default function Footer() {
                   width={177}
                   height={200}
                 />
-                <p className="text-white mb-30">{Footerdata.footer.content}</p>
+                <p className="text-white mb-30">{Footerdata.footer.content}
+                 
+                </p>
 
                 <ul className="list-inline">
                   {Sociallinks.social.map((item, index) => (
@@ -36,13 +38,14 @@ export default function Footer() {
                         className="social-icon-outline"
                         target="_blank"
                       >
-                        <Image
+                        <Icon icon={item.icons} width={20} height={20} color="white"/>
+                        {/* <Image
                           className="social-icon p-1"
                           src={item.icon}
                           width={30}
                           height={30}
                           alt=""
-                        />
+                        /> */}
                       </a>
                     </li>
                   ))}
@@ -55,15 +58,8 @@ export default function Footer() {
               <ul className="footer-links">
                 {Menuitems.menu.footer.map((item, index) => (
                   <li key={index}>
-                    <a className="font-secondary text-white" href={item.URL}>
-                      {/* <FaAngleRight size={20} />  */}
-                      <Image
-                          className="px-1 pt-2"
-                          src="/images/icons/angle-right.svg"
-                          width={20}
-                          height={20}
-                          alt=""
-                        />
+                    <a className="font-secondary text-white" href={item.URL}>  
+                      <Icon className="mb-1" icon="bi:chevron-right" /> 
                       {item.name}
                     </a>
                   </li>
@@ -74,15 +70,8 @@ export default function Footer() {
               <h4 className="text-white mb-4">Quick Links</h4>
               <ul className="footer-links">
                 <li>
-                  <a href="/contact">
-                    {/* <FaAngleRight size={20} /> */}
-                    <Image
-                        className="px-1 pt-2"
-                        src="/images/icons/angle-right.svg"
-                        width={20}
-                        height={20}
-                        alt=""
-                      />
+                  <a href="/contact"> 
+                    <Icon className="mb-1" icon="bi:chevron-right" />
                     Contact
                   </a>
                 </li>
@@ -125,15 +114,8 @@ export default function Footer() {
               </div>
             </div>
           </div>
-          <button className="back-to-top" onClick={() => router.push(top)}>
-            {/* <FaAngleUp size={30} /> */}
-            <Image
-              className="p-1"
-              src="/images/icons/angle-up.svg"
-              width={35}
-              height={35}
-              alt=""
-            />
+          <button className="back-to-top" onClick={() => router.push(top)}> 
+            <Icon icon="bi:chevron-up" width={30} height={30} />
           </button>
         </div>
       </div>

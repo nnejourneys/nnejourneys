@@ -1,13 +1,13 @@
 import TourPreview from './tour-preview'
+import TourCard from './tour-card'
+import { Container } from 'react-bootstrap'
 
 export default function TourItem({ tours }) {
   return (
-    <section className='my-5'>
-      
-      <div className='container'>
+    <section> 
         <div className="row">
           {tours.map((tour) => (
-            <TourPreview
+            <TourCard
               key={tour.slug}
               slug={tour.slug}
               title={tour.title}
@@ -35,7 +35,7 @@ export default function TourItem({ tours }) {
               />
           ))}
         </div>
-      </div>
+       
     </section>
   )
 }

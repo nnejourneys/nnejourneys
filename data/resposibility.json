@@ -1,19 +1,19 @@
 {
   "responsibility": [
     {
-      "icon": "/images/icons/user.svg",
+      "icon": "fluent:people-community-24-regular",  
       "title": "Local Team"
     },
     {
-      "icon": "/images/icons/car.svg",
+      "icon": "fluent:vehicle-car-24-regular",
       "title": "Locally owned Transport"
     },
     {
-      "icon": "/images/icons/shop.svg",
+      "icon": "fluent:building-shop-24-regular",
       "title": "Purchases from small locally owned businesses"
     },
     {
-      "icon": "/images/icons/home.svg",
+      "icon": "fluent:home-24-regular",
       "title": "Local Family & Community owned Accommodation"
     }
   ]

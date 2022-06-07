@@ -9,12 +9,12 @@
       "information": [
         {
           "label": "Experience Of",
-          "icon": "/images/icons/flag.svg",
+          "icon": "fluent:flag-24-regular", 
           "data": "30+ Years"
         },
         {
           "label": "From",
-          "icon": "/images/icons/location.svg",
+          "icon": "fluent:location-24-regular", 
           "data": "N Lakhimpur, Assam"
         }
       ]
@@ -28,12 +28,12 @@
       "information": [
         {
           "label": "Experience Of",
-          "icon": "/images/icons/flag.svg",
+          "icon": "fluent:flag-24-regular",
           "data": "4 Years"
         },
         {
           "label": "From",
-          "icon": "/images/icons/location.svg",
+          "icon": "fluent:location-24-regular",
           "data": "Roing, Arunachal"
         }
       ]
@@ -45,10 +45,10 @@
       "weight": "4",
       "bio": "Iho comes from the little known Idu Mishmi tribe of eastern Arunachal Pradesh one of the smallest linguistc groups of the sub-continent. He too wears many a hat, from guiding rafting and kayaking groups, trekking groups to overseeing our mobile camping units to giveing vehicular backup. He is a born champion of the outdoors, quick thinking and always on his feet. If there is a problem,be it mechanical, electricals of the vehicles or camp, or roadblocks that the vagaries of nature presents, he is the to go to man. Over the years Iho has taken a lot of initiating when it comes to conservation and has spearheaded awareness for the same in his part of the world. He has many an award when it comes to conservation, the latest among which was the Wildlife service award by Sanctuary Asia.",
       "information": [
-        { "label": "Experience Of", "icon": "/images/icons/flag.svg", "data": "5+ Years" },
+        { "label": "Experience Of", "icon": "fluent:flag-24-regular", "data": "5+ Years" },
         {
           "label": "From",
-          "icon": "/images/icons/location.svg",
+          "icon": "fluent:location-24-regular",
           "data": "Roing, Arunachal"
         }
       ]
@@ -62,12 +62,12 @@
       "information": [
         {
           "label": "Experience Of",
-          "icon": "/images/icons/flag.svg",
+          "icon": "fluent:flag-24-regular",
           "data": "20+ Years"
         },
         {
           "label": "From",
-          "icon": "/images/icons/location.svg",
+          "icon": "fluent:location-24-regular",
           "data": "Dibrugarh, Assam"
         }
       ]
@@ -79,11 +79,11 @@
       "weight": "5",
       "bio": "Coming from Anini lying in the remotest corner of this country Joho is a force of nature. Many a client will tell you that when joho walks in the forests not a leaf moves. His undestanding of his surroundings, his ability to make things seemingly out of nothing , his hawk eyes that can follow tracks in the wildest of setting, yes one can spend a whole tour just observing and being amazed by this wonderful soul.",
       "information": [
-        { "label": "Experience Of", "icon": "/images/icons/flag.svg", "data": "5+ Years" },
+        { "label": "Experience Of", "icon": "fluent:flag-24-regular", "data": "5+ Years" },
 
         {
           "label": "From",
-          "icon": "/images/icons/location.svg",
+          "icon": "fluent:location-24-regular",
           "data": "Anini, Arunachal"
         }
       ]
@@ -96,8 +96,8 @@
       "bio": "When not writing Haiku, Manjit aka 'Batmanjit' is an integral spoke in the north by northeast wheel. Effortlessly wearing many hats, from leading a motorcycle tour, to handling a trekking group to giving much needed backup on a cycle tour. He is not all muscle, Manjit adds to the overall prospective and understanding of the region as well as life in general with his deep insights, knowledge and wonderful sense of humour.",
 
       "information": [
-        { "label": "Experience Of", "icon": "/images/icons/flag.svg", "data": "5+ Years" },
-        { "label": "From", "icon": "/images/icons/location.svg", "data": "Tezpur, Assam" }
+        { "label": "Experience Of", "icon": "fluent:flag-24-regular", "data": "5+ Years" },
+        { "label": "From", "icon": "fluent:location-24-regular", "data": "Tezpur, Assam" }
       ]
     },
     {
@@ -108,10 +108,10 @@
       "bio": "Since the age of '8' KD has been helping run his home. By the time he reached the age of 25 he has already worked as a vegetable grocer, a police jeep driver, a stone mason, a welder, a carpenter and now as a guide among other things. Kd, even though quite young is a bank of real world knowledge and experience. One would typically see him always on his feet doing something or the other, he is not one to sit idle. Being from the Khasi tribe of Meghalaya, he does bring in a lot of depth to our Meghalaya trips in particular, however you would come across him in most of our tours across the region playing some part or the other.",
 
       "information": [
-        { "label": "Experience Of", "icon": "/images/icons/flag.svg", "data": "3+ Years" },
+        { "label": "Experience Of", "icon": "fluent:flag-24-regular", "data": "3+ Years" },
         {
           "label": "From",
-          "icon": "/images/icons/location.svg",
+          "icon": "fluent:location-24-regular",
           "data": "Shillong, Meghalaya"
         }
       ]
@@ -125,12 +125,12 @@
       "information": [
         {
           "label": "Experience Of",
-          "icon": "/images/icons/flag.svg",
+          "icon": "fluent:flag-24-regular",
           "data": "16+ Years"
         },
         {
           "label": "From",
-          "icon": "/images/icons/location.svg",
+          "icon": "fluent:location-24-regular",
           "data": "Tezpur, Assam"
         }
       ]
@@ -144,12 +144,12 @@
       "information": [
         {
           "label": "Experience Of",
-          "icon": "/images/icons/flag.svg",
+          "icon": "fluent:flag-24-regular",
           "data": "12+ Years"
         },
         {
           "label": "From",
-          "icon": "/images/icons/location.svg",
+          "icon": "fluent:location-24-regular",
           "data": "Bangalore"
         }
       ]

@@ -9,7 +9,7 @@ export default function CTA() {
   return (
     <>
       <section
-        className="cta text-center text-lg-left overflow-hidden"
+        className="cta h-100 text-center text-lg-left overflow-hidden"
         style={{
           backgroundImage: `url(${bg.src})`,
           width: "100%",

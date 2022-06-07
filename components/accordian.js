@@ -1,7 +1,6 @@
 import React, {useContext} from "react";
 import { Accordion, Card, AccordionContext, useAccordionButton  } from "react-bootstrap";
-import Regiondata from "../data/regionaccordian.json";
-import { FaPlus, FaMinus } from 'react-icons/fa';
+import Regiondata from "../data/regionaccordian.json"; 
 
 // function ContextAwareToggle({ children, eventKey, callback }) {
 // const { activeEventKey } = useContext(AccordionContext);

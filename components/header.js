@@ -42,38 +42,21 @@ export default function Header() {
                   <a className="nav-link"> Tours </a>
                 </Link>
               </li>   
-              {/* <NavDropdown title="TOURS" id="basic-nav-dropdown">
-                <NavDropdown.Item>
-                  <Link href="/tours/active">
-                    <a class="dropdown-item  text-uppercase">Active</a>
-                  </Link>
-                </NavDropdown.Item>
-                <NavDropdown.Item>
-                  <Link href="/tours/leisure">
-                    <a class="dropdown-item  text-uppercase">Leisure</a>
-                  </Link>
-                </NavDropdown.Item>
-                <NavDropdown.Item>
-                  <Link href="/tours/culture">
-                    <a class="dropdown-item  text-uppercase">Culture</a>
-                  </Link>
-                </NavDropdown.Item>
-              </NavDropdown> */}
 
               <NavDropdown title="ABOUT" id="basic-nav-dropdown">
                 <NavDropdown.Item>
                   <Link href="/about-us">
-                    <a class="dropdown-item  text-uppercase">About Us</a>
+                    <a className="dropdown-item  text-uppercase">About Us</a>
                   </Link>
                 </NavDropdown.Item>
                 <NavDropdown.Item>
                   <Link href="/about-us/team">
-                    <a class="dropdown-item  text-uppercase">Team</a>
+                    <a className="dropdown-item  text-uppercase">Team</a>
                   </Link>
                 </NavDropdown.Item>
                 <NavDropdown.Item>
                   <Link href="/about-us/insights">
-                    <a class="dropdown-item  text-uppercase">Insights</a>
+                    <a className="dropdown-item  text-uppercase">Insights</a>
                   </Link>
                 </NavDropdown.Item>
               </NavDropdown>

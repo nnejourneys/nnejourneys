@@ -1,6 +1,6 @@
 import React, { useState } from "react"; 
 import Image from "next/image";
-import { ImArrowRight2, ImArrowLeft2 } from "react-icons/im";
+import { Icon } from '@iconify/react';
 import Slider from "react-slick";
 import Slides from "../data/heroslider.json";
 
@@ -9,7 +9,7 @@ export default function HeroSliderMain() {
     const { onClick } = props;
     return (
       <button className="prevArrow" onClick={onClick}>
-        <ImArrowLeft2 size={30} />
+        <Icon icon="bi:arrow-left" width="30" height="30"/>
       </button>
     );
   }
@@ -18,7 +18,7 @@ export default function HeroSliderMain() {
     const { onClick } = props;
     return (
       <button className="nextArrow" onClick={onClick}>
-        <ImArrowRight2 size={30} />
+        <Icon icon="bi:arrow-right" width="30" height="30"/>
       </button>
     );
   }

@@ -2,19 +2,14 @@ import React from "react";
 import Slider from "react-slick";
 import Image from "next/image"; 
 import Testimonialdata from "../data/testimonials.json";
+import { Icon } from '@iconify/react';
 
 export default function Testimonials() {
   function SampleNextArrow(props) {
     const { onClick } = props;
     return (
       <button className="prevArrow" onClick={onClick}> 
-        <Image
-          className="px-2"
-          src="/images/icons/arrow-left.svg"
-          width={40}
-          height={40}
-          alt=""
-        />
+      <Icon icon="bi:arrow-left" width="30" height="30"/>
       </button>
     );
   }
@@ -23,13 +18,7 @@ export default function Testimonials() {
     const { onClick } = props;
     return (
       <button className="nextArrow" onClick={onClick}> 
-        <Image
-          className="px-2"
-          src="/images/icons/arrow-right.svg"
-          width={40}
-          height={40}
-          alt=""
-        />
+      <Icon icon="bi:arrow-right" width="30" height="30"/>
       </button>
     );
   }
@@ -68,15 +57,8 @@ export default function Testimonials() {
                 <Slider {...settings}>
                   {Testimonialdata.testimonials.map((item, index) => (
                     <div key={index}>
-                      <i className="testimonial-icon ">
-                        {/* <ImQuotesLeft size={40} /> */}
-                        <Image
-                          className="mt-1"
-                          src="/images/icons/quote-6.svg"
-                          width={40}
-                          height={40}
-                          alt=""
-                        />
+                      <i className="testimonial-icon">
+                        <Icon className="mb-2" icon="icomoon-free:quotes-left" width="50" height="50" />
                       </i>
                       <p className="text-dark">{item.text}</p>
                       <h4 className="font-weight-normal">{item.name}</h4>
