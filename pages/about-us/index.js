@@ -1,6 +1,7 @@
 import React from "react";
 import Image from 'next/image'
 import Responsibility from "../../data/resposibility.json";
+import { Icon } from '@iconify/react';
 
 
 export default function Aboutus() {
@@ -93,14 +94,8 @@ export default function Aboutus() {
             </div> 
             <div className="row">
             {Responsibility.responsibility.map((item, index) => (
-            <div className=" col-3 card border-0" key={index} >
-                <Image
-                    className="px-1 pt-2"
-                    src={item.icon}
-                    width={120}
-                    height={80}
-                    alt=""
-                  />
+            <div className="col-md-6 col-lg-3 card border-0" key={index} >
+              <Icon className="mx-auto" icon={item.icon} width="80" height="80" />
                 <div className="card-body">
                   <h5 className="card-title text-center">{item.title}</h5>  
                 </div>

@@ -2,6 +2,7 @@ import React from "react";
 import ContactForm from "../components/contact-form";
 import Contactdata from "../data/contact.json";
 import Image from "next/image";
+import { Icon } from '@iconify/react';
 
 export default function Contact() {
   return (
@@ -16,12 +17,7 @@ export default function Contact() {
                 {Contactdata.contacts.phone.map((item, index) => (
                   <li className="d-flex mb-30" key={index}>
                     <div className="round-icon me-3">
-                      <Image
-                        src="/images/icons/mobile.svg"
-                        width={30}
-                        height={30}
-                        alt=""
-                      />
+                    <Icon className="mb-2" icon="ph:device-mobile" width="40" height="40"/>
                     </div>
                     <div className="align-self-center font-primary">
                       <div >
@@ -33,12 +29,7 @@ export default function Contact() {
 
                 <li className="d-flex mb-30">
                   <div className="round-icon me-3">
-                    <Image
-                      src="/images/icons/email.svg"
-                      width={30}
-                      height={30}
-                      alt=""
-                    />
+                  <Icon className="mb-2"  icon="ph:envelope" width="40" height="40"/>
                   </div>
                   <div className="align-self-center font-primary">
                     <div> <a className="text-dark" href={Contactdata.email.link}>{Contactdata.email.name}</a></div>
@@ -46,12 +37,7 @@ export default function Contact() {
                 </li>
                 <li className="d-flex mb-30">
                   <div className="round-icon me-3">
-                    <Image
-                      src="/images/icons/map.svg"
-                      width={30}
-                      height={30}
-                      alt=""
-                    />
+                  <Icon className="mb-2"  icon="ph:map-trifold" width="40" height="40"/>   
                   </div>
                   <div className="align-self-center font-primary">
                     <div className="text-dark"> {Contactdata.address.name}</div>

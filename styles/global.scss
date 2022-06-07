@@ -127,7 +127,7 @@ body {
 }
 
 .about{
-    height: 60vh;
+    height: 80vh;
 }
 .section-bg{
     z-index: 0;
@@ -146,4 +146,11 @@ body {
 textarea{
   height: 8rem !important;
   resize: none !important;
+}
+
+.icon{
+  color: #fff;
+  &:hover{
+    color: var(--nne-font-primary);
+  }
 }

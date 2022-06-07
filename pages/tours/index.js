@@ -191,6 +191,7 @@ export async function getStaticProps() {
     'slug',
     'subtitle',
     'days',
+    'draft',
     // 'description',
     // 'tourdesc',
     'bg_image',

@@ -11,11 +11,11 @@ export default function Insights() {
         <title>{CMS_NAME}</title>
         {/* <meta property="og:image" content={tour.ogImage.url} /> */}
       </Head>
-      <section class="section">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-lg-12">
-              <div class="post-content">
+      <section className="section">
+        <div className="container">
+          <div className="row justify-content-center">
+            <div className="col-lg-12">
+              <div className="post-content">
                 <h2 id="northeast-india-unravelled">
                   Northeast India Unravelled
                 </h2>
@@ -53,12 +53,12 @@ export default function Insights() {
             </div>
 
             {Insightsdata.insights.map((item, index) => (
-              <div class="col-lg-4 col-sm-6 mb-4" key={index}>
-                <div class="card text-center">
-                  <h5 class="card-title py-3">{item.title}</h5>
-                  <div class="card-img-wrapper">
+              <div className="col-lg-4 col-sm-6 mb-4" key={index}>
+                <div className="card text-center">
+                  <h5 className="card-title py-3">{item.title}</h5>
+                  <div className="card-img-wrapper">
                     <Image
-                      class="card-img-top rounded-0"
+                      className="card-img-top rounded-0"
                       src={item.image}
                       alt="service-image"
                       layout="responsive"
@@ -66,8 +66,8 @@ export default function Insights() {
                       height="160"
                     />
                   </div>
-                  <div class="card-body p-0 insights-body">
-                    <p class="card-text insights-text mx-2 mb-0 py-3">{item.text}</p>
+                  <div className="card-body p-0 insights-body">
+                    <p className="card-text insights-text mx-2 mb-0 py-3">{item.text}</p>
                   </div>
                 </div>
               </div>

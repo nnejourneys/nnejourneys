@@ -11,6 +11,8 @@ import markdownToHtml from "../../lib/markdownToHtml";
 import { Container, Tabs, Tab } from "react-bootstrap";
 import EnquiryForm from "../../components/enquiry-form";
 import { SRLWrapper } from "simple-react-lightbox";
+import { Icon } from "@iconify/react";
+import TourItem from "../../components/tours/tour-item";
 // import TourHero from "../../components/tours/tour-hero";
 
 export default function Tour({ tour }) {
@@ -33,13 +35,12 @@ export default function Tour({ tour }) {
 
   const router = useRouter();
   if (!router.isFallback && !tour?.slug) {
-    return(
-    <>
-    {tourSlug}
+    return (
+      <>
+        {tourSlug}
         <ErrorPage statusCode={404} />
-    
-    </>
-    ) ;
+      </>
+    );
   }
   return (
     <>
@@ -53,11 +54,16 @@ export default function Tour({ tour }) {
                 {tour.title} | Next.js Blog Example with {CMS_NAME}
               </title>
               {/* <meta property="og:image" content={tour.ogImage.url} /> */}
-            </Head> 
-            <TourHeader title={tour.title} subtitle={tour.subtitle} days={tour.days} image={tour.bg_image} />
+            </Head>
+            <TourHeader
+              title={tour.title}
+              subtitle={tour.subtitle}
+              days={tour.days}
+              image={tour.bg_image}
+            />
             <Container>
               <div className="row mt-5">
-                <div className="col-md-12 text-center"> 
+                <div className="col-md-12 text-center">
                   <h6 className="my-5">{tour.description}</h6>
                 </div>
               </div>
@@ -65,17 +71,11 @@ export default function Tour({ tour }) {
                 <aside className="col-lg-4">
                   <div className="p-3 rounded border mb-50">
                     <h4 className="text-color mb-20">Tour Overview</h4>
-                    <ul className="pl-0 mb-10">
+                    <ul className="pl-0 m-1">
                       {tour.overview.map((item, index) => (
                         <li className="py-2 border-bottom-not-last" key={index}>
                           <p className="d-inline-block font-primary m-0">
-                            <Image
-                              className="px-1 pt-2"
-                              src={item.icon}
-                              width={20}
-                              height={20}
-                              alt=""
-                            />
+                            <Icon className="me-2 mb-1" icon={item.icon} />
                             {item.label}
                           </p>
                           <span className="font-weight-normal text-dark float-end">
@@ -88,63 +88,69 @@ export default function Tour({ tour }) {
                 </aside>
 
                 <div className="col-lg-8 ">
-                  <p className="tourdesc"> {tour.tourdesc} </p>
+                <TourBody className="mb-5" content={tour.content} />
+                  {/* <p className="tourdesc"> {tour.tourdesc} </p> */}
                 </div>
-              </div> 
+              </div>
               <Tabs
                 defaultActiveKey="overview"
                 id="uncontrolled-tab-example"
                 className="mb-5"
               >
                 <Tab eventKey="overview" title="Overview">
-                  <h5>Overview</h5>
+                  <h5 className="mb-5">Overview</h5>
                   <ul className="pl-0 mb-10">
-                    {tour.over.map((item, index) => (
+                    {tour.overs.map((item, index) => (
                       <li className="py-2 border-bottom-not-last" key={index}>
-                        {item}
+                        <p>
+                          <b className="text-muted">{item.l}</b>{" "}
+                          <Icon className="mb-1" icon="bi:chevron-right" />{" "}
+                          {item.d}
+                        </p>
                       </li>
                     ))}
                   </ul>
                 </Tab>
+
                 <Tab eventKey="highlights" title="Highlights">
-                  <h5>Highlights</h5>
+                  <h5 className="mb-5">Highlights</h5>
                   <ul className="pl-0 mb-10">
                     {tour.highlights.map((item, index) => (
                       <li className="py-2 border-bottom-not-last" key={index}>
-                        {item}
+                        <Icon className="mb-1" icon="bi:chevron-right" /> {item}
                       </li>
                     ))}
                   </ul>
                 </Tab>
                 <Tab eventKey="inclusions" title="Inclusions">
-                  <h5>Inclusions</h5>
+                  <h5 className="mb-5">Inclusions</h5>
                   <ul className="pl-0 mb-10">
                     {tour.inclusions.map((item, index) => (
                       <li className="py-2 border-bottom-not-last" key={index}>
-                        {item}
+                        <Icon className="mb-1" icon="bi:chevron-right" /> {item}
                       </li>
                     ))}
                   </ul>
                 </Tab>
                 <Tab eventKey="accommodation" title="Accomodation">
-                  <h5>Accomodation</h5>
+                  <h5 className="mb-5">Accomodation</h5>
                   <ul className="pl-0 mb-10">
-                    <li className="d-flex"> 
-                      <p className="fw-bolder pe-2"> Meals:</p> 
-                      <p> {tour.meals} </p> 
+                    <li className="d-flex">
+                      <p className="fw-bolder pe-2"> Meals:</p>
+                      <p> {tour.meals} </p>
                     </li>
-                    <li className="d-flex"> 
-                      <p className="fw-bolder pe-2">Accommodation:</p> 
-                      <p> {tour.accommodation} </p> 
+                    <li className="d-flex">
+                      <p className="fw-bolder pe-2">Accommodation:</p>
+                      <p> {tour.accommodation} </p>
                     </li>
-                    <li className="d-flex"> 
-                      <p className="fw-bolder pe-2">Refreshments: </p> 
+                    <li className="d-flex">
+                      <p className="fw-bolder pe-2">Refreshments: </p>
                       <p> {tour.refreshments} </p>
                     </li>
                   </ul>
                 </Tab>
                 <Tab eventKey="gallery" title="Gallery">
-                  <h5>Gallery</h5>
+                  <h5 className="mb-5">Gallery</h5>
                   <SRLWrapper options={options}>
                     <ul className="gallery">
                       {tour.galleryimages.map((item, index) => {
@@ -167,11 +173,8 @@ export default function Tour({ tour }) {
                   </SRLWrapper>
                 </Tab>
                 <Tab eventKey="enquire" title="Enquire">
-                  <h5>Enquire</h5>
+                  <h5 className="mb-5">Enquire</h5>
                   <EnquiryForm title={tour.title} />
-
-
-                  {/* /****************** */}
                 </Tab>
               </Tabs>
               <hr className="mt-5" />
@@ -185,15 +188,34 @@ export default function Tour({ tour }) {
                     </li>
                   ))}
                 </ul>
-              </div> 
+              </div>
               <div className="mt-5">
-                <p className="text-danger fst-italic"> 
+                <p className="text-danger fst-italic">
                   * Our Itineraries are quite unique hence we prefer not to put
                   it up on the site. Please write in to us for the detailed
                   itinerary and cost.
                 </p>
-              </div> 
-              <TourBody className="my-5" content={tour.content} />
+              </div>
+              {/* <TourBody className="my-5" content={tour.content} /> */}
+              <h4> Other {tour.category} Tours</h4>
+              <ul className="row my-3">
+                {tour.othertours.map((item, index) => (
+                  <li className="col-md-3" key={index}>
+                    
+                    <a href={item.link}>
+                      <Image
+                        className="img-fluid "
+                        src={item.image}
+                        alt={item.title}
+                        layout="fixed"
+                        width="300"
+                        height="200"
+                      />
+                      <h5> {item.title} </h5>
+                    </a>
+                  </li>
+                ))}
+              </ul>
             </Container>
           </article>
         </>
@@ -220,6 +242,7 @@ export async function getStaticProps({ params }) {
     "type",
     "overview",
     "over",
+    "overs",
     "highlights",
     "inclusions",
     "accommodation",
@@ -228,6 +251,7 @@ export async function getStaticProps({ params }) {
     "faq",
     "content",
     "galleryimages",
+    "othertours",
   ]);
   const content = await markdownToHtml(tour.content || "");
 

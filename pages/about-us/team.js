@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import Teammembers from "../../data/team.json";
+import { Icon } from '@iconify/react';
 
 export default function Team() {
   return (
@@ -55,15 +56,9 @@ export default function Team() {
                         <div className="py-2 px-0 pb-3">
                           <span className="fw-bold float-right">
                             {item.information.map((item, index) => (
-                              <div className="py-3 my-2 " key={index}>
-                                <p className="d-inline-block  float-start m-0">
-                                  <Image
-                                    className="px-1 pt-2"
-                                    src={item.icon}
-                                    width={20}
-                                    height={20}
-                                    alt=""
-                                  />
+                              <div className="py-3 my-2" key={index}>
+                                <p className="d-inline-block float-start m-0">
+                                <Icon className="me-2 mb-1" icon={item.icon}/>
                                   {item.label}
                                 </p>
                                 <span className="fw-bold float-end">

@@ -1,14 +1,11 @@
-/* 3. hero area */
-
 .hero-slider-item {
   height: 84vh;
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;
-  // background-size: cover;
+  background-size: cover;
   position: relative;
   z-index: 1;
-
   &.page {
     height: 46vh;
   }
@@ -49,6 +46,34 @@
 
 .hero-text{
   font-size: 1rem !important;  
+}
+
+@media (max-width: 575px) {
+  .hero-slider-item {
+    height: 40vh;
+  }
+
+  .overlay {  
+    height: 41vh; 
+  }
+
+  .hero-content { 
+    top: 60%;
+    left: 40%;
+    transform: translate(-50%, -50%); 
+  }
+
+  .hero-title{
+    font-size: 1.2rem !important;  
+  }
+  
+  .hero-subtitle{
+    font-size: 1.8rem !important;  
+  }
+  
+  .hero-text{
+    font-size: 1rem !important;  
+  }
 }
 
 
@@ -160,9 +185,7 @@
   position: absolute;
   content: "";
   left: 50%;
-  top: -30px;
-  // height: 25px;
-  // width: 25px;
+  top: -30px; 
   background: #303032;
   -webkit-transform: translateX(-50%) rotate(-45deg);
   transform: translateX(-50%) rotate(-45deg);
