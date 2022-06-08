@@ -1,0 +1,16 @@
+{
+  "contacts": {
+    "phone": [
+      { "name": "+91 99404 16065", "link": "tel:+919940416065" },
+      { "name": "+91 84861 83666", "link": "tel:+919940416065" }
+    ]
+  },
+  "email": {
+    "name": "info.northbynortheast@gmail.com",
+    "link": "mailto:info.northbynortheast@gmail.com"
+  },
+  "address": {
+    "name": "Mansiri House, Deorigaon, Tezpur, Assam, 784001",
+    "link": "Mansiri House, Deorigaon, Tezpur, Assam, 784001"
+  }
+}
