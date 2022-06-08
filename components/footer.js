@@ -18,16 +18,16 @@ export default function Footer() {
         <div className="container">
           <div className="row">
             <div className="col-lg-4 col-md-4">
-              <div className="mb-5 mb-md-0 text-md-left">
+              <div className="mb-5 text-md-left">
                 <Image
                   className="mt-1 mb-5"
                   src="/images/logo-footer.jpg"
-                  layout='responsive'
+                  layout='intrinsic'
                   alt="logo"
                   width={177}
                   height={200}
                 />
-                <p className="text-white mb-30">{Footerdata.footer.content}
+                <p className="text-white mt-5 mb-30">{Footerdata.footer.content}
                  
                 </p>
 
