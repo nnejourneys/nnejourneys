@@ -1,7 +1,7 @@
 import React from "react";
 import ContactForm from "../components/contact-form";
 import Contactdata from "../data/contact.json";
-import { CMS_NAME } from "../../lib/constants";
+import { CMS_NAME } from "../lib/constants";
 import Head from "next/head";
 import { Icon } from '@iconify/react';
 
