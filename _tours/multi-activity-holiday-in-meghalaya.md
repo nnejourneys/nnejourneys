@@ -12,6 +12,7 @@ category: "active"
 cat: "Moderate"
 tags: ["meghalaya", "multi-activity"]
 weight: 14
+touricon: "map:rafting"
 
 # overview
 overview:
@@ -138,8 +139,8 @@ This particular Multi-activity tour takes us on bicycles and on foot across the 
 
 The cycling phase takes you across the beautiful landscape, whereas the hiking days take you through some of the best trails of the region, amongst which the famous living root bridges trail. Enroute we will picnic lunch in beautiful locations and swim in prestine pools while visitng waterfalls, caves and local archery competitions. During this multi activity tour of Meghalaya tour you will stay in quaint homestays, off the grid farms and small family run establishments. The tour will give you indepth and personal prospective of this land and its wonderful people.
 
-##### Other Multi-activity Tours
+<!-- ##### Other Multi-activity Tours
 ---
 
 ###### [**Assam** (Tea, Wildlife & Culture)](/multiactivity/multiactivity-holiday-assam/) 
-###### [**Eastern Arunachal Pradesh** (Hike, Bike, Raft & Culture)](/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/)  
+###### [**Eastern Arunachal Pradesh** (Hike, Bike, Raft & Culture)](/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/)   -->

@@ -11,6 +11,7 @@ category: "leisure"
 cat: "Offbeat"
 tags: ["east-arunachal", "offbeat"]
 weight: 3
+touricon: "carbon:pedestrian-family"
 
 # overview
 overview:

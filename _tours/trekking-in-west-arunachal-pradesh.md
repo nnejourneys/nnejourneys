@@ -12,6 +12,7 @@ category: "active"
 cat: "Strenuous"
 tags: ["west-arunachal", "trekking"]
 weight: 12
+touricon: "iconoir:trekking"
 
 # overview
 overview:

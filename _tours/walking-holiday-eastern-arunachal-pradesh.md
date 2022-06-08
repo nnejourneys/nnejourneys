@@ -12,6 +12,7 @@ category: "active"
 cat: "Easy to Moderate"
 tags: ["east-arunachal", "trekking"]
 weight: 9
+touricon: "iconoir:walking"
 
 # overview
 overview:
@@ -143,7 +144,7 @@ The tour includes a series of walks across these eastern most river valleys. Thi
 
 The tour is quite flexible and can be worked out around the duration that you have in hand. Do write in to us for the details.
 
-#### Other Treks & Walks
+<!-- #### Other Treks & Walks
 ---
 
 ###### Meghalaya
@@ -161,4 +162,4 @@ The tour is quite flexible and can be worked out around the duration that you ha
 
 + [Sikkim & W Bengal (Singalila & Barsey trek)](/treks/trekking-in-sikkim-bengal/)
 
----
+--- -->

@@ -12,6 +12,7 @@ category: "active"
 cat: "Moderate"
 tags: ["east-arunachal", "multi-activity"]
 weight: 15
+touricon: "map:rafting"
 
 # overview
 overview:
@@ -141,11 +142,11 @@ This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, raft
 
 Authentic interactions, local cuisine, history and lifestyle of the tribes etc are our focus here. The cycling phase takes us across territories of six different tribes where as the hiking phase takes us away from civilization into two different and unique wildlife sanctuaries. This multi-activity tour of Eastern Arunachal Pradesh also includes rafting on the Dibang and the Lohit rivers, the easternmost tributaries of the Brahmaputra.
 
-##### Other Multi-activity Tours
+<!-- ##### Other Multi-activity Tours
 ---
 
 ###### [**Assam** (Tea, Wildlife & Culture)](/multiactivity/multiactivity-holiday-assam/) 
 ###### [**Meghalaya** (Hike, Bike, Nature & Culture)](/multiactivity/multi-activity-holiday-in-meghalaya/)  
 
-
+ -->
 

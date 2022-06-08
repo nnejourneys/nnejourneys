@@ -12,6 +12,7 @@ category: "leisure"
 cat: "Offbeat"
 tags: ["east-arunachal", "roadtrip"]
 weight: 1 
+touricon: "iconoir:car-outline"
 
 # overview
 overview:
@@ -136,7 +137,7 @@ Perched between the East Himalayan and the Indo-Burmese Biodiversity hotspots Na
 
 The entire proceedings has been designed with the pandemic in mind. Our intention is to take you far from the hustle bustle of daily life and deep into inarguably the wildest region of India.
 
-#### Other Departures
+<!-- #### Other Departures
 ---
 
 ###### March
@@ -150,6 +151,6 @@ The entire proceedings has been designed with the pandemic in mind. Our intentio
 + [**Meghalaya** | Walking (Walks in the Clouds)](/treks/walking-holiday-eastern-arunachal-pradesh/) 
   
 
----
+--- -->
 
 

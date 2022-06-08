@@ -12,6 +12,7 @@ category: "active"
 cat: "Streneuous"
 tags: ["assam", "arunachal", "nagaland", "meghalaya", "overland"]
 weight: 18
+touricon: "iconoir:motorcycle"
 
 # overview
 overview:
@@ -140,7 +141,7 @@ This particular ride takes us through the backroads of some of India’s eastern
 
 During the tour we ride through territories of tribes such as the Nyshi, Apatani, Tagin, Galo, Adi, Idu Mishmi, Digaru Mishmi, Miju Mishmi, Singpho, Khamti, Konyak, Ao, Lotha, Angami, Karbi, Dimasa, Jaintia and Khasi to name a few. Infact every single day takes us through territories of different tribes, each tribe totally different from the previous. You will ride across swathes of lush tea plantations, some of the oldest oil fields on earth, some of the greatest wildlife sanctuaries of the sub-continent, the largest river island on earth, quaint and remote villages, orange orchards, unending forests, view some of the tallest waterfalls and visit some of the deepest caves of Asia among others. The loop starts and ends at Guwahati, which is the capital of Assam and the largest city among the seven states. The ride itself takes us through varying terrain, road conditions and vegetation, every single day bringing totally new and unique settings.
 
-##### Other Motorcycle & Overland Tours
+<!-- ##### Other Motorcycle & Overland Tours
 
 ###### [**Meghalaya** (Backroads of Meghalaya)](/motorcycle/trans-meghalaya-motorcycle-overland/) 
-###### [**Western Arunachal Pradesh** (Highroads of the Monyul)](/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/)  
+###### [**Western Arunachal Pradesh** (Highroads of the Monyul)](/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/)   -->

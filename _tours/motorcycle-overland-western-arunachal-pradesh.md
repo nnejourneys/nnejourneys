@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "MOTORCYCLE & OVERLAND TOUR OF WESTERN ARUNACHAL PRADESH"
+title: "MOTORCYCLE TOUR OF WESTERN ARUNACHAL PRADESH"
 subtitle: "High roads of the Monyul"
 days: "8-12 Days"
 description : "Motorcycle & Overland Tour of Western Arunachal Pradesh. This tour takes you across the tea fields of Assam to the high roads of western Arunachal Pradesh"
@@ -12,6 +12,7 @@ category: "active"
 cat: "Moderate to Streneous"
 tags: ["west-arunachal", "overland"]
 weight: 17
+touricon: "iconoir:motorcycle"
 
 # information
 overview:

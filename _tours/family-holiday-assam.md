@@ -12,6 +12,7 @@ category: "leisure"
 cat: "Comfort"
 tags: ["assam", "comfort"] 
 weight: 1 
+touricon: "carbon:pedestrian-family"
 
 overview:
   - label : STATES
@@ -131,8 +132,8 @@ The setting for this family holiday is the lush Brahmaputra valley of Assam. Thi
 
 This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. This trips can be guided, unguided , driver driven or selfdriven depending on your preference and comfort.
 
-##### Other Family Tours
+<!-- ##### Other Family Tours
 ---
 
 ###### [**Meghalaya**(Natures Amusement Park)](/family/family-holiday-in-meghalaya/)   
-###### [**Eastern Arunachal Pradesh** ( Far Eastern Delights)](/family/family-holiday-eastern-arunachal-pradesh/) 
+###### [**Eastern Arunachal Pradesh** ( Far Eastern Delights)](/family/family-holiday-eastern-arunachal-pradesh/)  -->

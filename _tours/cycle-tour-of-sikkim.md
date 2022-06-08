@@ -12,6 +12,7 @@ category: "active"
 cat: "Strenuous"
 tags: ["sikkim","cycling"]
 weight: 6
+touricon: "iconoir:cycling"
 
 # overview
 overview:

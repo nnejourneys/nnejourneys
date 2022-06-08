@@ -12,6 +12,7 @@ cat: "Easy"
 type : "active"
 tags: ["meghalaya", "trekking"]
 weight: 8
+touricon: "iconoir:walking"
 
 overview:
 
@@ -138,7 +139,7 @@ The state is divided into the Garo, Khasi and Jaintia hills, however on this tou
 
 This tour includes multiple day walks to some of the most beautiful trails and interesting locations of the region.
 
-#### Other Departures
+<!-- #### Other Departures
 ---
 
 ###### March
@@ -149,4 +150,4 @@ This tour includes multiple day walks to some of the most beautiful trails and i
 ---
 ###### April
 
-+ [Arunachal Pradesh | Roadtrip (The Far Eastern Odyssey)](/departures/the-eastern-odyssey/) 
++ [Arunachal Pradesh | Roadtrip (The Far Eastern Odyssey)](/departures/the-eastern-odyssey/)  -->

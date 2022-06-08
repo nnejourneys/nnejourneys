@@ -12,6 +12,7 @@ category: "leisure"
 cat: "Comfort"
 tags: ["meghalaya", "comfort"]
 weight: 3
+touricon: "carbon:pedestrian-family"
 
 # overview
 overview:
@@ -136,9 +137,9 @@ On this tour of Meghalaya you will be travelling through the west Khasi and neig
 
 This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. This trip can be driver driven or selfdriven depending on your preference and comfort.
 
-
+<!-- 
 ##### Other Family Tours
 ---
 
 ###### [**Assam**  ( Jewels of the Brahmaputra )](/family/assam-family-holiday/)  
-###### [**Eastern Arunachal Pradesh** ( Far Eastern Delights )](/family/family-holiday-eastern-arunachal-pradesh/) 
+###### [**Eastern Arunachal Pradesh** ( Far Eastern Delights )](/family/family-holiday-eastern-arunachal-pradesh/)  -->

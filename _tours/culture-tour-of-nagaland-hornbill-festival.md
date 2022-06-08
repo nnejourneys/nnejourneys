@@ -12,6 +12,7 @@ category: "culture"
 cat: "December"
 tags: ["nagaland", "assam"]
 weight: 3
+touricon: "iconoir:church-alt"
 
 # overview
 overview:
@@ -133,10 +134,10 @@ This tour takes you to western Nagaland and central Assam.In Nagaland we get dee
  Meanwhile in Assam we visit the Kaziranga National Park. Famed as a haven for the one-horned rhinoceros, one of India’s great wildlife emblems, Kaziranga National Park encompasses grasslands, wetlands and forests for about 60km on the south side of the Brahmaputra River. Its 2400-plus rhinos comprise two-thirds of the world's population and you're highly likely to see some on any safari in the park (usually grazing peacefully). You'll probably also spot some of the park's 1100 elephants, and if you're very lucky, a tiger (over 100 live here). Also commonly seen are two other rare large mammals: the wild water buffalo and eastern swamp deer. Kaziranga is one of a handful of Wildlife parks that conducts Elephant back safaris, Jeep Safari's as well as boat safari's. 
  
 
-#### Other Ethno-Cultural Tours
+<!-- #### Other Ethno-Cultural Tours
 
 ---
 
 ###### [**Arunachal Pradesh** (Tribes of Arunachal)](/culture/culture-tour-arunachal-pradesh/) 
 ###### [**Eastern Arunachal Pradesh** (Theravada & Animist Lands)](/culture/culture-tour-eastern-arunachal-pradesh/)  
-###### [**Arunachal Pradesh & Assam** (Monyul & The Brahmaputra)](/culture/culture-tour-western-arunachal-pradesh/) 
+###### [**Arunachal Pradesh & Assam** (Monyul & The Brahmaputra)](/culture/culture-tour-western-arunachal-pradesh/)  -->

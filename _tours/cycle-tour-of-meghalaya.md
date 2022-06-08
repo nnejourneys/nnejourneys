@@ -12,7 +12,7 @@ category: "active"
 cat: "Moderate to Strenuous"
 tags: ["meghalaya", "cycling"]
 weight: 3
-
+touricon: "iconoir:cycling"
 
 # overview
 overview:

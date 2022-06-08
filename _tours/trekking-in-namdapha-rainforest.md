@@ -12,6 +12,7 @@ cat: "Easy to Moderate"
 type : "active"
 tags: ["trekking", "east-arunachal"]
 weight: 10
+touricon: "iconoir:trekking"
 
 # overview
 overview:

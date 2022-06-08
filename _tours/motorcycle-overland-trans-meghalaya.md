@@ -12,6 +12,7 @@ category: "active"
 cat: "Moderate"
 tags: ["meghalaya", "overland"]
 weight: 16
+touricon: "iconoir:motorcycle"
 
 # overview
 overview:

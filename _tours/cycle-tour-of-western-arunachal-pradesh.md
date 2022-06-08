@@ -12,6 +12,7 @@ category: "active"
 cat: "Strenuous"
 tags: ["west-arunachal", "cycling"]
 weight: 7
+touricon: "iconoir:cycling"
 
 # overview
 overview:

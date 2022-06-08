@@ -12,6 +12,7 @@ category: "active"
 cat: "Easy"
 tags: ["assam", "multi-activity"]
 weight: 13
+touricon: "map:rafting"
 
 # overview
 overview:
@@ -132,9 +133,9 @@ This multi-activity tour takes us to the Brahmaputra valley of Assam. A lush str
 
 On this tour we will indulge in short day cycling and hiking forays. Explore the culture and cuisine of this land, embark on wildlife safari’s, live in and learn about life in a typical Assamese Tea Plantation, spot the endangered River Dolphins of the Brahmaputra, cycle around the largest river island of the world and much more. 
 
-##### Other Multi-activity Tours
+<!-- ##### Other Multi-activity Tours
 
 ---
 
 ###### [**Eastern Arunachal Pradesh** (Hike, Bike, Raft & Culture)](/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/) 
-###### [**Meghalaya** (Hike, Bike, Nature & Culture)](/multiactivity/multi-activity-holiday-in-meghalaya/)  
+###### [**Meghalaya** (Hike, Bike, Nature & Culture)](/multiactivity/multi-activity-holiday-in-meghalaya/)   -->

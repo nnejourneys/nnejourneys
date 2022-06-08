@@ -12,6 +12,7 @@ category: "active"
 cat: "Easy to Moderate"
 tags: ["assam", "cycling"]
 weight: 1
+touricon: "iconoir:cycling"
  
 overview:
   - label : STATES

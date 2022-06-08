@@ -12,6 +12,7 @@ category: "leisure"
 cat: "Comfort"
 tags: ["assam", "wildlife"]
 weight: 3
+touricon: "iconoir:glasses"
 
 # overview
 overview:

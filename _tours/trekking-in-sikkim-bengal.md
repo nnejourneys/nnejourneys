@@ -13,6 +13,7 @@ category: "active"
 cat: "Strenuous"
 tags: ["sikkim", "west-bengal", "trekking"]
 weight: 11
+touricon: "iconoir:trekking"
 
 # overview
 overview:
