@@ -13,6 +13,7 @@ export default function Header() {
               <Image
                 className="img-fluid"
                 src="/images/logo.png"
+                layout='responsive'
                 width={100}
                 height={60}
                 alt="North by Northeast Journeys"
@@ -24,14 +25,7 @@ export default function Header() {
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse className="justify-content-end" id="navbarScroll">
           <Nav className="mx-5">
-            <ul className="navbar-nav">
-              {/* {Menuitems.menu.mainmenu.map((item, index) => (
-              <li className="nav-item text-uppercase" key={index}> 
-                  <Link href={item.URL}>
-                    <a className="nav-link">{item.name}</a>
-                  </Link> 
-              </li>
-            ))}  */}
+            <ul className="navbar-nav"> 
               <li className="nav-item text-uppercase">
                 <Link href="/">
                   <a className="nav-link"> Home</a>

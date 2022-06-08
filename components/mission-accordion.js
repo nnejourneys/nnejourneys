@@ -19,9 +19,11 @@ export default function MissionAccordion() {
             </div>
 
             <div className="col-lg-6 align-self-end">
-              <img
-                src="/images/about/Map%20of%20northeast%20India.jpg"
+              <Image
+                src="/images/map-of-northeast-india.jpg"
                 alt="chart"
+                width={300}
+                height={340}
                 className="img-fluid w-100"
               />
             </div>

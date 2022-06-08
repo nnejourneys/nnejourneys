@@ -22,6 +22,7 @@ export default function Footer() {
                 <Image
                   className="mt-1 mb-5"
                   src="/images/logo-footer.jpg"
+                  layout='responsive'
                   alt="logo"
                   width={177}
                   height={200}
