@@ -5,8 +5,6 @@ import About from "../components/about";
 import MissionAccordion from "../components/mission-accordion";
 import CTA from "../components/cta";
 import Testimonials from "../components/testimonials";
-import HeroSlider from "../components/hero-slider-page";
-import Accordian from "../components/accordian";
 import TourTypes from "../components/tour-types";
 
 export default function Index({ allPosts }) {

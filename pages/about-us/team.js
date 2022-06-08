@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Head from "next/head";
 import Image from "next/image";
 import Teammembers from "../../data/team.json";
 import { Icon } from '@iconify/react';
@@ -6,6 +7,10 @@ import { Icon } from '@iconify/react';
 export default function Team() {
   return (
     <>
+      <Head>
+        <title>{CMS_NAME} | Team</title>
+        {/* <meta property="og:image" content={tour.ogImage.url} /> */}
+      </Head>
       <section className="section">
         <div className="container">
           <div className="row justify-content-center">

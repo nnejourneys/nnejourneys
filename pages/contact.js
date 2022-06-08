@@ -2,11 +2,16 @@ import React from "react";
 import ContactForm from "../components/contact-form";
 import Contactdata from "../data/contact.json";
 import Image from "next/image";
+import Head from "next/head";
 import { Icon } from '@iconify/react';
 
 export default function Contact() {
   return (
     <>
+      <Head>
+        <title>{CMS_NAME} | Contact</title>
+        {/* <meta property="og:image" content={tour.ogImage.url} /> */}
+      </Head>
       <section class="section">
         <div class="container">
           <div class="row">

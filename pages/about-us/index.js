@@ -1,13 +1,17 @@
 import React from "react";
-import Image from 'next/image'
+import Head from "next/head";
+import Image from "next/image";
 import Responsibility from "../../data/resposibility.json";
-import { Icon } from '@iconify/react';
+import { Icon } from "@iconify/react";
 
-
-export default function Aboutus() { 
+export default function Aboutus() {
   return (
     <>
-       <section className="section">
+      <Head>
+        <title>{CMS_NAME} | About Us</title>
+        {/* <meta property="og:image" content={tour.ogImage.url} /> */}
+      </Head>
+      <section className="section">
         <div className="container">
           <div className="row">
             <div className="col-lg-7 order-2 order-lg-1">
@@ -47,13 +51,11 @@ export default function Aboutus() {
             </div>
           </div>
         </div>
-      </section> 
+      </section>
       <section>
         <div className="container">
-          <div className="row rounded bg-dark"> 
-            <div
-              className="col-lg-5 rounded-left ceo-image ps-0" 
-            >
+          <div className="row rounded bg-dark">
+            <div className="col-lg-5 rounded-left ceo-image ps-0">
               <Image
                 src="/images/ceo.jpg"
                 alt=""
@@ -62,7 +64,7 @@ export default function Aboutus() {
                 layout="responsive"
               />
             </div>
-            <div className="col-lg-7"> 
+            <div className="col-lg-7">
               <div className="p-5">
                 <h2 className="section-title section-title-border-half-white text-white">
                   Our Vision for our Region
@@ -83,24 +85,31 @@ export default function Aboutus() {
             </div>
           </div>
         </div>
-      </section> 
+      </section>
       <section className="section">
         <div className="container">
           <div className="row">
             <div className="col-lg-12">
               <h5 className="section-title-sm">Our Responsibility Quotient</h5>
-              <h2 className="section-title section-title-border-half">Why Us ?</h2>
-            </div> 
+              <h2 className="section-title section-title-border-half">
+                Why Us ?
+              </h2>
+            </div>
             <div className="row">
-            {Responsibility.responsibility.map((item, index) => (
-            <div className="col-md-6 col-lg-3 card border-0" key={index} >
-              <Icon className="mx-auto" icon={item.icon} width="80" height="80" />
-                <div className="card-body">
-                  <h5 className="card-title text-center">{item.title}</h5>  
+              {Responsibility.responsibility.map((item, index) => (
+                <div className="col-md-6 col-lg-3 card border-0" key={index}>
+                  <Icon
+                    className="mx-auto"
+                    icon={item.icon}
+                    width="80"
+                    height="80"
+                  />
+                  <div className="card-body">
+                    <h5 className="card-title text-center">{item.title}</h5>
+                  </div>
                 </div>
-              </div>
-                ))}
-            </div> 
+              ))}
+            </div>
 
             <div className="col-lg-12">
               <p className="text-dark mb-40">
@@ -127,16 +136,7 @@ export default function Aboutus() {
                 follow all the age old ways of &lsquo;Leave no trace&rsquo;
                 travel.
               </p>
-             
             </div>
-
-
-
-
-       
-
-
-
           </div>
         </div>
       </section>

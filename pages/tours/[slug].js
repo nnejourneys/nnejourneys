@@ -48,10 +48,10 @@ export default function Tour({ tour }) {
         <TourTitle>Loading…</TourTitle>
       ) : (
         <>
-          <article className="mb-32">
+          <article className="mb-5">
             <Head>
               <title>
-                {tour.title} | Next.js Blog Example with {CMS_NAME}
+                {tour.title} | {CMS_NAME}
               </title>
               {/* <meta property="og:image" content={tour.ogImage.url} /> */}
             </Head>
@@ -99,9 +99,9 @@ export default function Tour({ tour }) {
                   <h5 className="mb-5">Overview</h5>
                   <ul className="pl-0 mb-10">
                     {tour.overs.map((item, index) => (
-                      <li className="py-2 border-bottom-not-last" key={index}>
-                        <p className="mt-2">
-                          <b className="text-muted mt-5">{item.l}</b>
+                      <li className="pt-2 border-bottom-not-last" key={index}>
+                        <p className="mt-0">
+                          <b className="text-muted">{item.l}</b>
                           <br />
                           {item.d}
                         </p>
@@ -236,8 +236,10 @@ export default function Tour({ tour }) {
                   </li>
                 ))}
               </ul>
+              <SectionSeparator />
             </Container>
           </article>
+          
         </>
       )}
     </>

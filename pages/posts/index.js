@@ -15,7 +15,7 @@ export default function PostIndex({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title> {CMS_NAME}</title>
         </Head>
         <Container>
           <Intro />
