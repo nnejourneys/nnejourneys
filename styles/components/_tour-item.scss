@@ -25,6 +25,21 @@
   z-index: 30;
 }
 
+@media (max-width: 575px) {
+  .tour-cover-image{
+    height: 40vh;
+  }
+
+  .tour-overlay {  
+    height: 40  vh; 
+  }
+
+  .tour-content{ 
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+  }
+}
 
 .nav-link{
   color:#060606 !important;

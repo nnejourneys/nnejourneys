@@ -137,11 +137,11 @@
 }
 
 
-.card-title{
+.card-title.tour-card{
   font-size: 1.1rem;
 }
 
-.card-text{
+.card-text.tour-card{
   font-size: 0.8rem;
 }
 
@@ -156,4 +156,9 @@
     background: var(--nne-primary)!important;
 
   }
+}
+
+.form-check-input:checked{
+  background-color:  var(--nne-primary)!important;
+  border-color:  var(--nne-primary)!important; 
 }

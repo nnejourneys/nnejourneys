@@ -7,28 +7,25 @@
 @use './components/tour-list';
 @use './components/card';
 @use './components/section';
-@use './stylesold.scss';
+@use './components/icons';
+@use './styles.scss';
 @use './variables.scss';
 
 :root {
-  --nne-primary: #f3a237; //#e84444
-  --nne-secondary: #fbce3c;  //#ee7171
+  --nne-primary: #f3a237; 
+  --nne-secondary: #fbce3c; 
   --nne-white: #fff;
   --nne-golden: #efaf27;
-  // --nne-bg-menu: hsla(0, 0%, 50%, 0.5);
-  --nne-bg-secondary: #050505 !important; 
-  --nne-bg-gray: #f5f5f5; 
+  --nne-bg-menu: hsla(0, 0%, 50%, 0.5);
+  --nne-bg-primary: #f3a237 !important;  
+  --nne-bg-secondary: #fbce3c; 
+  --nne-bg-gray: #f0f0f0; 
   --nne-bg-footer: #303032;
   --nne-font-primary: #f3a237;
   --nne-font-color: #666;
   --nne-font-dark: #222;
-  --nne-font-headings: "Poppinss", sans-serif;
+  --nne-font-headings: "Poppins", sans-serif;
   --nne-font-paragraph: "Open Sans", sans-serif;
-  // --nne-gradient: linear-gradient(
-  //   180deg,
-  //   rgba(255, 255, 255, 0.15),
-  //   rgba(255, 255, 255, 0)
-  // );
 }
 
 body {
@@ -60,13 +57,13 @@ p, .paragraph {
   color: rgb(32, 32, 32);
   font-size: 1rem;
   line-height: 1.6rem;
-  font-family: var(--nne-font-paragraph);
+  font-family: var(--nne-font-paragraph); 
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: rgb(70, 70, 70);
   font-weight: 500;
-  font-family: var(--nne-font-headings);
+  font-family: var(--nne-font-headings); 
 }
 
 h1, .h1 {
