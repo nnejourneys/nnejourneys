@@ -1,5 +1,6 @@
 import React from "react";
 import Accordian from "./accordian";
+import Image from 'next/image'
 
 export default function MissionAccordion() {
   return (
