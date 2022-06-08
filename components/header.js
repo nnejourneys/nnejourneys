@@ -13,7 +13,7 @@ export default function Header() {
               <Image
                 className="img-fluid"
                 src="/images/logo.png"
-                layout='responsive'
+                layout='intrinsic'
                 width={100}
                 height={60}
                 alt="North by Northeast Journeys"
