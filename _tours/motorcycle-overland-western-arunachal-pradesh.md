@@ -7,7 +7,7 @@ description : "Motorcycle & Overland Tour of Western Arunachal Pradesh. This tou
 tourdesc: This Motorcycle / Overland tour takes you to Western Arunachal Pradesh which includes some of the highest motorable roads of the eastern Himalayas. This region is settled by the Tibetian Buddhism related tribes such as the Monpa, Sherdukpen and Brokpa. Historically this region has had close cultural and religious ties both to Bhutan and Tibet due to it being the tri-juncture between these three Kingdoms, infact it was under the protectorate of Tibet uptill 1945. Enroute you will get as high 4500mts. The Tawang Monastery, Sungatser Lake, Tse la pass, Gorsum Chorten and Nameri Wildlife Sanctuary are some of the highlights of this circuit. Riding conditions vary with canging road conditions and the time of travel. Good flat highways of Assam make way for a mix of good road conditions below the treeline and untarred jeepable tracks beyond the treeline.
 bg_image: /images/tours/motorcycle-overland-western-arunachal-pradesh.jpg
 image : /images/tours/motorcycle-overland-western-arunachal-pradesh.jpg
-type: "active"
+type: "motorcycle"
 category: "active"
 cat: "Moderate to Streneous"
 tags: ["west-arunachal", "overland"]
@@ -42,7 +42,7 @@ overview:
  
   - label : COST 
     icon : bi:wallet2
-    data : INR XX,000 onwards ( Based on two persons travelling on twin share)
+    data : INR XX,000 onwards (twin share)
  
 over:
 - Level- Moderate to Strenuous
@@ -119,17 +119,13 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg    
+- title: Backroads of Meghalaya 
+  link: /tours/motorcycle-overland-trans-meghalaya
+  image: /images/tours/motorcycle-overland-trans-meghalaya.jpg
+- title: The Eastern Arc
+  link: /tours/motorcycle-overland-northeast
+  image: /images/tours/motorcycle-overland-northeast.jpg     
 ---
 
 #### Motorcycle & Overland Tour of Western Arunachal Pradesh: Riding along the Bhutan and Tibetian borders

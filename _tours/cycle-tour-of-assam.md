@@ -7,7 +7,7 @@ description : "This Multi-day Cycle Tour of Assam takes you along the Brahmaputr
 tourdesc: "The cycle tour of Assam takes you along the Brahmaputra river valley. This is the physical heart of Northeast India, a verdant region fed by a network of mighty rivers coming down from the mountains on three sides. As the tour progresses you will interact and observe diverse cultures, sample various cuisines, visit wildlife parks, understand the process of Tea production and more. /Starting from Guwahati at the heart of the Brahmaputra Valley you will come across the people of the plains including the Assamese, Bodo and Mishing in particular. You will also come across smaller groups including the Tea tribes. Heading further east you will cover territories of the Animist tribes and then the Theravada Buddhist tribes of eastern Arunachal Pradesh.Enroute you will ride across and visit wildlife parks, cross rivers on ferries, experience life in the largest river island of the world, learn the process and life of tea, meet a plethora of ethinic, lingual and religiously diverse groups that call this region their home. In comparison to the hills around this region is more settled, with rich written history and traditions. In fact some of the only written scripts of the entire northeastern region can be found here. "
 bg_image: /images/tours/cycle-tour-of-assam.jpg
 image : /images/tours/cycle-tour-of-assam.jpg
-type : "active"
+type : "cycling"
 category: "active"
 cat: "Easy to Moderate"
 tags: ["assam", "cycling"]
@@ -128,17 +128,25 @@ galleryimages:
 - "/images/tours/gallery/cycle-tour-of-assam/IMG_6715.jpg"
 - "/images/tours/gallery/cycle-tour-of-assam/IMG_6724.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg
+- title: The Brahmaputra Explorer 
+  link: /tours/cycle-tour-of-assam
+  image: /images/tours/cycle-tour-of-assam.jpg
+- title: The Trans-Meghalaya Explorer
+  link: /tours/cycle-tour-trans-meghalaya
+  image: /images/tours/cycle-tour-trans-meghalaya.jpg
+- title: The Abode of clouds 
+  link: /tours/cycle-tour-of-meghalaya
+  image: /images/tours/cycle-tour-of-meghalaya.jpg
+- title: The Mishmi Hills Explorer 
+  link: /tours/cycle-tour-of-mishmi-hills-arunachal-pradesh
+  image: /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
+- title: The Himalayan High
+  link: /tours/cycle-tour-of-western-arunachal-pradesh
+  image: /images/tours/cycle-tour-of-western-arunachal-pradesh.jpg 
+- title: The Monastic Trail
+  link: /tours/cycle-tour-of-sikkim
+  image: /images/tours/cycle-tour-of-sikkim.jpg
 --- 
 
 #### Cycle tour of Assam: Cycling in the heart of Northeastern India
@@ -148,38 +156,3 @@ The cycle tour of Assam takes you along the Brahmaputra river valley. This is th
 Starting from Guwahati at the heart of the Brahmaputra Valley you will come across the people of the plains including the Assamese, Bodo and Mishing in particular. You will also come across smaller groups including the Tea tribes. Heading further east you will cover territories of the Animist tribes and then the Theravada Buddhist tribes of eastern Arunachal Pradesh.Enroute you will ride across and visit wildlife parks, cross rivers on ferries, experience life in the largest river island of the world, learn the process and life of tea, meet a plethora of ethinic, lingual and religiously diverse groups that call this region their home. In comparison to the hills around this region is more settled, with rich written history and traditions. In fact some of the only written scripts of the entire northeastern region can be found here. 
 
 **The Tour is flexible and will be designed around the duration you have in hand.**
-
-
-<!-- 
-
-
-###### ROUTE TOPOLOGY
-
-![Assam-Cycle-Tour-Topology](/images/project/Brahmaputra-valley-topo.jpg)
-
- 
-
-#### Other Cycle Tours
----
-
-###### **Meghalaya**
-
-+ [The Abode of clouds ](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/) 
-+ [Trans-Meghalaya ](/cycling/trans-meghalaya-cycle-tour/) 
-
----
-###### *Arunachal Pradesh*
-
-+ [Eastern Arunachal Pradesh (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/)  
-+ [Eastern Arunachal Pradesh (The Mishmi Hills)](/cycling/cycling-in-arunachal-pradesh/) 
-+ [Western Arunachal Pradesh (The Himalayan High)](/cycling/cycle-tour-of-western-arunachal-pradesh/) 
-
----
-###### *Sikkim & W Bengal*
-
-+ [The Monastic Trail](/cycling/cycle-tour-of-sikkim/)
-
---- -->
-
-
-

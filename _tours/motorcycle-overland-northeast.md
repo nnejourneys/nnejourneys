@@ -7,7 +7,7 @@ description : "This motorcycle & Overland tour of Northeast India takes you acro
 tourdesc: This particular ride takes us through the backroads of some of India’s easternmost states namely Arunachal Pradesh, Nagaland, Assam and Meghalaya. A rider’s delight, this route includes the dense forested hills of Nagaland, and Arunachal Pradesh, the tea oil rich  regions of Assam and the wettest places on Earth at Meghalaya. Incidentally this region has one of the highest densities of ethnicities and languages in the whole of India. During the tour we ride through territories of tribes such as the Nyshi, Apatani, Tagin, Galo, Adi, Idu Mishmi, Digaru Mishmi, Miju Mishmi, Singpho, Khamti, Konyak, Ao, Lotha, Angami, Karbi, Dimasa, Jaintia and Khasi to name a few. Infact every single day takes us through territories of different tribes, each tribe totally different from the previous. You will ride across swathes of lush tea plantations, some of the oldest oil fields on earth, some of the greatest wildlife sanctuaries of the sub-continent, the largest river island on earth, quaint and remote villages, orange orchards, unending forests, view some of the tallest waterfalls and visit some of the deepest caves of Asia among others. The loop starts and ends at Guwahati, which is the capital of Assam and the largest city among the seven states. The ride itself takes us through varying terrain, road conditions and vegetation, every single day bringing totally new and unique settings.
 bg_image: /images/tours/motorcycle-overland-northeast.jpg
 image : /images/tours/motorcycle-overland-northeast.jpg
-type: "active"
+type: "motorcycle"
 category: "active"
 cat: "Streneuous"
 tags: ["assam", "arunachal", "nagaland", "meghalaya", "overland"]
@@ -122,17 +122,13 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg  
+- title: Backroads of Meghalaya
+  link: /tours/motorcycle-overland-trans-meghalaya
+  image: /images/tours/motorcycle-overland-trans-meghalaya.jpg
+- title: High roads of the Monyul
+  link: /tours/motorcycle-overland-western-arunachal-pradesh
+  image: /images/tours/motorcycle-overland-western-arunachal-pradesh.jpg 
 ---
 
 #### Motorcyle & Overland Tour of Northeast India: The wildest of Northeast India
@@ -140,8 +136,3 @@ othertours:
 This particular ride takes us through the backroads of some of India’s easternmost states namely Arunachal Pradesh, Nagaland, Assam and Meghalaya. A rider’s delight, this route includes the dense forested hills of Nagaland, and Arunachal Pradesh, the tea oil rich  regions of Assam and the wettest places on Earth at Meghalaya. Incidentally this region has one of the highest densities of ethnicities and languages in the whole of India. 
 
 During the tour we ride through territories of tribes such as the Nyshi, Apatani, Tagin, Galo, Adi, Idu Mishmi, Digaru Mishmi, Miju Mishmi, Singpho, Khamti, Konyak, Ao, Lotha, Angami, Karbi, Dimasa, Jaintia and Khasi to name a few. Infact every single day takes us through territories of different tribes, each tribe totally different from the previous. You will ride across swathes of lush tea plantations, some of the oldest oil fields on earth, some of the greatest wildlife sanctuaries of the sub-continent, the largest river island on earth, quaint and remote villages, orange orchards, unending forests, view some of the tallest waterfalls and visit some of the deepest caves of Asia among others. The loop starts and ends at Guwahati, which is the capital of Assam and the largest city among the seven states. The ride itself takes us through varying terrain, road conditions and vegetation, every single day bringing totally new and unique settings.
-
-<!-- ##### Other Motorcycle & Overland Tours
-
-###### [**Meghalaya** (Backroads of Meghalaya)](/motorcycle/trans-meghalaya-motorcycle-overland/) 
-###### [**Western Arunachal Pradesh** (Highroads of the Monyul)](/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/)   -->

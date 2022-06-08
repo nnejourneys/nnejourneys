@@ -7,7 +7,7 @@ description : "This Multi-Activity holiday of Assam takes you to its reknowned, 
 tourdesc: Multi-Activity Holiday in Assam:- The Brahmaputra Valley. This multi-activity tour takes us to the Brahmaputra valley of Assam. A lush strip of land sandwiched between the Himalayan landmass on the north and the lesser hills of Nagaland and Meghalaya in the south. The Brahmaputra valley is home to a multitude of ethinicities, a string of wildlife sanctuaries and the famous Assam tea among others. On this tour we will indulge in short day cycling and hiking forays. Explore the culture and cuisine of this land, embark on wildlife safari’s, live in and learn about life in a typical Assamese Tea Plantation, spot the endangered River Dolphins of the Brahmaputra, cycle around the largest river island of the world and much more. 
 bg_image: /images/tours/multi-activity-holiday-assam.jpg
 image : /images/tours/multi-activity-holiday-assam.jpg
-type : "active"
+type : "multi-activity"
 category: "active"
 cat: "Easy"
 tags: ["assam", "multi-activity"]
@@ -114,28 +114,17 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg    
+- title: Hike, Cycle, Nature & Culture 
+  link: /tours/multi-activity-holiday-in-meghalaya
+  image: /images/tours/multi-activity-holiday-in-meghalaya.jpg
+- title: Hike, Bike, Raft & Culture 
+  link: /tours/multi-activity-tour-eastern-arunachal-pradesh
+  image: /images/tours/multi-activity-tour-eastern-arunachal-pradesh.jpg    
 ---
 
 #### Multi-Activity Holiday in Assam: The Brahmaputra Valley
 
 This multi-activity tour takes us to the Brahmaputra valley of Assam. A lush strip of land sandwiched between the Himalayan landmass on the north and the lesser hills of Nagaland and Meghalaya in the south. The Brahmaputra valley is home to a multitude of ethinicities, a string of wildlife sanctuaries and the famous Assam tea among others.
 
-On this tour we will indulge in short day cycling and hiking forays. Explore the culture and cuisine of this land, embark on wildlife safari’s, live in and learn about life in a typical Assamese Tea Plantation, spot the endangered River Dolphins of the Brahmaputra, cycle around the largest river island of the world and much more. 
-
-<!-- ##### Other Multi-activity Tours
-
----
-
-###### [**Eastern Arunachal Pradesh** (Hike, Bike, Raft & Culture)](/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/) 
-###### [**Meghalaya** (Hike, Bike, Nature & Culture)](/multiactivity/multi-activity-holiday-in-meghalaya/)   -->
+On this tour we will indulge in short day cycling and hiking forays. Explore the culture and cuisine of this land, embark on wildlife safari’s, live in and learn about life in a typical Assamese Tea Plantation, spot the endangered River Dolphins of the Brahmaputra, cycle around the largest river island of the world and much more.

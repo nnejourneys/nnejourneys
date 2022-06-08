@@ -7,7 +7,7 @@ description : "This cycling holiday of Meghalaya takes you across the Garo, Khas
 tourdesc: Cycle Tour of Meghalaya:- Cycling the Garo, Khasi and Jaintia hills. The Trans Meghalaya cycling tour takes you across the three hill ranges of the state. Starting from the west in the Garo Hills, we ride eastewards across the Khasi and Jaintia hills, in essence taking in the best that the state has to offer. The state of Meghalaya is the first line of hills that the Monsoon clouds touch upon crossing peninsular India, hence it receives some of the highest rainfall anywhere on earth. The state has three distinct major tribes after whom the hills are known for. Over the duration of this tour you will be cycling across the best that Meghalaya has to offer, coverning some of the deepest caves and highest waterfalls of Asia, meeting distinct cultures and sampling their cuisine. Visiting pristine wildlife sanctuaries, the living root bridges and most of all be mesmirized by wonderful panoramas that this state is so famous for.
 bg_image: /images/tours/cycle-tour-trans-meghalaya.jpg
 image : /images/tours/cycle-tour-trans-meghalaya.jpg
-type : "active"
+type : "cycling"
 category: "active"
 cat: "Moderate to Strenuous"
 tags: ["meghalaya", "cycling"]
@@ -130,18 +130,25 @@ galleryimages:
 - "/images/tours/gallery/cycle-tour-trans-meghalaya/_MG_887531.jpg"
 - "/images/tours/gallery/cycle-tour-trans-meghalaya/_MG_9059.jpg"
 
-
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg
+- title: The Brahmaputra Explorer 
+  link: /tours/cycle-tour-of-assam
+  image: /images/tours/cycle-tour-of-assam.jpg
+- title: The Trans-Meghalaya Explorer
+  link: /tours/cycle-tour-trans-meghalaya
+  image: /images/tours/cycle-tour-trans-meghalaya.jpg
+- title: The Abode of clouds 
+  link: /tours/cycle-tour-of-meghalaya
+  image: /images/tours/cycle-tour-of-meghalaya.jpg
+- title: The Mishmi Hills Explorer 
+  link: /tours/cycle-tour-of-mishmi-hills-arunachal-pradesh
+  image: /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
+- title: The Himalayan High
+  link: /tours/cycle-tour-of-western-arunachal-pradesh
+  image: /images/tours/cycle-tour-of-western-arunachal-pradesh.jpg 
+- title: The Monastic Trail
+  link: /tours/cycle-tour-of-sikkim
+  image: /images/tours/cycle-tour-of-sikkim.jpg
 ---
 
 #### Cycle Tour of Meghalaya: Cycling the Garo, Khasi and Jaintia hills
@@ -149,34 +156,3 @@ othertours:
 The Trans Meghalaya cycling tour takes you across the three hill ranges of the state. Starting from the west in the Garo Hills, we ride eastewards across the Khasi and Jaintia hills, in essence taking in the best that the state has to offer. The state of Meghalaya is the first line of hills that the Monsoon clouds touch upon crossing peninsular India, hence it receives some of the highest rainfall anywhere on earth. The state has three distinct major tribes after whom the hills are known for.
 
 Over the duration of this tour you will be cycling across the best that Meghalaya has to offer, coverning some of the deepest caves and highest waterfalls of Asia, meeting distinct cultures and sampling their cuisine. Visiting pristine wildlife sanctuaries, the living root bridges and most of all be mesmirized by wonderful panoramas that this state is so famous for.
-
-
-
-<!-- 
-#### Other Cycle Tours
----
-
-###### **Assam**
-
-+ [Brahmaputra Valley Explorer](/cycling/cycle-tour-of-assam/) 
-
----
-
-###### **Meghalaya**
-
-+ [The Abode of clouds](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/) 
-
----
-###### **Arunachal Pradesh**
-
-+ [Eastern Arunachal Pradesh (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/) 
-+ [Eastern Arunachal Pradesh (The Mishmi Hills)](/cycling/cycling-in-arunachal-pradesh/) 
-+ [Western Arunachal Pradesh (The Himalayan High)](/cycling/cycle-tour-of-western-arunachal-pradesh/) 
-
----
-###### **Sikkim & W Bengal**
-
-+ [The Monastic Trail](/cycling/cycle-tour-of-sikkim/)
-
----
-  -->

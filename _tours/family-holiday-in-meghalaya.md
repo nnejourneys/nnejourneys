@@ -7,7 +7,7 @@ description : "Family adventure holiday in Meghalaya. An active adventure holida
 tourdesc: This Adventure holiday for the family is set in hilly Meghalaya. Meghalaya literally meaning the ‘Abode of clouds’ is one of the wettest places on earth during the monsoons. Cherrapunji and Mawsynram both in Meghalaya take their turn recording some of the heaviest rainfall on the planet. On this tour of Meghalaya you will be travelling through the west Khasi and neighbouring Jaintia hills overlooking the plains of Bangladesh. Deep forested valleys, gushing rivers, innumerable waterfalls, natural root bridges, archery competitions, village markets etc will be the common sights. Short hikes, water based activities,Ziplines, caves and waterfall visits are in the cards on this tour. This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. This trip can be driver driven or selfdriven depending on your preference and comfort.
 bg_image: /images/tours/family-holiday-in-meghalaya.jpg
 image : /images/tours/family-holiday-in-meghalaya.jpg
-type: "leisure"
+type: "family"
 category: "leisure"
 cat: "Comfort"
 tags: ["meghalaya", "comfort"]
@@ -116,17 +116,14 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
-#### Other Ethno-Cultural Tours
+
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg  
+- title: Jewels of the Brahmaputra
+  link: /tours/family-holiday-assam
+  image: /images/tours/family-holiday-assam.jpg
+- title: India's Far East 
+  link: /tours/family-eastern-arunachal-pradesh
+  image: /images/tours/family-eastern-arunachal-pradesh.jpg  
 ---
 
 #### Family adventure holiday in the Khasi & Jaintia hills of Meghalaya

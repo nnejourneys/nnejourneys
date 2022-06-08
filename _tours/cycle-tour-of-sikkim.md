@@ -7,7 +7,7 @@ description : "This Cycle tour takes you through the best of Sikkim and West Ben
 tourdesc: "This cycling tour of Sikkim and West Bengal takes us through East, South and Western districts of Sikkim and the Darjeeling district of West Bengal. We will generally be in sub alpine rural himalayas, this provides us an excellent opportunity to observe life in these parts, interact with the locals and throughout be accompanied by amazing panoramas of the high himalayas. This tour takes you through most of the important locations of this region, including  historic, religious and cultural sites."
 bg_image: /images/tours/cycle-tour-of-sikkim.jpg
 image : /images/tours/cycle-tour-of-sikkim.jpg
-type : "active"
+type : "cycling"
 category: "active"
 cat: "Strenuous"
 tags: ["sikkim","cycling"]
@@ -43,7 +43,6 @@ overview:
   - label : COST
     icon : bi:wallet2
     data : On Request
-
 
 over:
   - Level- Tough
@@ -128,44 +127,26 @@ galleryimages:
 - "/images/tours/gallery/cycle-tour-of-sikkim/tea_pickers.jpg"
 - "/images/tours/gallery/cycle-tour-of-sikkim/WP_20140920_0722.jpg"
 
-#### Other Ethno-Cultural Tours
-othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg
+- title: The Brahmaputra Explorer 
+  link: /tours/cycle-tour-of-assam
+  image: /images/tours/cycle-tour-of-assam.jpg
+- title: The Trans-Meghalaya Explorer
+  link: /tours/cycle-tour-trans-meghalaya
+  image: /images/tours/cycle-tour-trans-meghalaya.jpg
+- title: The Abode of clouds 
+  link: /tours/cycle-tour-of-meghalaya
+  image: /images/tours/cycle-tour-of-meghalaya.jpg
+- title: The Mishmi Hills Explorer 
+  link: /tours/cycle-tour-of-mishmi-hills-arunachal-pradesh
+  image: /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
+- title: The Himalayan High
+  link: /tours/cycle-tour-of-western-arunachal-pradesh
+  image: /images/tours/cycle-tour-of-western-arunachal-pradesh.jpg 
+- title: The Monastic Trail
+  link: /tours/cycle-tour-of-sikkim
+  image: /images/tours/cycle-tour-of-sikkim.jpg
 ---
 
 #### Cycle Tour of Sikkim & W Bengal: Of Mountains and Monastries
 
 This cycling tour of Sikkim and West Bengal takes us through East, South and Western districts of Sikkim and the Darjeeling district of West Bengal. We will generally be in sub alpine rural himalayas, this provides us an excellent opportunity to observe life in these parts, interact with the locals and throughout be accompanied by amazing panoramas of the high himalayas. This tour takes you through most of the important locations of this region, including  historic, religious and cultural sites.
-
-<!-- 
-#### Other Cycle Tours
----
-
-###### **Assam**
-
-+ [Brahmaputra Valley Explorer](/cycling/cycle-tour-of-assam/) 
-
----
-
-###### **Meghalaya**
-
-+ [The Abode of clouds](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/)
-+ [Trans-Meghalaya](/cycling/trans-meghalaya-cycle-tour/) 
-
----
-###### **Arunachal Pradesh**
-
-+ [Eastern Arunachal Pradesh (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/)  
-+ [Eastern Arunachal Pradesh (The Mishmi Hills)](/cycling/cycling-in-arunachal-pradesh/) 
-+ [Western Arunachal Pradesh (The Himalayan High)](/cycling/cycle-tour-of-western-arunachal-pradesh/) 
-
----
- -->

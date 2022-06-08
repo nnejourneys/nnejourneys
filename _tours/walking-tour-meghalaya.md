@@ -9,7 +9,7 @@ bg_image: /images/tours/walking-tour-meghalaya.jpg
 image: /images/tours/walking-tour-meghalaya.jpg
 category: "active"
 cat: "Easy"
-type : "active"
+type : "walking"
 tags: ["meghalaya", "trekking"]
 weight: 8
 touricon: "iconoir:walking"
@@ -118,17 +118,19 @@ galleryimages:
   - "/images/tours/gallery/walking-tour-meghalaya/walks-in-meghalaya.jpeg"
   - "/images/tours/gallery/walking-tour-meghalaya/walks-in-the-clouds-meghalaya.jpeg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg    
+- title: Walks in India's far east
+  link: /tours/walking-holiday-eastern-arunachal-pradesh
+  image: /images/tours/walking-holiday-eastern-arunachal-pradesh.jpg
+- title: Trekking in Namdapha National Park
+  link: /tours/trekking-in-namdapha-rainforest
+  image: /images/tours/trekking-in-namdapha-rainforest.jpg
+- title: The Rhododendron Trail
+  link: /tours/trekking-in-sikkim-bengal
+  image: /images/tours/trekking-in-sikkim-bengal.jpg
+- title: The Bailey Trail 
+  link: /tours/trekking-in-west-arunachal-pradesh
+  image: /images/tours/trekking-in-west-arunachal-pradesh.jpg   
 ---
 
 #### Walking Tour of Meghalaya: Explorations in the 'Abode of Clouds'
@@ -138,16 +140,3 @@ This Walking holiday takes you to beautiful Meghalaya, 'The Abode of clouds’. 
 The state is divided into the Garo, Khasi and Jaintia hills, however on this tour we will concentrate on the Khasi Hills. The namesake Khasi tribe is one of the only matrilenial societies of the subcontinent, with a unique culture and society. This region is rich in natural wonders, home to some of the deepest caves and highest waterfalls of Asia. The jewels of this region are the Natural Root bridges which dot the surroundings. 
 
 This tour includes multiple day walks to some of the most beautiful trails and interesting locations of the region.
-
-<!-- #### Other Departures
----
-
-###### March
-
-+ [Arunachal Pradesh | Cycling (Watershed of the Brahmaputra)](/departures/eastern-arunachal-cycling-departure/) 
-+ [Arunachal Pradesh | Trekking (The Rainforest Trek)](/departures/namdapha-rainforest-trek/) 
-
----
-###### April
-
-+ [Arunachal Pradesh | Roadtrip (The Far Eastern Odyssey)](/departures/the-eastern-odyssey/)  -->

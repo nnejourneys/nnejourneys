@@ -7,7 +7,7 @@ description : "This cycle tour of Arunachal Pradesh takes you to the Mishmi Hill
 tourdesc: "The cycle tour of Mishmi Hills takes you to the far eastern flank of the Himalayas, this is where the mighty Himalayan chain ends (or starts). Lying in the eastern Arunachal Pradesh, the Mishmi hills is an untouched wonderland of undending swathes of prestine nature. This is home to the animist Mishmi tribes, some of the smallest linguistic groups of the subcontinent. For most parts we will come in contact with the Idu Mishmi who worship several benevolent and malevolent spirits. Nani-Intaya and Masello Zino are worshipped as creators of mankind and universe as a whole. Mythological characters like SINE-RU a first IGU (Idu Priest) still holds high place and reverence in the minds of the people. The prints of his palm on the huge rocks at Athu Popu near Keyala Pass on the Chinese border, is considered as their shrine. /This cycle tour you will take you riding across diverse conditions on little used backroads, starting from the rainforest of Namdapha and Kamlang to the bamboo forests of Acheso Valley. Enroute you will meet the Therevada tribes that inhabit the plains and the animist tribes that live in the hills, while all along you will be treated to unsurpassed vistas of the high Himalayas and the mighty Brahmaputra Valley."
 bg_image: /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
 image : /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
-type: "active"
+type: "cycling"
 category: "active"
 cat: "Strenuous"
 tags: ["east-arunachal","cycling"]
@@ -131,51 +131,29 @@ galleryimages:
 - "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/Mishmi-hills-explorer-cycling.jpg"
 - "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/_MG_95942.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg
+- title: The Brahmaputra Explorer 
+  link: /tours/cycle-tour-of-assam
+  image: /images/tours/cycle-tour-of-assam.jpg
+- title: The Trans-Meghalaya Explorer
+  link: /tours/cycle-tour-trans-meghalaya
+  image: /images/tours/cycle-tour-trans-meghalaya.jpg
+- title: The Abode of clouds 
+  link: /tours/cycle-tour-of-meghalaya
+  image: /images/tours/cycle-tour-of-meghalaya.jpg
+- title: The Mishmi Hills Explorer 
+  link: /tours/cycle-tour-of-mishmi-hills-arunachal-pradesh
+  image: /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
+- title: The Himalayan High
+  link: /tours/cycle-tour-of-western-arunachal-pradesh
+  image: /images/tours/cycle-tour-of-western-arunachal-pradesh.jpg 
+- title: The Monastic Trail
+  link: /tours/cycle-tour-of-sikkim
+  image: /images/tours/cycle-tour-of-sikkim.jpg
 ---
 
 #### Cycling in the Mishmi Hills of Arunachal Pradesh: Himalaya's eastern flank
----
 
 The cycle tour of Mishmi Hills takes you to the far eastern flank of the Himalayas, this is where the mighty Himalayan chain ends (or starts). Lying in the eastern Arunachal Pradesh, the Mishmi hills is an untouched wonderland of undending swathes of prestine nature. This is home to the animist Mishmi tribes, some of the smallest linguistic groups of the subcontinent. For most parts we will come in contact with the Idu Mishmi who worship several benevolent and malevolent spirits. Nani-Intaya and Masello Zino are worshipped as creators of mankind and universe as a whole. Mythological characters like SINE-RU a first IGU (Idu Priest) still holds high place and reverence in the minds of the people. The prints of his palm on the huge rocks at Athu Popu near Keyala Pass on the Chinese border, is considered as their shrine. 
 
 This cycle tour you will take you riding across diverse conditions on little used backroads, starting from the rainforest of Namdapha and Kamlang to the bamboo forests of Acheso Valley. Enroute you will meet the Therevada tribes that inhabit the plains and the animist tribes that live in the hills, while all along you will be treated to unsurpassed vistas of the high Himalayas and the mighty Brahmaputra Valley.
-
-
-<!-- 
-#### Other Cycle Tours
----
-
-###### **Assam**
-
-+ [Brahmaputra Valley Explorer](/cycling/cycle-tour-of-assam/) 
-
----
-
-###### **Meghalaya**
-
-+ [The Abode of clouds](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/) 
-+ [Trans-Meghalaya](/cycling/trans-meghalaya-cycle-tour/) 
-
----
-###### **Arunachal Pradesh**
-
-+ [Eastern Arunachal Pradesh (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/)  
-+ [Western Arunachal Pradesh (The Himalayan High)](/cycling/cycle-tour-of-western-arunachal-pradesh/) 
-
----
-###### **Sikkim & W Bengal**
-
-+ [The Monastic Trail](/cycling/cycle-tour-of-sikkim/)
-
---- -->

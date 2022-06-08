@@ -114,26 +114,13 @@ galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
+- title: Monyul & Brahmaputa Valley 
   link: /tours/culture-tour-western-arunachal-pradesh
   image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
+- title: Hornbill Festival and beyond 
   link: /tours/culture-tour-of-nagaland-hornbill-festival
   image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg
 ---
  
 We take you to one of the least known part of Northeast India. The eastern bit of the region buffering Tibet and Myanmar lies in the state of Arunachal Pradesh. This is a region of giant rivers, uending forests and a ring of hills climbing ever higher till it becomes snowy peaks at the Chinese border. This region is home to the Theravada Buddhist tribes who live in the plains and the Animist ones who live in the hills.
- 
-<!-- 
-#### Other Ethno-Cultural Tours
-
----
-
-###### [**Arunachal Pradesh** (Tribes of Arunachal)](/culture/culture-tour-arunachal-pradesh/) 
-###### [**Nagaland & Assam** (The Hornbill Festival)](/culture/culture-tour-of-nagaland-hornbill-festival/)  
-###### [**Arunachal Pradesh & Assam** (Monyul & The Brahmaputra)](/culture/culture-tour-western-arunachal-pradesh/)  -->

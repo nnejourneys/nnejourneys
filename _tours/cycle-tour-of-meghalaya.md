@@ -7,7 +7,7 @@ description : "This Cycle tour of Meghalaya takes you riding across the Khasi an
 tourdesc: "This cycle tour takes you to the Khasi and Jaintia hills of picteresque Meghalaya. Meghalaya meaning the 'Abode of clouds' is a green hilly state perched between the great plains of Bangladesh and that of Assam. Other than being the home of some of the only matrilineal societies of the subcontinent, Meghalaya also has some of the heaviest rainfall on earth. Cherrapunji and Mawsynram both in Meghalaya have taken their turns recording some of the heaviest rainfall ever to be recorded. This is a land well endowed in natural beauty, home to some of the highest waterfalls and deepest caves of Asia. /On this bicycle tour of Meghalaya we will be riding through the west Khasi and neighbouring Jaintia hills overlooking the plains of Bangladesh. All the while riding across deep forested valleys, gushing rivers, innumerable waterfalls, observing archery competitions, village markets and visiting quaint villages. We also include a day hike so as not to miss out the wonders that are the living root bridges."
 bg_image: /images/tours/cycle-tour-of-meghalaya.jpg
 image : /images/tours/cycle-tour-of-meghalaya.jpg
-type : "active"
+type : "cycling"
 category: "active"
 cat: "Moderate to Strenuous"
 tags: ["meghalaya", "cycling"]
@@ -131,15 +131,24 @@ galleryimages:
 
 #### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg
+- title: The Brahmaputra Explorer 
+  link: /tours/cycle-tour-of-assam
+  image: /images/tours/cycle-tour-of-assam.jpg
+- title: The Trans-Meghalaya Explorer
+  link: /tours/cycle-tour-trans-meghalaya
+  image: /images/tours/cycle-tour-trans-meghalaya.jpg
+- title: The Abode of clouds 
+  link: /tours/cycle-tour-of-meghalaya
+  image: /images/tours/cycle-tour-of-meghalaya.jpg
+- title: The Mishmi Hills Explorer 
+  link: /tours/cycle-tour-of-mishmi-hills-arunachal-pradesh
+  image: /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
+- title: The Himalayan High
+  link: /tours/cycle-tour-of-western-arunachal-pradesh
+  image: /images/tours/cycle-tour-of-western-arunachal-pradesh.jpg 
+- title: The Monastic Trail
+  link: /tours/cycle-tour-of-sikkim
+  image: /images/tours/cycle-tour-of-sikkim.jpg
 ---
 
 #### Cycle tour of Meghalaya: The Khasi and Jaintia hills explored.

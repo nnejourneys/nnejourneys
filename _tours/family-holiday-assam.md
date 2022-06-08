@@ -7,7 +7,7 @@ description : "This Family Holiday in Assam takes you across the best that the s
 tourdesc: "The setting for this family holiday is the lush Brahmaputra valley of Assam. This is the physical heart of Northeastern India. A vast valley spread between the mighty Himalayas in the North and the lesser hills of Meghalaya and Nagaland in the South. Assam is the largest and most accessible of the Northeastern States. This fertile land is generally known for its rich wildlife parks, lush tea plantations and unique cultures. On this tour we will explore, experience and observe some of the best that this state has to offer. This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. This trips can be guided, unguided , driver driven or selfdriven depending on your preference and comfort."
 bg_image: /images/tours/family-holiday-assam.jpg
 image : /images/tours/family-holiday-assam.jpg
-type : "leisure"
+type : "family"
 category: "leisure"
 cat: "Comfort"
 tags: ["assam", "comfort"] 
@@ -113,17 +113,13 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg  
+- title: Natures Amusement Park 
+  link: /tours/family-holiday-in-meghalaya
+  image: /images/tours/family-holiday-in-meghalaya.jpg
+- title: India's Far East 
+  link: /tours/family-eastern-arunachal-pradesh
+  image: /images/tours/family-eastern-arunachal-pradesh.jpg
 ---
 
 #### Family Holiday in Assam: Jewels of the Brahmaputra Valley
@@ -131,9 +127,3 @@ othertours:
 The setting for this family holiday is the lush Brahmaputra valley of Assam. This is the physical heart of Northeastern India. A vast valley spread between the mighty Himalayas in the North and the lesser hills of Meghalaya and Nagaland in the South. Assam is the largest and most accessible of the Northeastern States. This fertile land is generally known for its rich wildlife parks, lush tea plantations and unique cultures. On this tour we will explore, experience and observe some of the best that this state has to offer.
 
 This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. This trips can be guided, unguided , driver driven or selfdriven depending on your preference and comfort.
-
-<!-- ##### Other Family Tours
----
-
-###### [**Meghalaya**(Natures Amusement Park)](/family/family-holiday-in-meghalaya/)   
-###### [**Eastern Arunachal Pradesh** ( Far Eastern Delights)](/family/family-holiday-eastern-arunachal-pradesh/)  -->

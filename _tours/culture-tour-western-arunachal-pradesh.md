@@ -114,20 +114,14 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
+- title: Hornbill Festival and beyond 
   link: /tours/culture-tour-of-nagaland-hornbill-festival
   image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
+- title: Theravada & Animist lands 
   link: /tours/culture-tour-eastern-arunachal-pradesh
   image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg
-
 --- 
-
 
 #### Culture Tour of Arunachal Pradesh & Assam: Monyul and the Brahmaputra valley
  
@@ -140,15 +134,3 @@ Tawang is believed to have derived its name from the Grandiose Tawang Monastery 
 Stretching 600 km along the Brahmaputra River Valley, with a spur down to the hilly southeast, Assam is the largest and most accessible of the Northeast States. Well known for its national parks abounding in rhinoceroses, elephants, deer and primates (with respectable tiger numbers too), it welcomes visitors with a subtly flavoured cuisine and a hospitable population with a vibrant artistic heritage. The archetypal Assamese landscape is a golden-green panorama of rice fields and manicured tea estates, framed by the blue mountains of Arunachal Pradesh in the north and the highlands of Meghalaya and Nagaland to the south. The birthplace of Indian tea, Assam has more than 3000 sq km of land carpeted in bright-green tea gardens, and visits to these estates are high on many travellers' itineraries.
 
 Beached amid the mighty Brahmaputra River’s ever-shifting puzzle of sandbanks is Majuli, which at around 350 sq km is India’s largest river island. Though continually ravaged by the primal forces of nature (much of it disappears under water every monsoon, and it's steadily shrinking due to erosion), Majuli flaunts unparalleled scenic beauty. Coming here is like stepping back to an earlier India of little motor traffic (cycling is a delight), peaceful woodlands and wetlands, and Mishing tribal villages with wooden stilt houses, where the goats, geese, cows and pigs easily outnumber the people. The island's serene atmosphere is enhanced by the influence of its 22 satras (Hindu Vaishnavite monasteries and centres for art).
-
- 
-
-
-
-<!-- 
-#### Other Ethno-Cultural Tours
----
-
-###### [**Eastern Arunachal Pradesh** (Theravada & Animist Lands)](/culture/culture-tour-eastern-arunachal-pradesh/) 
-###### [**Nagaland & Assam** (The Hornbill Festival)](/culture/culture-tour-of-nagaland-hornbill-festival/)  
-###### [**Arunachal Pradesh** (Tribes of Arunachal)](/culture/culture-tour-arunachal-pradesh/)  -->

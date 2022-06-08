@@ -7,7 +7,7 @@ description : "Multi activity holiday takes you to prestine Meghalaya, 'The Abod
 tourdesc: Multi-Activity Holiday in Meghalaya:- Land of the matriarchs. This particular Multi-activity tour takes us on bicycles and on foot across the Khasi and Jaintia Hills of Meghalaya. Due to its unique georgaphical location, it some of the  highest rain fall on earth which in turn bestows this region with its amazing mix of forested valleys and grassland plateaus. The cycling phase takes you across the beautiful landscape, whereas the hiking days take you through some of the best trails of the region, amongst which the famous living root bridges trail. Enroute we will picnic lunch in beautiful locations and swim in prestine pools while visitng waterfalls, caves and local archery competitions. During this multi activity tour of Meghalaya tour you will stay in quaint homestays, off the grid farms and small family run establishments. The tour will give you indepth and personal prospective of this land and its wonderful people. The tour is quite flexible, we can mould the entire proceeding looking at your preferences and abilities.
 bg_image: /images/tours/multi-activity-holiday-in-meghalaya.jpg
 image : /images/tours/multi-activity-holiday-in-meghalaya.jpg
-type: "active"
+type: "multi-activity"
 category: "active"
 cat: "Moderate"
 tags: ["meghalaya", "multi-activity"]
@@ -120,17 +120,13 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg    
+- title: Adventure, Wildlife & Culture
+  link: /tours/multi-activity-holiday-assam
+  image: /images/tours/multi-activity-holiday-assam.jpg
+- title: Hike, Bike, Raft & Culture 
+  link: /tours/multi-activity-tour-eastern-arunachal-pradesh
+  image: /images/tours/multi-activity-tour-eastern-arunachal-pradesh.jpg
 ---
 
 #### Multi-Activity Holiday in Meghalaya: Land of the matriarchs
@@ -138,9 +134,3 @@ othertours:
 This particular Multi-activity tour takes us on bicycles and on foot across the Khasi and Jaintia Hills of Meghalaya. Due to its unique georgaphical location, it some of the  highest rain fall on earth which in turn bestows this region with its amazing mix of forested valleys and grassland plateaus. 
 
 The cycling phase takes you across the beautiful landscape, whereas the hiking days take you through some of the best trails of the region, amongst which the famous living root bridges trail. Enroute we will picnic lunch in beautiful locations and swim in prestine pools while visitng waterfalls, caves and local archery competitions. During this multi activity tour of Meghalaya tour you will stay in quaint homestays, off the grid farms and small family run establishments. The tour will give you indepth and personal prospective of this land and its wonderful people.
-
-<!-- ##### Other Multi-activity Tours
----
-
-###### [**Assam** (Tea, Wildlife & Culture)](/multiactivity/multiactivity-holiday-assam/) 
-###### [**Eastern Arunachal Pradesh** (Hike, Bike, Raft & Culture)](/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/)   -->

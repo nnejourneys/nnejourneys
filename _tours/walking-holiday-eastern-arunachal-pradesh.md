@@ -7,10 +7,10 @@ description : "Walking holiday in Eastern Arunachal Pradesh. Tribes, Wildlife Pa
 tourdesc: Walking Holiday in Eastern Arunachal Pradesh:- Walks in India's far east. Arunachal Pradesh, ‘the dawn lit Mountains’ is the easternmost state of India. This tour is based in the eastern part of Arunachal Pradesh close to the Myanmar and Chinese frontiers, a maze of greenery and home to a vibrant mix of cultures. This is the land where three giant river valleys come down and meet the plains, hence giving birth to the mighty Brahmaputra.  Home to the earliest tea producers of the subcontinent, some of the earliest oil finds of the world and a string of vibrant wildlife parks. The tour includes a series of walks across these eastern most river valleys. This is a land of the Animist and Theravada Buddhist tribes of the state who are still very rooted in their culture and traditions. You will be walking through wildlife sanctuaries, camp next to pristine lakes, visit idellic villages, indulging in local cuisines and have authentic interactions with the people who live here. The tour is quite flexible and can be worked out around the duration that you have in hand. Do write in to us for the details.
 bg_image: /images/tours/walking-holiday-eastern-arunachal-pradesh.jpg
 image : /images/tours/walking-holiday-eastern-arunachal-pradesh.jpg
-type : "active"
+type : "walking"
 category: "active"
 cat: "Easy to Moderate"
-tags: ["east-arunachal", "trekking"]
+tags: ["east-arunachal", "trekking", "walking"]
 weight: 9
 touricon: "iconoir:walking"
 
@@ -123,17 +123,19 @@ galleryimages:
   - "/images/tours/gallery/walking-holiday-eastern-arunachal-pradesh/walks-in-arunachal-pradesh.jpg"
   - "/images/tours/gallery/walking-holiday-eastern-arunachal-pradesh/walks-of-arunachal-pradesh.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg    
+- title: Walks in the Clouds
+  link: /tours/walking-tour-meghalaya
+  image: /images/tours/walking-tour-meghalaya.jpg
+- title: Trekking in Namdapha National Park
+  link: /tours/trekking-in-namdapha-rainforest
+  image: /images/tours/trekking-in-namdapha-rainforest.jpg
+- title: The Rhododendron Trail
+  link: /tours/trekking-in-sikkim-bengal
+  image: /images/tours/trekking-in-sikkim-bengal.jpg
+- title: The Bailey Trail 
+  link: /tours/trekking-in-west-arunachal-pradesh
+  image: /images/tours/trekking-in-west-arunachal-pradesh.jpg    
 ---
 
 #### Walking Holiday in Eastern Arunachal Pradesh: Walks in India's far east
@@ -143,23 +145,3 @@ Arunachal Pradesh, ‘the dawn lit Mountains’ is the easternmost state of Indi
 The tour includes a series of walks across these eastern most river valleys. This is a land of the Animist and Theravada Buddhist tribes of the state who are still very rooted in their culture and traditions. You will be walking through wildlife sanctuaries, camp next to pristine lakes, visit idellic villages, indulging in local cuisines and have authentic interactions with the people who live here. 
 
 The tour is quite flexible and can be worked out around the duration that you have in hand. Do write in to us for the details.
-
-<!-- #### Other Treks & Walks
----
-
-###### Meghalaya
-
-+ [Meghalaya (Walks in the clouds)](/treks/walking-tour-meghalaya/) 
-
----
-###### Arunachal Pradesh
-
-+ [Eastern Arunachal Pradesh (The Rainforest trek)](/treks/namdapha-rainforest-trek/)   
-+ [Western Arunachal Pradesh(The high lakes trek)](/treks/trekking-arunachal-pradesh/)
-
----
-###### Sikkim & W Bengal
-
-+ [Sikkim & W Bengal (Singalila & Barsey trek)](/treks/trekking-in-sikkim-bengal/)
-
---- -->

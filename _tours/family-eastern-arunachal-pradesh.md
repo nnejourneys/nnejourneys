@@ -6,7 +6,7 @@ days: "6-10 Days"
 description : "Family holiday in Eastern Arunachal Pradesh. We take you to some of the easternmost regions of India. Wildlife, Adventure, Culture and more."
 bg_image: /images/tours/family-eastern-arunachal-pradesh.jpg
 image : /images/tours/family-eastern-arunachal-pradesh.jpg
-type : "leisure" 
+type : "family" 
 category: "leisure"
 cat: "Offbeat"
 tags: ["east-arunachal", "offbeat"]
@@ -115,17 +115,13 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg
+- title: Jewels of the Brahmaputra
+  link: /tours/family-holiday-assam
+  image: /images/tours/family-holiday-assam.jpg
+- title: Natures Amusement Park 
+  link: /tours/family-holiday-in-meghalaya
+  image: /images/tours/family-holiday-in-meghalaya.jpg
 ---
 
 #### Family Holiday in Eastern Arunachal Pradesh: Far eastern explorations
@@ -134,11 +130,4 @@ This active family holiday of Eastern Arunachal Pradesh is set in some of the on
 
 Over the duration of this tour you will get an in-depth into this interesting regions wide mix of cultures, experience the lush environment and bio-diversity, indulge in some adventures and learn about the rich history of this little known corner of the sub-continent.
 
-This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. 
-
-
-##### Other Family Tours
----
-
-###### [**Assam**  ( Jewels of the Brahmaputra )](/family/assam-family-holiday/) 
-###### [**Meghalaya**(Natures Amusement Park )](/family/family-holiday-in-meghalaya/)  
+This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options.

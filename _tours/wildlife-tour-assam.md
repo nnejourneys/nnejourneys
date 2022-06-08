@@ -7,7 +7,7 @@ description : "The Wildlife tour of Assam takes you to some of the better wildli
 tourdesc: Brahmaputra valley of Assam, is the geographical heart of northeastern India. This region lying perched between Himalayan and Indo-Burmese biodiversity hotspots hosts a string of wildlife parks, home to several threatened mammal species, including the tiger, Asian elephant, greater one-horned rhinoceros, swamp deer , gaur , clouded leopard , hispid hare, pygmy hog, capped leaf monkey , Asiatic black bear, sloth bear and the Gangetic river dolphins among others . This wildlife tour of the Brahmaputra valley takes you to some of the better known wildlife sanctuaries along the Mighty Brahmaputra, indulging in Elephant back, Jeep, Walking and Boat safaris.
 bg_image: /images/tours/wildlife-tour-assam.jpg
 image : /images/tours/wildlife-tour-assam.jpg
-type: "leisure"
+type: "wildlife"
 category: "leisure"
 cat: "Comfort"
 tags: ["assam", "wildlife"]
@@ -107,7 +107,6 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
 - title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
   link: /tours/culture-tour-western-arunachal-pradesh

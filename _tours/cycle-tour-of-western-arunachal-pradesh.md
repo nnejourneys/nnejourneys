@@ -7,7 +7,7 @@ description : "Cycle tour of Western Arunachal Pradesh. This Cycling holiday tak
 tourdesc: "This cycling tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang. Lying close to the tri-juncture of India, Bhutan and Tibet, this is  the Buddhist belt, home to the Monpa, Sherdukpen and Brokpa people. Up till 1935 this region was administered and taxed by the Tibetian authorities. In 1938 Capt. GS Lightfoot was sent to demonstrate British sovereignty over the region. It was only in 1944 that the Tibetian authorities accepted the proposed Mcmohan line (1914 line) as the defacto border and hence it becoming a part of British India. /This region has some of the highest motorable roads of the eastern Himalayas, at places taking you to an altitude of 4600 mts. We start cycling from the lush tea fields of the Brahmaputra valley, making our way through the sub-tropial broad leaf forest at the foothills to the alpine forest and finally crossing beyond the tree line. Enroute you will pass through small settlements and towns giving you a first hand view into the life in these mountanious regions. The cycling phase covers between 300 to 650 Kms depending on the duration you choose, for most parts riding on little used backroads of this region historically known as the Monyul. Incidentally, in a rough manner we mirror the same route the Dalai Lama used in his exodus from Tibet in the year 1959. "
 bg_image: /images/tours/cycle-tour-of-western-arunachal-pradesh.jpg
 image : /images/tours/cycle-tour-of-western-arunachal-pradesh.jpg
-type: "active"
+type: "cycling"
 category: "active"
 cat: "Strenuous"
 tags: ["west-arunachal", "cycling"]
@@ -130,53 +130,29 @@ galleryimages:
 - "/images/tours/gallery/cycle-tour-of-western-arunachal-pradesh/Tawang-Cycle-Tour4.jpg"
 - "/images/tours/gallery/cycle-tour-of-western-arunachal-pradesh/Tawang-Cycle-Tour5.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg
+- title: The Brahmaputra Explorer 
+  link: /tours/cycle-tour-of-assam
+  image: /images/tours/cycle-tour-of-assam.jpg
+- title: The Trans-Meghalaya Explorer
+  link: /tours/cycle-tour-trans-meghalaya
+  image: /images/tours/cycle-tour-trans-meghalaya.jpg
+- title: The Abode of clouds 
+  link: /tours/cycle-tour-of-meghalaya
+  image: /images/tours/cycle-tour-of-meghalaya.jpg
+- title: The Mishmi Hills Explorer 
+  link: /tours/cycle-tour-of-mishmi-hills-arunachal-pradesh
+  image: /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
+- title: The Himalayan High
+  link: /tours/cycle-tour-of-western-arunachal-pradesh
+  image: /images/tours/cycle-tour-of-western-arunachal-pradesh.jpg 
+- title: The Monastic Trail
+  link: /tours/cycle-tour-of-sikkim
+  image: /images/tours/cycle-tour-of-sikkim.jpg
 ---
 
 #### Cycle Tour of Western Arunachal Pradesh: The Himalayan High
 
----
-
 This cycling tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang. Lying close to the tri-juncture of India, Bhutan and Tibet, this is  the Buddhist belt, home to the Monpa, Sherdukpen and Brokpa people. Up till 1935 this region was administered and taxed by the Tibetian authorities. In 1938 Capt. GS Lightfoot was sent to demonstrate British sovereignty over the region. It was only in 1944 that the Tibetian authorities accepted the proposed Mcmohan line (1914 line) as the defacto border and hence it becoming a part of British India.
 
-This region has some of the highest motorable roads of the eastern Himalayas, at places taking you to an altitude of 4600 mts. We start cycling from the lush tea fields of the Brahmaputra valley, making our way through the sub-tropial broad leaf forest at the foothills to the alpine forest and finally crossing beyond the tree line. Enroute you will pass through small settlements and towns giving you a first hand view into the life in these mountanious regions. The cycling phase covers between 300 to 650 Kms depending on the duration you choose, for most parts riding on little used backroads of this region historically known as the Monyul. Incidentally, in a rough manner we mirror the same route the Dalai Lama used in his exodus from Tibet in the year 1959. 
-
-
-<!-- 
-#### Other Cycle Tours
----
-
-###### **Assam**
-
-+ [Brahmaputra Valley Explorer](/cycling/cycle-tour-of-assam/) 
-
----
-
-###### **Meghalaya**
-
-+ [The Abode of clouds](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/) 
-+ [Trans-Meghalaya](/cycling/trans-meghalaya-cycle-tour/) 
-
----
-###### **Arunachal Pradesh**
-
-+ [Eastern Arunachal Pradesh (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/)  
-+ [Eastern Arunachal Pradesh (The Mishmi Hills)](/cycling/cycling-in-arunachal-pradesh/) 
-
----
-###### **Sikkim & W Bengal**
-
-+ [The Monastic Trail](/cycling/cycle-tour-of-sikkim/)
-
---- -->
-
+This region has some of the highest motorable roads of the eastern Himalayas, at places taking you to an altitude of 4600 mts. We start cycling from the lush tea fields of the Brahmaputra valley, making our way through the sub-tropial broad leaf forest at the foothills to the alpine forest and finally crossing beyond the tree line. Enroute you will pass through small settlements and towns giving you a first hand view into the life in these mountanious regions. The cycling phase covers between 300 to 650 Kms depending on the duration you choose, for most parts riding on little used backroads of this region historically known as the Monyul. Incidentally, in a rough manner we mirror the same route the Dalai Lama used in his exodus from Tibet in the year 1959.

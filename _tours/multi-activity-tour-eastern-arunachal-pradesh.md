@@ -7,7 +7,7 @@ description : "This Multi activity holiday of Eastern Arunachal Pradesh, takes y
 tourdesc: Multi-activity tour of eastern Arunachal Pradesh:- Eastern tributaries of the Brahmaputra explored. This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River valley. This region situated at the foothills of the Mishmi hills the eastern flank to the Himalayan chain, is the land of the Animist and Theravada Buddhist tribes. Authentic interactions, local cuisine, history and lifestyle of the tribes etc are our focus here. The cycling phase takes us across territories of six different tribes where as the hiking phase takes us away from civilization into two different and unique wildlife sanctuaries. This multi-activity tour of Eastern Arunachal Pradesh also includes rafting on the Dibang and the Lohit rivers, the easternmost tributaries of the Brahmaputra.
 bg_image: /images/tours/multi-activity-tour-eastern-arunachal-pradesh.jpg
 image : /images/tours/multi-activity-tour-eastern-arunachal-pradesh.jpg
-type: "active"
+type: "multi-activity"
 category: "active"
 cat: "Moderate"
 tags: ["east-arunachal", "multi-activity"]
@@ -124,29 +124,16 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg  
+- title: Adventure, Wildlife & Culture
+  link: /tours/multi-activity-holiday-assam
+  image: /images/tours/multi-activity-holiday-assam.jpg
+- title: Hike, Cycle, Nature & Culture 
+  link: /tours/multi-activity-holiday-in-meghalaya
+  image: /images/tours/multi-activity-holiday-in-meghalaya.jpg
 ---
 #### Multi-activity tour of eastern Arunachal Pradesh: Eastern tributaries of the Brahmaputra explored
 
 This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River valley. This region situated at the foothills of the Mishmi hills the eastern flank to the Himalayan chain, is the land of the Animist and Theravada Buddhist tribes. 
 
 Authentic interactions, local cuisine, history and lifestyle of the tribes etc are our focus here. The cycling phase takes us across territories of six different tribes where as the hiking phase takes us away from civilization into two different and unique wildlife sanctuaries. This multi-activity tour of Eastern Arunachal Pradesh also includes rafting on the Dibang and the Lohit rivers, the easternmost tributaries of the Brahmaputra.
-
-<!-- ##### Other Multi-activity Tours
----
-
-###### [**Assam** (Tea, Wildlife & Culture)](/multiactivity/multiactivity-holiday-assam/) 
-###### [**Meghalaya** (Hike, Bike, Nature & Culture)](/multiactivity/multi-activity-holiday-in-meghalaya/)  
-
- -->
-

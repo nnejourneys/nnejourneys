@@ -7,7 +7,7 @@ description : "Motorcycle & Overland Tour of Meghalaya. This Motorcycle and Over
 tourdesc: Starting from Guwahati the capital of Assam, this motorcycle / overland tour takes you through little known secluded roads of Meghalaya. Entering Meghalaya in the western end we make our way to its far eastern hills, enroute traversing through varying conditions and basking in the  vistas of the Meghalayan hills and the plains of Bangladesh while staying in charming locations all through settled by different tribes. This is a land of plaetues, hills and deep river valleys. Richly endowned by nature with some of the deepest caves and tallest waterfalls of Asia. Almost every day you come across numerous waterfalls which depending on tour time of travel could vary from gushing frothy to a subtle glassy appearance. Depending on the duration you have the itinerary can include some cave exploration and canyoning in one of the longest caves of the world. We will take time to visit of the natural root bridges of the state including the most famous double decker bridge. The route is quite flexible depending the duration you have in hand, level of involvement you want to put in or your techical ability.
 bg_image: /images/tours/motorcycle-overland-trans-meghalaya.jpg
 image : /images/tours/motorcycle-overland-trans-meghalaya.jpg
-type: "active"
+type: "motorcycle"
 category: "active"
 cat: "Moderate"
 tags: ["meghalaya", "overland"]
@@ -121,17 +121,13 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg    
+- title: High roads of the Monyul 
+  link: /tours/motorcycle-overland-western-arunachal-pradesh
+  image: /images/tours/motorcycle-overland-western-arunachal-pradesh.jpg
+- title: The Eastern Arc
+  link: /tours/motorcycle-overland-northeast
+  image: /images/tours/motorcycle-overland-northeast.jpg    
 ---
 
 #### Trans Meghalaya Motorcycle & Overland Tour: The abode of clouds explored

@@ -8,7 +8,7 @@ tourdesc: "Trekking in Sikkim and W Bengal:- A Trek amongst the giants.
 This trek takes you to the hills of Sikkim and North Bengal, a mystical land of abundant natural beauty with verdant forests, quaint sub alpine villages and high towering mountains. Sikkim is home to the magnificant Kanchanjunga Massif, the third-highest mountain on earth. The pinnacle of this majestic mountain is perennially snowcapped and ever towering over the region like the deity that she is. The trek will take you across state and sometimes national borders, as we make our way south from the Barsey Rhodondren Sanctuary along the Nepalese frontier, walking the phenominal Singalila Ridge. This region is perched between the giant plains of the Gangetic and Brahmaputra valleys and the high Himalayan massif. Barsey Rhododendron Sanctuary spans over the razor sharp Singalila Range which forms the border wall between India and Nepal. Ranging from an altitude of about 7000 to 14000 feet, the flora of the sanctuary ranges from broadleaf and coniferous forests to alpine meadows, but the queen of this sanctuary is the Rhodendron of which over 600 kinds can be found here itself. The route takes us from a starting altitude of about 2700 mts up to about 3750 mts. The Singalila ridge, which is about 50 kms long offers phenominal panoramas of the valleys of Nepal and Sikkim, and the high peaks of Himalayas especially the sights of 5 out of the 6 highest peaks on earth. The mornings and evenight offer spellbinding vistas, almost an amphitheatre where we are the spectators and the high peaks the protagonists. This trek can be quite flexible in duration without losing its charms. Please write in to us with your ideal duration and we will get back with an appropriate itinerary."
 bg_image: /images/tours/trekking-in-sikkim-bengal.jpg
 image: /images/tours/trekking-in-sikkim-bengal.jpg
-type : "active"
+type : "trekking"
 category: "active"
 cat: "Strenuous"
 tags: ["sikkim", "west-bengal", "trekking"]
@@ -114,17 +114,19 @@ faq:
 galleryimages:
   - "/images/tours/cycle-tour-of-assam.jpg"
 
-#### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
-  link: /tours/culture-tour-western-arunachal-pradesh
-  image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg    
+- title: Walks in the Clouds
+  link: /tours/walking-tour-meghalaya
+  image: /images/tours/walking-tour-meghalaya.jpg
+- title: Walks in India's far east
+  link: /tours/walking-holiday-eastern-arunachal-pradesh
+  image: /images/tours/walking-holiday-eastern-arunachal-pradesh.jpg
+- title: Trekking in Namdapha National Park
+  link: /tours/trekking-in-namdapha-rainforest
+  image: /images/tours/trekking-in-namdapha-rainforest.jpg
+- title: The Bailey Trail 
+  link: /tours/trekking-in-west-arunachal-pradesh
+  image: /images/tours/trekking-in-west-arunachal-pradesh.jpg      
 ---
 
 #### Trekking in Sikkim and W Bengal: A Trek amongst the giants
@@ -134,21 +136,4 @@ This trek takes you to the hills of Sikkim and North Bengal, a mystical land of 
 This region is perched between the giant plains of the Gangetic and Brahmaputra valleys and the high Himalayan massif. Barsey Rhododendron Sanctuary spans over the razor sharp Singalila Range which forms the border wall between India and Nepal. Ranging from an altitude of about 7000 to 14000 feet, the flora of the sanctuary ranges from broadleaf and coniferous forests to alpine meadows, but the queen of this sanctuary is the Rhodendron of which over 600 kinds can be found here itself. The route takes us from a starting altitude of about 2700 mts up to about 3750 mts. The Singalila ridge, which is about 50 kms long offers phenominal panoramas of the valleys of Nepal and Sikkim, and the high peaks of Himalayas especially the sights of 5 out of the 6 highest peaks on earth. The mornings and evenight offer spellbinding vistas, almost an amphitheatre where we are the spectators and the high peaks the protagonists.
 
 This trek can be quite flexible in duration without losing its charms. Please write in to us with your ideal duration and we will get back with an appropriate itinerary.
-
-<!-- 
-#### Other Treks & Walks
----
-
-###### Meghalaya
-
-+ [Meghalaya (Walks in the clouds)](/treks/walking-tour-meghalaya/) 
-
----
-###### Arunachal Pradesh
-
-+ [Eastern Arunachal Pradesh (Walks in India's far east)](/treks/walking-holiday-eastern-arunachal-pradesh/) 
-+ [Eastern Arunachal Pradesh (The Rainforest trek)](/treks/namdapha-rainforest-trek/)
-+ [Western Arunachal Pradesh(The high lakes trek)](/treks/trekking-arunachal-pradesh/)  
-
---- -->
  

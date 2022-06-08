@@ -7,7 +7,7 @@ description : "Trekking & Wildlife Expedition in Namdapha National Park of Easte
 tourdesc: This trekking holiday takes you to the Namdapha National Park located in eastern Arunachal Pradesh. Namdapha is one of the largest protected areas of Asia as well as the northernmost lowland evergreen rainforest of the world. We take you walking for 4 days through thick rain forest, grasslands and riverine areas of the national park. Perched between the East Himalayan and the Indo-Burmese Biodiversity hotspots Namdapha is home to over 1000 species of plants, 425 avian species and over 90 species of mammals. This is also the only wildlife park to host four big cats in India, namely the Royal Bengal Tiger, Spotted Leopard, Snow Leopard and the Clouded Leopard. The entire proceedings has been designed with the pandemic in mind. Our intention is to take you far from the hustle bustle of daily life and deep into inarguably the wildest region of India.
 bg_image: /images/tours/trekking-in-namdapha-rainforest.jpg
 image : /images/tours/trekking-in-namdapha-rainforest.jpg
-category: "active"
+category: "trekking"
 cat: "Easy to Moderate"
 type : "active"
 tags: ["trekking", "east-arunachal"]
@@ -124,15 +124,9 @@ galleryimages:
  
 #### Other Ethno-Cultural Tours
 othertours:
-- title: CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM Monyul & Brahmaputa Valley 
+- title: Monyul & Brahmaputa Valley 
   link: /tours/culture-tour-western-arunachal-pradesh
   image: /images/tours/culture-tour-western-arunachal-pradesh.jpg
-- title: Culture Tour of Nagaland & Assam Hornbill Festival and beyond 
-  link: /tours/culture-tour-of-nagaland-hornbill-festival
-  image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
-- title: CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH Theravada & Animist lands 
-  link: /tours/culture-tour-eastern-arunachal-pradesh
-  image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg  
 ---
 
 #### A trek in the worlds northernmost lowland rainforest
@@ -142,22 +136,3 @@ This trekking holiday takes you to the Namdapha National Park located in eastern
 Perched between the East Himalayan and the Indo-Burmese Biodiversity hotspots Namdapha is home to over 1000 species of plants, 425 avian species and over 90 species of mammals. This is also the only wildlife park to host four big cats in India, namely the Royal Bengal Tiger, Spotted Leopard, Snow Leopard and the Clouded Leopard.
 
 The entire proceedings has been designed with the pandemic in mind. Our intention is to take you far from the hustle bustle of daily life and deep into inarguably the wildest region of India.
-
-<!-- 
-
-#### Other Departures
----
-
-###### March
-
-+ [**Arunachal Pradesh** | Cycling (Watershed of the Brahmaputra)](/departures/eastern-arunachal-cycling-departure/) 
-
----
-###### April
-
-+ [**Meghalaya** | Walking (Walks in the Clouds)](/treks/walking-holiday-eastern-arunachal-pradesh/) 
-+ [**Arunachal Pradesh** | Roadtrip (The Far Eastern Odyssey)](/departures/the-eastern-odyssey/)  
-
-- -->
-
-
