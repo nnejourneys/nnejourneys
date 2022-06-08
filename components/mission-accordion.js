@@ -23,8 +23,8 @@ export default function MissionAccordion() {
               <Image
                 src="/images/map-of-northeast-india.jpg"
                 alt="chart"
-                width={300}
-                height={340}
+                width={600}
+                height={680}
                 className="img-fluid w-100"
               />
             </div>
