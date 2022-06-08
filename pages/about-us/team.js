@@ -1,5 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 import Head from "next/head";
+import { CMS_NAME } from "../../lib/constants";
 import Image from "next/image";
 import Teammembers from "../../data/team.json";
 import { Icon } from '@iconify/react';

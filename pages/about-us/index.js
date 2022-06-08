@@ -1,5 +1,6 @@
 import React from "react";
 import Head from "next/head";
+import { CMS_NAME } from "../../lib/constants";
 import Image from "next/image";
 import Responsibility from "../../data/resposibility.json";
 import { Icon } from "@iconify/react";
