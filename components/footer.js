@@ -39,13 +39,6 @@ export default function Footer() {
                         target="_blank"
                       >
                         <Icon icon={item.icons} width={20} height={20} color="white"/>
-                        {/* <Image
-                          className="social-icon p-1"
-                          src={item.icon}
-                          width={30}
-                          height={30}
-                          alt=""
-                        /> */}
                       </a>
                     </li>
                   ))}
