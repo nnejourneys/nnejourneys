@@ -127,6 +127,7 @@ galleryimages:
 - "/images/tours/gallery/cycle-tour-of-sikkim/tea_pickers.jpg"
 - "/images/tours/gallery/cycle-tour-of-sikkim/WP_20140920_0722.jpg"
 
+othertours:
 - title: The Brahmaputra Explorer 
   link: /tours/cycle-tour-of-assam
   image: /images/tours/cycle-tour-of-assam.jpg
