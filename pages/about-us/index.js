@@ -4,8 +4,7 @@ import Responsibility from "../../data/resposibility.json";
 import { Icon } from '@iconify/react';
 
 
-export default function Aboutus() {
-  const heroImage = "/images/hero-slider/north-by-northeast-journeys-culture-tours-in-northeast-india.jpg"
+export default function Aboutus() { 
   return (
     <>
        <section className="section">
@@ -39,7 +38,7 @@ export default function Aboutus() {
             <div className="col-lg-5 align-self-center order-1 order-lg-2 mb-md-50">
               <Image
                 className="img-fluid w-100"
-                src="/images/about/philosophy.jpg"
+                src="/images/philosophy.jpg"
                 alt="philosophy-image"
                 width={300}
                 height={300}
@@ -56,7 +55,7 @@ export default function Aboutus() {
               className="col-lg-5 rounded-left ceo-image ps-0" 
             >
               <Image
-                src="/images/about/ceo.jpg"
+                src="/images/ceo.jpg"
                 alt=""
                 width={300}
                 height={300}

@@ -1,5 +1,6 @@
 import { useRouter } from "next/router";
 import Image from "next/image";
+import Link from "next/link";
 import ErrorPage from "next/error";
 import TourBody from "../../components/tours/tour-body";
 import TourHeader from "../../components/tours/tour-header";
@@ -12,8 +13,7 @@ import { Container, Tabs, Tab } from "react-bootstrap";
 import EnquiryForm from "../../components/enquiry-form";
 import { SRLWrapper } from "simple-react-lightbox";
 import { Icon } from "@iconify/react";
-import TourItem from "../../components/tours/tour-item";
-// import TourHero from "../../components/tours/tour-hero";
+import SectionSeparator from "../../components/section-separator"; 
 
 export default function Tour({ tour }) {
   const options = {
@@ -86,25 +86,23 @@ export default function Tour({ tour }) {
                     </ul>
                   </div>
                 </aside>
-
                 <div className="col-lg-8 ">
-                <TourBody className="mb-5" content={tour.content} />
-                  {/* <p className="tourdesc"> {tour.tourdesc} </p> */}
+                  <TourBody className="mb-5" content={tour.content} />
                 </div>
               </div>
               <Tabs
                 defaultActiveKey="overview"
                 id="uncontrolled-tab-example"
-                className="mb-5"
+                className="my-5"
               >
                 <Tab eventKey="overview" title="Overview">
                   <h5 className="mb-5">Overview</h5>
                   <ul className="pl-0 mb-10">
                     {tour.overs.map((item, index) => (
                       <li className="py-2 border-bottom-not-last" key={index}>
-                        <p>
-                          <b className="text-muted">{item.l}</b>{" "}
-                          <Icon className="mb-1" icon="bi:chevron-right" />{" "}
+                        <p className="mt-2">
+                          <b className="text-muted mt-5">{item.l}</b>
+                          <br />
                           {item.d}
                         </p>
                       </li>
@@ -116,8 +114,11 @@ export default function Tour({ tour }) {
                   <h5 className="mb-5">Highlights</h5>
                   <ul className="pl-0 mb-10">
                     {tour.highlights.map((item, index) => (
-                      <li className="py-2 border-bottom-not-last" key={index}>
-                        <Icon className="mb-1" icon="bi:chevron-right" /> {item}
+                      <li
+                        className="py-2 border-bottom-not-last liststyle"
+                        key={index}
+                      >
+                        {item}
                       </li>
                     ))}
                   </ul>
@@ -126,8 +127,11 @@ export default function Tour({ tour }) {
                   <h5 className="mb-5">Inclusions</h5>
                   <ul className="pl-0 mb-10">
                     {tour.inclusions.map((item, index) => (
-                      <li className="py-2 border-bottom-not-last" key={index}>
-                        <Icon className="mb-1" icon="bi:chevron-right" /> {item}
+                      <li
+                        className="py-2 border-bottom-not-last liststyle"
+                        key={index}
+                      >
+                        {item}
                       </li>
                     ))}
                   </ul>
@@ -135,17 +139,26 @@ export default function Tour({ tour }) {
                 <Tab eventKey="accommodation" title="Accomodation">
                   <h5 className="mb-5">Accomodation</h5>
                   <ul className="pl-0 mb-10">
-                    <li className="d-flex">
-                      <p className="fw-bolder pe-2"> Meals:</p>
-                      <p> {tour.meals} </p>
+                    <li className="border-bottom-not-last">
+                      <p className="mt-2">
+                        <b className="fw-bolder text-muted">Meals</b>
+                        <br />
+                        {tour.meals}
+                      </p>
                     </li>
-                    <li className="d-flex">
-                      <p className="fw-bolder pe-2">Accommodation:</p>
-                      <p> {tour.accommodation} </p>
+                    <li className="border-bottom-not-last">
+                      <p className="mt-2">
+                        <b className="fw-bolder text-muted">Accommodation</b>
+                        <br />
+                        {tour.accommodation}
+                      </p>
                     </li>
-                    <li className="d-flex">
-                      <p className="fw-bolder pe-2">Refreshments: </p>
-                      <p> {tour.refreshments} </p>
+                    <li className="border-bottom-not-last">
+                      <p className="mt-2">
+                        <b className="fw-bolder text-muted">Refreshments</b>
+                        <br />
+                        {tour.refreshments}
+                      </p>
                     </li>
                   </ul>
                 </Tab>
@@ -189,30 +202,37 @@ export default function Tour({ tour }) {
                   ))}
                 </ul>
               </div>
-              <div className="mt-5">
-                <p className="text-danger fst-italic">
+              <div className="my-5">
+                <p className="text-muted text-center">
                   * Our Itineraries are quite unique hence we prefer not to put
                   it up on the site. Please write in to us for the detailed
                   itinerary and cost.
                 </p>
               </div>
-              {/* <TourBody className="my-5" content={tour.content} /> */}
-              <h4> Other {tour.category} Tours</h4>
+
+              <SectionSeparator />
+
+              <h4 className="text-capitalize"> other {tour.category} tours</h4>
               <ul className="row my-3">
                 {tour.othertours.map((item, index) => (
-                  <li className="col-md-3" key={index}>
-                    
-                    <a href={item.link}>
-                      <Image
-                        className="img-fluid "
-                        src={item.image}
-                        alt={item.title}
-                        layout="fixed"
-                        width="300"
-                        height="200"
-                      />
-                      <h5> {item.title} </h5>
-                    </a>
+                  <li className="col-xl-3 col-lg-6 col-md-6 col-sm-12 g-2" key={index}> 
+                      <div className="position-relative">
+                        <Image
+                          className="img-fluid w-100"
+                          src={item.image}
+                          layout="responsive"
+                          width={240}
+                          height={160}
+                          alt={item.title}
+                        />
+                        <div className="tour-list-item">
+                          <Link href={item.title}>
+                            <a>
+                              <h5 className="fw-bold">{item.title}</h5>
+                            </a>
+                          </Link>
+                        </div>
+                      </div> 
                   </li>
                 ))}
               </ul>
@@ -239,6 +259,7 @@ export async function getStaticProps({ params }) {
     "cat",
     "tags",
     "weight",
+    "touricon",
     "type",
     "overview",
     "over",
