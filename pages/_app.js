@@ -6,11 +6,12 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import SimpleReactLightbox from "simple-react-lightbox";
 import { SSRProvider } from "@react-aria/ssr";
+import TagManager from "react-gtm-module";
 
 export default function MyApp({ Component, pageProps }) {
-  // useEffect(() => {
-  //   TagManager.initialize({ gtmId: "GTM-NH46GHZ" });
-  // }, []);
+  useEffect(() => {
+    TagManager.initialize({ gtmId: "GTM-xxx" });
+  }, []);
 
   return (
     <SSRProvider>
