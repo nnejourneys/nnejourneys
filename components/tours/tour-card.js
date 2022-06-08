@@ -44,7 +44,7 @@ export default function TourCard({
                         </h6>
                       </div>
                       <div className="col-10">
-                        <p className="card-text ms-2  mb-0">
+                        <p className="card-text tour-card ms-2  mb-0">
                           <Icon className="me-2 mb-1" icon="bytesize:flag" />
                            {days}
                         </p>
