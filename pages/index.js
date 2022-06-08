@@ -7,7 +7,7 @@ import CTA from "../components/cta";
 import Testimonials from "../components/testimonials";
 import TourTypes from "../components/tour-types";
 
-export default function Index({ allPosts }) {
+export default function Index( ) {
    
   return (
     <>
@@ -21,19 +21,4 @@ export default function Index({ allPosts }) {
       <Testimonials />
     </>
   );
-}
-
-export async function getStaticProps() {
-  const allPosts = getAllPosts([
-    "title",
-    "date",
-    "slug",
-    "author",
-    "coverImage",
-    "excerpt",
-  ]);
-
-  return {
-    props: { allPosts },
-  };
-}
+} 
