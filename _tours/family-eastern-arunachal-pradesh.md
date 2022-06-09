@@ -2,8 +2,8 @@
 draft: false
 title: "FAMILY HOLIDAY IN EASTERN ARUNACHAL PRADESH"
 subtitle: "India's Far East"
-days: "6-10 Days"
-description : "Family holiday in Eastern Arunachal Pradesh. We take you to some of the easternmost regions of India. Wildlife, Adventure, Culture and more."
+days: "6 to 10 days"
+description : "We take you to some of the easternmost regions of India. Wildlife, Adventure, Culture and more."
 bg_image: /images/tours/family-eastern-arunachal-pradesh.jpg
 image : /images/tours/family-eastern-arunachal-pradesh.jpg
 type : "family" 

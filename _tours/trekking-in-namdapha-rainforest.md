@@ -2,9 +2,8 @@
 draft: false
 title: "THE RAINFOREST TREK"
 subtitle: "Trekking in Namdapha National Park"
-days: "6 Days"
+days: "6 days"
 description : "Trekking & Wildlife Expedition in Namdapha National Park of Eastern Arunachal Pradesh. A unique trek in the worlds northernmost rainforest"
-tourdesc: This trekking holiday takes you to the Namdapha National Park located in eastern Arunachal Pradesh. Namdapha is one of the largest protected areas of Asia as well as the northernmost lowland evergreen rainforest of the world. We take you walking for 4 days through thick rain forest, grasslands and riverine areas of the national park. Perched between the East Himalayan and the Indo-Burmese Biodiversity hotspots Namdapha is home to over 1000 species of plants, 425 avian species and over 90 species of mammals. This is also the only wildlife park to host four big cats in India, namely the Royal Bengal Tiger, Spotted Leopard, Snow Leopard and the Clouded Leopard. The entire proceedings has been designed with the pandemic in mind. Our intention is to take you far from the hustle bustle of daily life and deep into inarguably the wildest region of India.
 bg_image: /images/tours/trekking-in-namdapha-rainforest.jpg
 image : /images/tours/trekking-in-namdapha-rainforest.jpg
 category: "trekking"
@@ -122,7 +121,6 @@ galleryimages:
   - "/images/tours/gallery/trekking-in-namdapha-rainforest/trek-rainforest-namdapha.jpg"
   - "/images/tours/gallery/trekking-in-namdapha-rainforest/Trekking-in-namdapha-national-park.jpg"
  
-#### Other Ethno-Cultural Tours
 othertours:
 - title: Monyul & Brahmaputa Valley 
   link: /tours/culture-tour-western-arunachal-pradesh

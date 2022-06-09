@@ -4,7 +4,6 @@ title: "MULTI-ACTIVITY TOUR OF ASSAM"
 subtitle: "Adventure, Wildlife & Culture"
 days: "6 to 12 days"
 description : "This Multi-Activity holiday of Assam takes you to its reknowned, Tea plantations, Wildlife Sanctuaries, River Islands whicke cycling, hiking, rafting in prestine surroundings"
-tourdesc: Multi-Activity Holiday in Assam:- The Brahmaputra Valley. This multi-activity tour takes us to the Brahmaputra valley of Assam. A lush strip of land sandwiched between the Himalayan landmass on the north and the lesser hills of Nagaland and Meghalaya in the south. The Brahmaputra valley is home to a multitude of ethinicities, a string of wildlife sanctuaries and the famous Assam tea among others. On this tour we will indulge in short day cycling and hiking forays. Explore the culture and cuisine of this land, embark on wildlife safari’s, live in and learn about life in a typical Assamese Tea Plantation, spot the endangered River Dolphins of the Brahmaputra, cycle around the largest river island of the world and much more. 
 bg_image: /images/tours/multi-activity-holiday-assam.jpg
 image : /images/tours/multi-activity-holiday-assam.jpg
 type : "multi-activity"

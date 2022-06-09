@@ -4,7 +4,6 @@ title: "MULTI-ACTIVITY TOUR OF EASTERN ARUNACHAL PRADESH"
 subtitle: "Hike, Bike, Raft & Culture"
 days: "6 to 12 days" 
 description : "This Multi activity holiday of Eastern Arunachal Pradesh, takes you hiking, cycling, and rafting in the land of the 'Dawn lit Mountains'"
-tourdesc: Multi-activity tour of eastern Arunachal Pradesh:- Eastern tributaries of the Brahmaputra explored. This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River valley. This region situated at the foothills of the Mishmi hills the eastern flank to the Himalayan chain, is the land of the Animist and Theravada Buddhist tribes. Authentic interactions, local cuisine, history and lifestyle of the tribes etc are our focus here. The cycling phase takes us across territories of six different tribes where as the hiking phase takes us away from civilization into two different and unique wildlife sanctuaries. This multi-activity tour of Eastern Arunachal Pradesh also includes rafting on the Dibang and the Lohit rivers, the easternmost tributaries of the Brahmaputra.
 bg_image: /images/tours/multi-activity-tour-eastern-arunachal-pradesh.jpg
 image : /images/tours/multi-activity-tour-eastern-arunachal-pradesh.jpg
 type: "multi-activity"

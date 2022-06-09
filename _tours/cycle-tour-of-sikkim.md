@@ -2,9 +2,8 @@
 draft: false
 title: "CYCLE TOUR OF SIKKIM & West BENGAL"
 subtitle: "The Monastic Trail"
-days: "9 - 14 Days"
+days: "9 to 14 days"
 description : "This Cycle tour takes you through the best of Sikkim and West Bengal"
-tourdesc: "This cycling tour of Sikkim and West Bengal takes us through East, South and Western districts of Sikkim and the Darjeeling district of West Bengal. We will generally be in sub alpine rural himalayas, this provides us an excellent opportunity to observe life in these parts, interact with the locals and throughout be accompanied by amazing panoramas of the high himalayas. This tour takes you through most of the important locations of this region, including  historic, religious and cultural sites."
 bg_image: /images/tours/cycle-tour-of-sikkim.jpg
 image : /images/tours/cycle-tour-of-sikkim.jpg
 type : "cycling"

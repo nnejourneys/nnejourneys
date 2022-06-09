@@ -2,9 +2,8 @@
 draft: false
 title: "MOTORCYCLE TOUR OF WESTERN ARUNACHAL PRADESH"
 subtitle: "High roads of the Monyul"
-days: "8-12 Days"
-description : "Motorcycle & Overland Tour of Western Arunachal Pradesh. This tour takes you across the tea fields of Assam to the high roads of western Arunachal Pradesh"
-tourdesc: This Motorcycle / Overland tour takes you to Western Arunachal Pradesh which includes some of the highest motorable roads of the eastern Himalayas. This region is settled by the Tibetian Buddhism related tribes such as the Monpa, Sherdukpen and Brokpa. Historically this region has had close cultural and religious ties both to Bhutan and Tibet due to it being the tri-juncture between these three Kingdoms, infact it was under the protectorate of Tibet uptill 1945. Enroute you will get as high 4500mts. The Tawang Monastery, Sungatser Lake, Tse la pass, Gorsum Chorten and Nameri Wildlife Sanctuary are some of the highlights of this circuit. Riding conditions vary with canging road conditions and the time of travel. Good flat highways of Assam make way for a mix of good road conditions below the treeline and untarred jeepable tracks beyond the treeline.
+days: "8 to 12 days"
+description : "This tour takes you across the tea fields of Assam to the high roads of western Arunachal Pradesh"
 bg_image: /images/tours/motorcycle-overland-western-arunachal-pradesh.jpg
 image : /images/tours/motorcycle-overland-western-arunachal-pradesh.jpg
 type: "motorcycle"
@@ -42,7 +41,7 @@ overview:
  
   - label : COST 
     icon : bi:wallet2
-    data : INR XX,000 onwards (twin share)
+    data : INR XX,000 / Twin share
  
 over:
 - Level- Moderate to Strenuous

@@ -4,7 +4,6 @@ title: "MULTI-ACTIVITY TOUR OF MEGHALAYA"
 subtitle: "Hike, Cycle, Nature & Culture"
 days: "6 to 10 days" 
 description : "Multi activity holiday takes you to prestine Meghalaya, 'The Abode of Clouds', the tour includes cycling, hiking, swimming, culture and cuisine"
-tourdesc: Multi-Activity Holiday in Meghalaya:- Land of the matriarchs. This particular Multi-activity tour takes us on bicycles and on foot across the Khasi and Jaintia Hills of Meghalaya. Due to its unique georgaphical location, it some of the  highest rain fall on earth which in turn bestows this region with its amazing mix of forested valleys and grassland plateaus. The cycling phase takes you across the beautiful landscape, whereas the hiking days take you through some of the best trails of the region, amongst which the famous living root bridges trail. Enroute we will picnic lunch in beautiful locations and swim in prestine pools while visitng waterfalls, caves and local archery competitions. During this multi activity tour of Meghalaya tour you will stay in quaint homestays, off the grid farms and small family run establishments. The tour will give you indepth and personal prospective of this land and its wonderful people. The tour is quite flexible, we can mould the entire proceeding looking at your preferences and abilities.
 bg_image: /images/tours/multi-activity-holiday-in-meghalaya.jpg
 image : /images/tours/multi-activity-holiday-in-meghalaya.jpg
 type: "multi-activity"

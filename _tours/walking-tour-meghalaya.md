@@ -3,8 +3,7 @@ draft: false
 title: "WALKERS TOUR OF MEGHALAYA"
 subtitle: "Walks in the Clouds"
 days: "6 days"
-description : "Walking Tour of Meghalaya. A series of day walks across the Khasi and Jaintia hills of Meghalaya"
-tourdesc: This Walking holiday takes you to beautiful Meghalaya, 'The Abode of clouds’. Meghalaya is a hilly state jutting out between the vast plains of the Brahmaputra valley and that of Bangladesh. Due to its unique geographical location this region records some of the heaviest rainfall on earth, which in turn leads to this state having such a lush and verdant environment. The state is divided into the Garo, Khasi and Jaintia hills, however on this tour we will concentrate on the Khasi Hills. The namesake Khasi tribe is one of the only matrilenial societies of the subcontinent, with a unique culture and society. This region is rich in natural wonders, home to some of the deepest caves and highest waterfalls of Asia. The jewels of this region are the Natural Root bridges which dot the surroundings. This tour includes multiple day walks to some of the most beautiful trails and interesting locations of the region.
+description : "A series of day walks across the Khasi and Jaintia hills of Meghalaya"
 bg_image: /images/tours/walking-tour-meghalaya.jpg
 image: /images/tours/walking-tour-meghalaya.jpg
 category: "active"

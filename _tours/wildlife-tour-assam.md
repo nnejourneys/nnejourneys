@@ -4,7 +4,6 @@ title: "WILDLIFE TOUR OF ASSAM"
 subtitle: "Parks of the Brahmaputra Valley"
 days: "5 to 12 days"
 description : "The Wildlife tour of Assam takes you to some of the better wildlife sancturies of India. Kaziranga, Manas, Nameri, Dibrusaikhowa and Namdapha National Parks"
-tourdesc: Brahmaputra valley of Assam, is the geographical heart of northeastern India. This region lying perched between Himalayan and Indo-Burmese biodiversity hotspots hosts a string of wildlife parks, home to several threatened mammal species, including the tiger, Asian elephant, greater one-horned rhinoceros, swamp deer , gaur , clouded leopard , hispid hare, pygmy hog, capped leaf monkey , Asiatic black bear, sloth bear and the Gangetic river dolphins among others . This wildlife tour of the Brahmaputra valley takes you to some of the better known wildlife sanctuaries along the Mighty Brahmaputra, indulging in Elephant back, Jeep, Walking and Boat safaris.
 bg_image: /images/tours/wildlife-tour-assam.jpg
 image : /images/tours/wildlife-tour-assam.jpg
 type: "wildlife"

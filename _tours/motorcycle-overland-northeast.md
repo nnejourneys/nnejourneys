@@ -2,9 +2,8 @@
 draft: false
 title: "MOTORCYCLE & OVERLAND TOUR OF NORTH EAST INDIA"
 subtitle: "The Eastern Arc"
-days: "14 - 17 days"
+days: "14 to 17 days"
 description : "This motorcycle & Overland tour of Northeast India takes you across Assam, Nagaland, Meghalaya and Arunachal Pradesh."
-tourdesc: This particular ride takes us through the backroads of some of India’s easternmost states namely Arunachal Pradesh, Nagaland, Assam and Meghalaya. A rider’s delight, this route includes the dense forested hills of Nagaland, and Arunachal Pradesh, the tea oil rich  regions of Assam and the wettest places on Earth at Meghalaya. Incidentally this region has one of the highest densities of ethnicities and languages in the whole of India. During the tour we ride through territories of tribes such as the Nyshi, Apatani, Tagin, Galo, Adi, Idu Mishmi, Digaru Mishmi, Miju Mishmi, Singpho, Khamti, Konyak, Ao, Lotha, Angami, Karbi, Dimasa, Jaintia and Khasi to name a few. Infact every single day takes us through territories of different tribes, each tribe totally different from the previous. You will ride across swathes of lush tea plantations, some of the oldest oil fields on earth, some of the greatest wildlife sanctuaries of the sub-continent, the largest river island on earth, quaint and remote villages, orange orchards, unending forests, view some of the tallest waterfalls and visit some of the deepest caves of Asia among others. The loop starts and ends at Guwahati, which is the capital of Assam and the largest city among the seven states. The ride itself takes us through varying terrain, road conditions and vegetation, every single day bringing totally new and unique settings.
 bg_image: /images/tours/motorcycle-overland-northeast.jpg
 image : /images/tours/motorcycle-overland-northeast.jpg
 type: "motorcycle"

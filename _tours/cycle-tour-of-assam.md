@@ -4,7 +4,6 @@ title: "CYCLE TOUR OF ASSAM"
 subtitle: "The Brahmaputra Explorer" 
 days: "7 to 15 days" 
 description : "This Multi-day Cycle Tour of Assam takes you along the Brahmaputra valley, the physical heart of Northeast India."
-tourdesc: "The cycle tour of Assam takes you along the Brahmaputra river valley. This is the physical heart of Northeast India, a verdant region fed by a network of mighty rivers coming down from the mountains on three sides. As the tour progresses you will interact and observe diverse cultures, sample various cuisines, visit wildlife parks, understand the process of Tea production and more. /Starting from Guwahati at the heart of the Brahmaputra Valley you will come across the people of the plains including the Assamese, Bodo and Mishing in particular. You will also come across smaller groups including the Tea tribes. Heading further east you will cover territories of the Animist tribes and then the Theravada Buddhist tribes of eastern Arunachal Pradesh.Enroute you will ride across and visit wildlife parks, cross rivers on ferries, experience life in the largest river island of the world, learn the process and life of tea, meet a plethora of ethinic, lingual and religiously diverse groups that call this region their home. In comparison to the hills around this region is more settled, with rich written history and traditions. In fact some of the only written scripts of the entire northeastern region can be found here. "
 bg_image: /images/tours/cycle-tour-of-assam.jpg
 image : /images/tours/cycle-tour-of-assam.jpg
 type : "cycling"

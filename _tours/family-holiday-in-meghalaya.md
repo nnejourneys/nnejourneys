@@ -2,9 +2,8 @@
 draft: false
 title: "FAMILY ADVENTURE IN MEGHALAYA"
 subtitle: "Natures Amusement Park"
-days: "6 - 9 Days"
-description : "Family adventure holiday in Meghalaya. An active adventure holiday for the entire family in prestine Meghalaya"
-tourdesc: This Adventure holiday for the family is set in hilly Meghalaya. Meghalaya literally meaning the ‘Abode of clouds’ is one of the wettest places on earth during the monsoons. Cherrapunji and Mawsynram both in Meghalaya take their turn recording some of the heaviest rainfall on the planet. On this tour of Meghalaya you will be travelling through the west Khasi and neighbouring Jaintia hills overlooking the plains of Bangladesh. Deep forested valleys, gushing rivers, innumerable waterfalls, natural root bridges, archery competitions, village markets etc will be the common sights. Short hikes, water based activities,Ziplines, caves and waterfall visits are in the cards on this tour. This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. This trip can be driver driven or selfdriven depending on your preference and comfort.
+days: "6 to 9 days"
+description : "An active adventure holiday for the entire family in prestine Meghalaya"
 bg_image: /images/tours/family-holiday-in-meghalaya.jpg
 image : /images/tours/family-holiday-in-meghalaya.jpg
 type: "family"

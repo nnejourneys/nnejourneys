@@ -4,7 +4,6 @@ title: "CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH"
 subtitle: "Theravada & Animist lands"
 days: "6 to 12 days"
 description : "Cultural Tour of Eastern Arunachal Pradesh. Land of the Animist and Theravada tribes"
-tourdesc: We take you to one of the least known part of Northeast India. The eastern bit of the region buffering Tibet and Myanmar lies in the state of Arunachal Pradesh. This is a region of giant rivers, uending forests and a ring of hills climbing ever higher till it becomes snowy peaks at the Chinese border. This region is home to the Theravada Buddhist tribes who live in the plains and the Animist ones who live in the hills.
 bg_image: /images/tours/culture-tour-eastern-arunachal-pradesh.jpg
 image : /images/tours/culture-tour-eastern-arunachal-pradesh.jpg
 type: "culture"
