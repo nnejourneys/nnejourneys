@@ -212,7 +212,7 @@ export default function Tour({ tour }) {
 
               <SectionSeparator />
 
-              <h4 className="text-capitalize"> other {tour.category} tours</h4>
+              <h4 className="text-capitalize"> other {tour.type} tours</h4>
               <ul className="row my-3">
                 {tour.othertours.map((item, index) => (
                   <li className="col-xl-3 col-lg-6 col-md-6 col-sm-12 g-2" key={index}> 

@@ -9,7 +9,7 @@ export default function Contact() {
   return (
     <>
       <Head>
-        <title>{CMS_NAME} | Contact</title>
+        <title>Contact | {CMS_NAME}</title>
         {/* <meta property="og:image" content={tour.ogImage.url} /> */}
       </Head>
       <section class="section">

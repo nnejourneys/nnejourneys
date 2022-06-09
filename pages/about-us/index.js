@@ -9,7 +9,7 @@ export default function Aboutus() {
   return (
     <>
       <Head>
-        <title>{CMS_NAME} | About Us</title>
+        <title>About Us | {CMS_NAME}</title>
         {/* <meta property="og:image" content={tour.ogImage.url} /> */}
       </Head>
       <section className="section">

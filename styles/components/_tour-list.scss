@@ -26,8 +26,10 @@
   }
 }
 
-.tour-list-item a:hover {
-  color: var(--nne-primary) !important ;
+.tour-list-item a h5:hover { 
+  background-color: var(--nne-bg-primary);
+  padding: 0.2rem;
+
 }
 
 // .tour-list-item p {

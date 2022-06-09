@@ -225,3 +225,20 @@
       display: none;
     }
   }
+
+.navbar-toggler{
+  border: none !important;
+  outline: none !important;
+  & .navbar-toggler-icon{
+
+    background: url('https://api.iconify.design/clarity/close-line.svg') no-repeat center center / contain !important;
+  }
+
+  &.collapsed{
+      outline: none !important;
+    & .navbar-toggler-icon{
+      background: url('https://api.iconify.design/clarity/bars-line.svg') no-repeat center center / contain !important;
+    }
+  }
+}
+

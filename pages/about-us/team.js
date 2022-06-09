@@ -9,7 +9,7 @@ export default function Team() {
   return (
     <>
       <Head>
-        <title>{CMS_NAME} | Team</title>
+        <title>Team | {CMS_NAME}</title>
         {/* <meta property="og:image" content={tour.ogImage.url} /> */}
       </Head>
       <section className="section">

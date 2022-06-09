@@ -52,7 +52,8 @@
   }
   
   .btn-light {
-    background: var(--nne-white);
+    vertical-align:center;
+    background: var(--nne-white) !important;
     padding: 1rem 2rem !important;
     color: #222;
     border: 1px solid var(--nne-white);
@@ -61,6 +62,7 @@
   
   .btn-light:hover {
     background: transparent !important;
+    border: 1px solid var(--nne-white) !important;
     color: var(--nne-white) !important;
   }
   
@@ -79,29 +81,7 @@
     padding: 13px 40px !important;
   }
 
-  
-/* subscribe button */
-.btn-subscribe {
-    position: absolute;
-    right: 5px;
-    top: 5px;
-    border: 0;
-    height: 40px;
-    width: 40px;
-    border-radius: 50%;
-    color: var(--nne-white);
-    background: var(--nne-primary);
-    transition: all linear .2s;
-  }
-  
-  .btn-subscribe:hover {
-    padding-left: 15px;
-  }
-  
-  .btn-subscribe:focus {
-    outline: 0;
-  }
-  
+   
   /* back to top button */
   .back-to-top {
     position: absolute;

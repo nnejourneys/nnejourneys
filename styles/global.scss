@@ -123,19 +123,6 @@ body {
 
 }
 
-.about{
-    height: 80vh;
-}
-.section-bg{
-    z-index: 0;
-}
-
-.about-text{
-    position: relative;
-    z-index: 1;
-}
-
-
 .box-shadow {
   box-shadow: 0px 10px 35px 0px rgba(0, 0, 0, 0.1);
 }
@@ -150,4 +137,8 @@ textarea{
   &:hover{
     color: var(--nne-font-primary);
   }
+}
+
+.avatar{
+  border-radius: 5rem;
 }

@@ -1,6 +1,6 @@
-/* 25.2 footer link */
 footer{
-  background-color: var(--nne-bg-footer); //#303032
+  background-color: var(--nne-bg-footer); 
+  border-top: 2px solid var(--nne-secondary) !important;
 }
 
 .footer-links {

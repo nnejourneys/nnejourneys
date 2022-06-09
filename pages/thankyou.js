@@ -8,7 +8,7 @@ export default function Thankyou() {
   return (
     <>
       <Head>
-        <title> {CMS_NAME} </title>
+        <title>Thank You | {CMS_NAME} </title>
       </Head>
       <Container className="my-5">
         <h4 className="my-5 text-center"> 

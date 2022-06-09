@@ -8,7 +8,7 @@ export default function Insights() {
   return (
     <>
       <Head>
-        <title>{CMS_NAME}</title>
+        <title>Insights | {CMS_NAME}</title>
         {/* <meta property="og:image" content={tour.ogImage.url} /> */}
       </Head>
       <section className="section">
