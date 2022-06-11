@@ -30,7 +30,7 @@
         },
         {
           "name": "Insights",
-          "URL": "/insights",
+          "URL": "/about-us/insights",
           "weight": 2
         }
       ]
