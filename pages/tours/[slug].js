@@ -190,7 +190,7 @@ export default function Tour({ tour }) {
                   <EnquiryForm title={tour.title} />
                 </Tab>
               </Tabs>
-              <hr className="mt-5" />
+              <SectionSeparator />
               <div className="mt-5">
                 <h5>FAQ</h5>
                 <ul className="pl-0 my-3">
@@ -202,12 +202,13 @@ export default function Tour({ tour }) {
                   ))}
                 </ul>
               </div>
+              <SectionSeparator />
               <div className="my-5">
-                <p className="text-muted text-center">
+                <h6 className="text-danger fw-light text-center">
                   * Our Itineraries are quite unique hence we prefer not to put
                   it up on the site. Please write in to us for the detailed
                   itinerary and cost.
-                </p>
+                </h6>
               </div>
 
               <SectionSeparator />
