@@ -42,17 +42,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-over:
-- Level- Easy to Moderate
-- Total Days 7 to 15
-- Max. Cycling distance- Upto 650 Km
-- Avg. Cycling Distance- 70 Km
-- Terrain 90% Plains
-- Altitude variation 50 to 800 mts
-- Best Time October to March
-- Airport in Guwahati (Assam)
-- Airport out Guwahati / Dibrugarh (Assam)
-
 overs:
   - l: Level 
     d: Easy to Moderate

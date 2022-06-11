@@ -42,16 +42,6 @@ overview:
   - label : COST 
     icon : bi:wallet2
     data : INR XX,000 / Twin share
- 
-over:
-- Level- Moderate to Strenuous
-- Total Days- 8 to 12
-- Riding Distance- Upto 1400 Km
-- Terrain- 65 % Mountanious 
-- Altitude variation- 50 to 4600 mts
-- Best Time- October to May
-- Airport in- Guwahati (Assam)
-- Airport out- Guwahati (Assam)
 
 overs:
   - l: Level 

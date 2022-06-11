@@ -43,16 +43,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-over:
- - Level- Moderate
- - Total Days- 7 to 14
- - Riding Distance- Upto 1600 Km
- - Terrain- 80 % Hilly 
- - Altitude variation- 50 to 1900 mts
- - Best Time- October to March
- - Airport in- Guwahati (Assam)
- - Airport out- Guwahati (Assam)
-
 overs:
   - l: Level 
     d: Moderate

@@ -42,16 +42,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-over:
-- Travel-type- Comfort
-- Total-days- 6 to 10
-- Experiences- Tea, Wildlife, Culture & Cuisine
-- Terrain- 100% Plains
-- Altitude Variation- 50 to 200 mts
-- Best-time- October to April
-- Airport-in- Guwahati (Assam)
-- Airport-out- Guwahati (Assam)  
-
 overs:
   - l: Travel-type 
     d: Comfort

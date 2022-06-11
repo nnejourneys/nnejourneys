@@ -43,16 +43,6 @@ overview:
     icon : bi:wallet2 
     data : On Request
 
-over:
- - Level- Comfort
- - Total Days- 6 to 9
- - Experiences- Hikes, Water activities, Caves & Waterfall visits, Archery shows and more
- - Terrain- 100% Hilly 
- - Altitude variation- 150 to 1900 mts
- - Best Time- September to April
- - Airport in- Guwahati (Assam)
- - Airport out- Guwahati (Assam)
-
 overs:
   - l: Level 
     d: Comfort

@@ -43,17 +43,6 @@ overview:
     icon : bi:wallet2
     data : INR 39,000/ Twin share
 
-
-over:
-- Level- Easy to Moderate
-- Total Days- 6
-- Walking days- 4
-- Avg. walking time- 5 - 6 hrs
-- Terrain- 80% undulating
-- Altitude variation- 300 to 950 mts
-- Airport In- Dibrugarh (Assam)
-- Airport Out- Dibrugarh (Assam)
-
 overs:
   - l: Level 
     d: Easy to Moderate

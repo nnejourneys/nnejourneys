@@ -43,17 +43,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-over:
-  - Level- Tough
-  - Total Days- 9 to 14
-  - Max. Cycling distance- Upto 450Km
-  - Avg. Cycling Distance- 60 Km
-  - Terrain- 100% Hilly / Mountanious
-  - Altitude variation- 50 to 2200 mts
-  - Best Time- Sept/Oct - Mar/May
-  - Airport In- Bagdogra (W Bengal)
-  - Airport Out- Bagdogra (W Bengal) 
-
 overs:
   - l: Level 
     d: Tough

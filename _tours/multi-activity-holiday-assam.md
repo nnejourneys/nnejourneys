@@ -43,15 +43,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-over:
- - Level- Easy
- - Total Days- 6 to 12
- - Terrain- 100% Plain 
- - Altitude variation- 50 to 200 mts
- - Best Time- October to March
- - Airport in- Guwahati (Assam)
- - Airport out- Guwahati (Assam)
-
 overs:
   - l: Level 
     d: Easy

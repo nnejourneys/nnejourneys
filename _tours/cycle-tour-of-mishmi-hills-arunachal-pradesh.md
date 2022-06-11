@@ -43,18 +43,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-
-over:
-  - Level- Tough
-  - Total Days- 11 to 15
-  - Max. Cycling distance- Upto 650 Km
-  - Avg. Cycling Distance- 60 Km
-  - Terrain- 70% Hilly / Mountanious
-  - Altitude variation- 50 to 2655 mts
-  - Best Time- October to March
-  - Airport In- Dibrugarh (Assam)
-  - Airport Out- Dibrugarh (Assam)
-
 overs:
   - l: Level
     d: Tough

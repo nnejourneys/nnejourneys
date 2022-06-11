@@ -40,20 +40,8 @@ overview:
     data : October - March
 
   - label : COST
-    icon : bi:wallet2
+    icon : bi:sun
     data : On Request
-
-
-over:
-  - Level- Moderate
-  - Duration- 6 to 12
-  - Max. Cycling distance- Upto 500 Km
-  - Avg. Cycling Distance- 60 Km
-  - Terrain- 100% Hilly / Mountanious
-  - Altitude variation- 50 to 1900 mts
-  - Best Time- October to March
-  - Airport in- Guwahati
-  - Airport out- Guwahati
 
 overs:
   - l: Level 

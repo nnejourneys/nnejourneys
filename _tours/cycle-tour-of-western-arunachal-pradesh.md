@@ -43,18 +43,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-
-over:
-  - Level- Tough
-  - Total Days- 9 to 15
-  - Max. Cycling distance- Upto 650 Km
-  - Avg. Cycling Distance- 70 Km (Plains), 55Km (Mountains)
-  - Terrain- 85% Hilly / Mountanious
-  - Altitude variation- 50 to 4200 mts
-  - Best Time- Sept/Oct - Mar/May
-  - Airport in- Guwahati (Assam)
-  - Airport out- Guwahati (Assam)
-
 overs:
   - l: Level 
     d: Tough

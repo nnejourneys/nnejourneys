@@ -43,16 +43,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-over:
-- Level- Strenous
-- Total Days- 14 to 17
-- Riding Distance- Upto 2500 Km
-- Terrain- 60 % Hilly 
-- Altitude variation- 50 to 2000 mts
-- Best Time- October to March
-- Airport in- Guwahati (Assam)
-- Airport out- Guwahati (Assam)
-
 overs:
   - l: Level 
     d: Strenous

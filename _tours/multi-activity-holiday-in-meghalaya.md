@@ -43,17 +43,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-over:
- - Level- Moderate 
- - Total Days- 6 to 10
- - Max. Cycling distance- Upto 250 Km
- - Hikes- Multiple day Walks
- - Terrain- 100% Hilly / Mountanious
- - Altitude variation- 150 to 1900 mts
- - Best Time- October to March
- - Airport in- Guwahati (Assam)
- - Airport out- Guwahati (Assam)
-
 overs:
   - l: Level 
     d: Moderate 

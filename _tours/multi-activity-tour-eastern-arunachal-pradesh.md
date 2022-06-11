@@ -43,18 +43,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-over:
- - Level- Moderate
- - Total Days- 6 to 12
- - Max. Cycling days- Upto 6 days
- - Max. Hiking days- Upto 5
- - Max. Rafting days- Upto 3
- - Terrain- 50% Hilly 
- - Altitude variation 50 to 1200 mts
- - Best Time- October to March
- - Airport in- Dibrugarh (Assam)
- - Airport out- Dibrugarh (Assam)
-
 overs:
   - l: Level 
     d: Moderate

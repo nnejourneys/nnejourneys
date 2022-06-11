@@ -43,16 +43,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-over:
- - Level- Easy to Moderate
- - Total Days- 7 – 12 days
- - Avg walking time- 4 to 6 hrs
- - Terrain- 100% Hilly / Mountanuous
- - Altitude variation- 2700 to 3750 mts
- - Best Time- Mar-May / Sept-Oct 
- - Airport in- Bagdogra (W Bengal)
- - Airport out- Bagdogra (W Bengal)
-
 overs:
   - l: Level 
     d: Easy to Moderate

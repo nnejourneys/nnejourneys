@@ -14,7 +14,6 @@ weight: 8
 touricon: "iconoir:walking"
 
 overview:
-
   - label : TOUR DATE
     icon : bi:sun
     data : 10 - 15 April' 2022
@@ -42,15 +41,6 @@ overview:
   - label : COST
     icon : bi:wallet2
     data : INR 32,000/ Twin share
-
-over:
-  - Level- Easy to Moderate
-  - Total Days- 6 days
-  - Avg walking time- 4 to 6 hrs
-  - Terrain- 100% Hilly
-  - Altitude variation- 150 to 1900 mts
-  - Airport in- Guwahati (Assam)
-  - Airport out- Guwahati (Assam)
 
 overs:
   - l: Level 

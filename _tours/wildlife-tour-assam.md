@@ -39,17 +39,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-over:
- - Total Days- 5 to 12
- - Wildlife Experiences- Walking, elephant, Jeep and Boat Safari's
- - National Parks-  Manas, Nameri, Kaziranga, Hollongpar, Dibru-Saikhowa, Namdapha
- - Terrain- 85% Hilly / Mountanious
- - Altitude variation- 50 to 800 mts
- - Best Time- October to March
- - Accommodation- Hotels, Cottages & Camps
- - Airport in- Guwahati (Assam)
- - Airport out- Dibrugarh (Assam)
-
 overs:
   - l: Total Days 
     d: 5 to 12

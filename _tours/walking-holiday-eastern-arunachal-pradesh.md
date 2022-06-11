@@ -43,16 +43,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-over:
- - Level- Easy to Moderate
- - Total Days- 7 to 12
- - Avg. Walking Time- 4 – 6 hrs
- - Terrain- 50% Hilly
- - Altitude variation- 50 to 1200 mts
- - Best Time- October to March
- - Airport in- Dibrugarh (Assam)
- - Airport out- Dibrugarh (Assam)
-
 overs:
   - l: Level 
     d: Easy to Moderate

@@ -43,16 +43,6 @@ overview:
     icon : bi:wallet2
     data : On Request
 
-over:
- - Level Strenuous
- - Total Days- 10 to 15
- - Avg. Walking Time- 5 - 7 hrs
- - Terrain- 100% Mountanious
- - Altitude variation- 1500 to 4200 mts
- - Best Time- September – October / March – May
- - Airport in- Guwahati (Assam)
- - Airport out- Guwahati (Assam)
-
 overs:
   - l: Level 
     d: Strenuous
