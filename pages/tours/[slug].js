@@ -264,7 +264,6 @@ export async function getStaticProps({ params }) {
     "touricon",
     "type",
     "overview",
-    "over",
     "overs",
     "highlights",
     "inclusions",

@@ -12,11 +12,11 @@ export default function Contact() {
         <title>Contact | {CMS_NAME}</title>
         {/* <meta property="og:image" content={tour.ogImage.url} /> */}
       </Head>
-      <section class="section">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-4 offset-lg-1 col-md-5">
-              <h2 class="section-title">Contact Us</h2>
+      <section className="section">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-6">
+              <h2 className="section-title">Contact Us</h2>
 
               <ul className="pl-0">
                 {Contactdata.contacts.phone.map((item, index) => (
@@ -50,8 +50,9 @@ export default function Contact() {
                 </li>
               </ul>
             </div>
-
+            <div className="col-lg-6">
             <ContactForm />
+            </div>
           </div>
         </div>
       </section>

@@ -29,7 +29,13 @@
 .tour-list-item a h5:hover { 
   background-color: var(--nne-bg-primary);
   padding: 0.2rem;
+}
 
+.tour-img{
+  transition: 1s ease-in-out;
+  &:hover{
+    transform: scale(1.1);
+  }
 }
 
 // .tour-list-item p {
@@ -113,8 +119,7 @@
 
 .filter-option,
 .active-option {
-  padding: .8rem 1.6rem;
-  // min-width: 50px;
+  padding: .8rem 1.6rem; 
   border-radius: 2rem;
   border: 1px solid var(--nne-primary);
 }

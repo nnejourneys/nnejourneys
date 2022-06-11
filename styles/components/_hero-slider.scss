@@ -1,5 +1,5 @@
 .hero-slider-item {
-  height: 84vh;
+  height: 86vh;
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -13,7 +13,7 @@
 
 .overlay { 
   background-color: rgba(0, 0, 0, 0.05);
-  height: 84vh;
+  height: 86vh;
   width: 100%;
   z-index: 2;
   margin-bottom: 60px;
@@ -30,7 +30,7 @@
   transform: translate(-50%, -50%);
   color: var(--nne-white);
   z-index: 30; 
-  text-shadow: 2px 2px 3px #060606;
+  text-shadow: 2px 2px 3px #060606; 
   &.page {
     left: 50%;
   }
@@ -68,14 +68,13 @@
   }
   
   .hero-subtitle{
-    font-size: 1.8rem !important;  
+    font-size: 1.6rem !important;  
   }
   
   .hero-text{
     font-size: 1rem !important;  
   }
 }
-
 
 .hero-slider.slick-slider {
   margin-bottom: 60px;
@@ -125,7 +124,7 @@
 
 .hero-slider .prevArrow:hover,
 .hero-slider .nextArrow:hover {
-  background: hsla(0, 79%, 69%, 0.5);
+  background: var(--nne-bg-secondary);
 }
 
 .hero-slider .prevArrow {
@@ -202,15 +201,11 @@
 
 .hero-slider .slick-dots li a i {
   display: inline-block;
-  // font-size: 22px;
-  // line-height: 50px;
-  // margin-right: 15px;
   vertical-align: middle;
 }
 
 @media (max-width: 991px) {
   .hero-slider .slick-dots li a i {
-    //   font-size: 20px;
     margin-right: 5px;
   }
 }
