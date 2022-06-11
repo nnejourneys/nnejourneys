@@ -213,7 +213,7 @@ export default function Tour({ tour }) {
               <SectionSeparator />
 
               <h4 className="text-capitalize"> other {tour.type} tours</h4>
-              <ul className="row my-3">
+              <ul className="row my-3 ps-0" >
                 {tour.othertours.map((item, index) => (
                   <li className="col-xl-3 col-lg-6 col-md-6 col-sm-12 g-2" key={index}> 
                       <div className="position-relative">
@@ -226,7 +226,7 @@ export default function Tour({ tour }) {
                           alt={item.title}
                         />
                         <div className="tour-list-item">
-                          <Link href={item.title}>
+                          <Link href={item.link}>
                             <a>
                               <h5 className="fw-bold">{item.title}</h5>
                             </a>
