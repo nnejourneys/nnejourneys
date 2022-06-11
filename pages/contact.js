@@ -18,7 +18,7 @@ export default function Contact() {
             <div className="col-lg-6">
               <h2 className="section-title">Contact Us</h2>
 
-              <ul className="pl-0">
+              <ul className="ps-0">
                 {Contactdata.contacts.phone.map((item, index) => (
                   <li className="d-flex mb-30" key={index}>
                     <div className="round-icon me-3">
