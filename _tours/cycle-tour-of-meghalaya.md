@@ -40,7 +40,7 @@ overview:
     data : October - March
 
   - label : COST
-    icon : bi:sun
+    icon : bi:wallet2
     data : On Request
 
 overs:
