@@ -28,28 +28,28 @@ export default function Header() {
             <ul className="navbar-nav">
               <li className="nav-item text-uppercase">
                 <Link href="/">
-                  <a className="nav-link "> Home</a>
+                  <a className="nav-link fw-bold"> Home</a>
                 </Link>
               </li>
               <li className="nav-item text-uppercase">
                 <Link href="/tours">
-                  <a className="nav-link "> Tours </a>
+                  <a className="nav-link fw-bold"> Tours </a>
                 </Link>
               </li>
-              <NavDropdown title="ABOUT" id="basic-nav-dropdown">
+              <NavDropdown className="fw-bold" title="ABOUT" id="basic-nav-dropdown">
                 <li>
                   <Link href="/about-us">
-                    <a className="dropdown-item  text-uppercase">About Us</a>
+                    <a className="dropdown-item fw-bold text-uppercase">About Us</a>
                   </Link>
                 </li>
                 <li>
                   <Link href="/about-us/team">
-                    <a className="dropdown-item text-uppercase">Team</a>
+                    <a className="dropdown-item fw-bold text-uppercase">Team</a>
                   </Link>
                 </li>
                 <li>
                   <Link href="/about-us/insights">
-                    <a className="dropdown-item text-uppercase">Insights</a>
+                    <a className="dropdown-item fw-bold text-uppercase">Insights</a>
                   </Link>
                 </li>
               </NavDropdown>
@@ -58,7 +58,7 @@ export default function Header() {
                   <a className="nav-link"> Blog </a>
                 </Link>
               </li> */}
-              <li className="nav-item text-uppercase">
+              <li className="nav-item fw-bold text-uppercase">
                 <Link href="/contact">
                   <a className="nav-link"> Contact </a>
                 </Link>
