@@ -71,7 +71,7 @@ export default function Tour({ tour }) {
                 <aside className="col-lg-4">
                   <div className="p-3 rounded border mb-50">
                     <h4 className="text-color mb-20">Tour Overview</h4>
-                    <ul className="pl-0 m-1">
+                    <ul className="ps-0 m-1">
                       {tour.overview.map((item, index) => (
                         <li className="py-2 border-bottom-not-last" key={index}>
                           <p className="d-inline-block font-primary m-0">
