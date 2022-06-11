@@ -168,7 +168,7 @@ export default function Tour({ tour }) {
                     <ul className="gallery row ps-0">
                       {tour.galleryimages.map((item, index) => {
                         return (
-                          <li className="col-md-4 p-0 m-0 " key={index}>
+                          <li className="col-sm-1 col-md-2 col-md-3 p-0 m-0 " key={index}>
                             <a key={index} href={item}>
                               <Image
                                 className="img-fluid "
