@@ -7,10 +7,10 @@ export default function Header() {
 
   return (
     <Navbar sticky="top" bg="white" expand="lg"  className="shadow-sm py-0">
-      <Container fluid>
+      <Container>
         <Navbar.Brand  className="pt-1 pb-0">
           <Link href="/">
-            <a className="navbar-brand mx-5">
+            <a>
               <Image
                 className="img-fluid"
                 src="/images/logo.svg"
