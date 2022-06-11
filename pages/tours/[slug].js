@@ -165,18 +165,18 @@ export default function Tour({ tour }) {
                 <Tab eventKey="gallery" title="Gallery">
                   <h5 className="mb-5">Gallery</h5>
                   <SRLWrapper options={options}>
-                    <ul className="gallery">
+                    <ul className="gallery row ps-0">
                       {tour.galleryimages.map((item, index) => {
                         return (
-                          <li className="d-block mb-4" key={index}>
+                          <li className="col-md-4 p-0 m-0 " key={index}>
                             <a key={index} href={item}>
                               <Image
                                 className="img-fluid "
                                 src={item}
                                 alt={tour.subtitle}
-                                layout="fixed"
-                                width="300"
-                                height="200"
+                                layout="responsive"
+                                width="600"
+                                height="400"
                               />
                             </a>
                           </li>
