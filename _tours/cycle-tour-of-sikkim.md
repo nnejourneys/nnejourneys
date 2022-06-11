@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "CYCLE TOUR OF SIKKIM & West BENGAL"
+title: "CYCLE TOUR OF SIKKIM & WEST BENGAL"
 subtitle: "The Monastic Trail"
 days: "9 to 14 days"
 description : "This Cycle tour takes you through the best of Sikkim and West Bengal"

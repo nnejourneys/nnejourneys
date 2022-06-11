@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Culture Tour of Nagaland & Assam"
+title: "CULTURE TOUR OF NAGALAND & ASSAM"
 subtitle: "Hornbill Festival and beyond"
 days: "6 to 12 days"
 description : "Hornbill Festival Tour, Nagaland and Assam. Culture, Cuisine and Wildlife of Assam and Nagaland"
