@@ -92,7 +92,7 @@ export default function EnquiryForm({ title }) {
             placeholder="Your message. Please include as much information about your requirement." rows="5"/>
           </Form.Group>
 
-          <div class="d-grid mb-5">
+          <div className="d-grid mb-5">
             <Button variant="primary" type="submit">
               Submit
             </Button>
