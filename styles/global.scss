@@ -70,7 +70,7 @@ h1, .h1 {
   font-size: 4rem;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 575px) {
   h1, .h1 {
     font-size: 2.8rem;
   }
@@ -80,20 +80,50 @@ h2, .h2 {
   font-size: 2.4rem;
 }
 
+@media (max-width: 575px) {
+  h2, .h2 {
+    font-size: 2rem;
+  }
+}
+
 h3, .h3 {
   font-size: 2rem;
+}
+
+@media (max-width: 575px) {
+  h3, .h3 {
+    font-size: 1.6rem;
+  }
 }
 
 h4, .h4 {
   font-size: 1.6rem;
 }
 
+@media (max-width: 575px) {
+  h4, .h4 {
+    font-size: 1.2rem;
+  }
+}
+
 h5, .h5 {
   font-size: 1.4rem;
 }
 
+@media (max-width: 575px) {
+  h5, .h5 {
+    font-size: 1rem;
+  }
+}
+
 h6, .h6 {
   font-size: 1.2rem;
+}
+
+@media (max-width: 575px) {
+  h6, .h6{
+    font-size: 0.8rem;
+  }
 }
 
 body {
