@@ -220,5 +220,11 @@
 }
 
 .cta {
-  height: 50vh;  
+  height: 50vh;
+}
+
+@media (max-width: 575px) {
+  .cta {
+    height: 30vh;  
+  }
 }
