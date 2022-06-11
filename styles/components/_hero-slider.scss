@@ -7,7 +7,7 @@
   position: relative;
   z-index: 1;
   &.page {
-    height: 46vh;
+    height: 55vh;
   }
 }
 
@@ -19,7 +19,7 @@
   margin-bottom: 60px;
   margin-top: -160px;
   &.page {
-    height: 46vh; 
+    height: 55vh; 
   }
 }
 
@@ -30,7 +30,6 @@
   transform: translate(-50%, -50%);
   color: var(--nne-white);
   z-index: 30; 
-  text-shadow: 2px 2px 3px #060606; 
   &.page {
     left: 50%;
     top: 50%; 
@@ -38,15 +37,15 @@
 }
 
 .hero-title{
-  font-size: 2rem !important;  
+  font-size: 2.2rem !important;  
 }
 
 .hero-subtitle{
-  font-size: 2.4rem !important;  
+  font-size: 2.6rem !important;  
 }
 
 .hero-text{
-  font-size: 1rem !important;  
+  font-size: 1rem !important;
 }
 
 @media (max-width: 575px) {

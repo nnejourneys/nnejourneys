@@ -21,7 +21,7 @@ export default function TourTypes() {
                   <div className="card-img-wrapper">
                     <Image
                       className="card-img-top rounded-0"
-                      src="/images/tour-type/adventure.jpg"
+                      src="/images/tour-type/adventure.png"
                       alt="service-image"
                       width={240}
                       height={160}
@@ -45,7 +45,7 @@ export default function TourTypes() {
                   <div className="card-img-wrapper">
                     <Image
                       className="card-img-top rounded-0"
-                      src="/images/tour-type/wildlife-culture.jpg"
+                      src="/images/tour-type/wildlife-culture.png"
                       alt="service-image"
                       width={240}
                       height={160}
@@ -69,7 +69,7 @@ export default function TourTypes() {
                   <div className="card-img-wrapper">
                     <Image
                       className="card-img-top rounded-0"
-                      src="/images/tour-type/leisure.jpg"
+                      src="/images/tour-type/leisure.png"
                       alt="service-image"
                       width={240}
                       height={160}

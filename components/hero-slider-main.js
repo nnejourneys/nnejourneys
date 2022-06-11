@@ -47,7 +47,7 @@ export default function HeroSliderMain() {
               />
               <div className="hero-content">
                 <h3
-                  className="hero-title text-white fw-bold mb-1"
+                  className="hero-title text-white mb-1"
                   // data-duration-in=".5"
                   // data-animation-in="fadeInLeft"
                   // data-delay-in=".1"
