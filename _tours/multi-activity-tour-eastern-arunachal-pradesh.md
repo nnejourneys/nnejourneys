@@ -109,7 +109,15 @@ faq:
     text : We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
   
 galleryimages:
-  - "/images/tours/cycle-tour-of-assam.jpg"
+  - "/images/tours/gallery/multi-activity-tour-eastern-arunachal-pradesh/multi-activity-tour-eastern-arunachal-pradesh1.jpg"
+  - "/images/tours/gallery/multi-activity-tour-eastern-arunachal-pradesh/multi-activity-tour-eastern-arunachal-pradesh2.jpg"
+  - "/images/tours/gallery/multi-activity-tour-eastern-arunachal-pradesh/multi-activity-tour-eastern-arunachal-pradesh3.jpg"
+  - "/images/tours/gallery/multi-activity-tour-eastern-arunachal-pradesh/multi-activity-tour-eastern-arunachal-pradesh4.jpg"
+  - "/images/tours/gallery/multi-activity-tour-eastern-arunachal-pradesh/multi-activity-tour-eastern-arunachal-pradesh5.jpg"
+  - "/images/tours/gallery/multi-activity-tour-eastern-arunachal-pradesh/multi-activity-tour-eastern-arunachal-pradesh6.jpg"
+  - "/images/tours/gallery/multi-activity-tour-eastern-arunachal-pradesh/multi-activity-tour-eastern-arunachal-pradesh7.jpg"
+  - "/images/tours/gallery/multi-activity-tour-eastern-arunachal-pradesh/multi-activity-tour-eastern-arunachal-pradesh8.jpg"
+  - "/images/tours/gallery/multi-activity-tour-eastern-arunachal-pradesh/multi-activity-tour-eastern-arunachal-pradesh9.jpg"
 
 othertours:
 - title: Adventure, Wildlife & Culture

@@ -109,7 +109,15 @@ faq:
     text : We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
   
 galleryimages:
-  - "/images/tours/cycle-tour-of-assam.jpg"
+  - "/images/tours/gallery/motorcycle-overland-northeast/motorcycle-overland-northeast1.jpg"
+  - "/images/tours/gallery/motorcycle-overland-northeast/motorcycle-overland-northeast2.jpg"
+  - "/images/tours/gallery/motorcycle-overland-northeast/motorcycle-overland-northeast3.jpg"
+  - "/images/tours/gallery/motorcycle-overland-northeast/motorcycle-overland-northeast4.jpg"
+  - "/images/tours/gallery/motorcycle-overland-northeast/motorcycle-overland-northeast5.jpg"
+  - "/images/tours/gallery/motorcycle-overland-northeast/motorcycle-overland-northeast6.png"
+  - "/images/tours/gallery/motorcycle-overland-northeast/motorcycle-overland-northeast7.png"
+  - "/images/tours/gallery/motorcycle-overland-northeast/motorcycle-overland-northeast8.jpg"
+  - "/images/tours/gallery/motorcycle-overland-northeast/motorcycle-overland-northeast9.jpg"
 
 othertours:
 - title: Backroads of Meghalaya
