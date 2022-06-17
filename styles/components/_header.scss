@@ -230,10 +230,8 @@
   border: none !important;
   outline: none !important;
   & .navbar-toggler-icon{
-
     background: url('https://api.iconify.design/clarity/close-line.svg') no-repeat center center / contain !important;
   }
-
   &.collapsed{
       outline: none !important;
     & .navbar-toggler-icon{
@@ -245,5 +243,14 @@
 .nav-link,
 .dropdown-item {
   font-weight: 600 !important;
-}
-
+  color: var(--nne-font-dark) !important;
+  &:hover{
+    color: var(--nne-font-dark) !important;
+    background-color: var(--nne-bg-gray) !important;
+  } 
+  &:focus{
+    color: var(--nne-font-dark) !important;
+    font-weight: 700 !important;
+    // background-color: var(--nne-bg-menu) !important;
+  }
+} 

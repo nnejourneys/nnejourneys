@@ -12,25 +12,25 @@
 @use './variables.scss';
 
 :root {
-  --nne-primary: #f3a237; 
-  --nne-secondary: #fbce3c; 
-  --nne-white: #fff;
-  --nne-golden: #efaf27;
-  --nne-bg-menu: hsla(0, 0%, 50%, 0.5);
-  --nne-bg-primary: #f3a237 !important;  
-  --nne-bg-secondary: #fbce3c; 
-  --nne-bg-gray: #f0f0f0; 
-  --nne-bg-footer: #303032;
-  --nne-font-primary: #f3a237;
-  --nne-font-color: #666;
-  --nne-font-dark: #222;
+  --nne-primary: hsl(34, 89%, 58%); 
+  --nne-secondary: hsl(46, 96%, 61%); 
+  --nne-white: hsl(0, 0%, 100%);
+  --nne-golden: hsl(41, 86%, 55%);
+  --nne-bg-menu: hsla(0, 0%, 75%, 0.2);
+  --nne-bg-primary: hsl(34, 89%, 58%);  
+  --nne-bg-secondary: hsl(46, 96%, 61%); 
+  --nne-bg-gray: hsl(0, 0%, 85%); 
+  --nne-bg-footer: hsl(240, 2%, 19%);
+  --nne-font-primary: hsl(34, 89%, 58%);
+  --nne-font-color: hsl(0, 0%, 40%);
+  --nne-font-dark: hsl(0, 0%, 13%);
   --nne-font-headings: "Poppins", sans-serif;
   --nne-font-paragraph: "Open Sans", sans-serif;
 }
 
 body {
   font-family: var(--nne-font-headings);
-  font-weight: 500;
+  font-weight: 600 !important;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
 }
@@ -53,16 +53,16 @@ body {
   }
 
 p, .paragraph {
-  font-weight: 500;
+  font-weight: 600 !important;
   color: rgb(32, 32, 32);
-  font-size: 1rem;
+  font-size: 1.1rem;
   line-height: 1.6rem;
   font-family: var(--nne-font-paragraph); 
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: rgb(70, 70, 70);
-  font-weight: 500;
+  font-weight: 600 !important;
   font-family: var(--nne-font-headings); 
 }
 
@@ -70,50 +70,21 @@ h1, .h1 {
   font-size: 4rem;
 }
 
-@media (max-width: 575px) {
-  h1, .h1 {
-    font-size: 2.8rem;
-  }
-}
-
 h2, .h2 {
   font-size: 2.4rem;
 }
 
-@media (max-width: 575px) {
-  h2, .h2 {
-    font-size: 2rem;
-  }
-}
 
 h3, .h3 {
   font-size: 2rem;
-}
-
-@media (max-width: 575px) {
-  h3, .h3 {
-    font-size: 1.6rem;
-  }
 }
 
 h4, .h4 {
   font-size: 1.6rem;
 }
 
-@media (max-width: 575px) {
-  h4, .h4 {
-    font-size: 1.2rem;
-  }
-}
-
 h5, .h5 {
   font-size: 1.4rem;
-}
-
-@media (max-width: 575px) {
-  h5, .h5 {
-    font-size: 1rem;
-  }
 }
 
 h6, .h6 {
@@ -121,6 +92,25 @@ h6, .h6 {
 }
 
 @media (max-width: 575px) {
+  h1, .h1 {
+    font-size: 2.8rem;
+  }
+
+  h2, .h2 {
+    font-size: 2rem;
+  }
+
+  h3, .h3 {
+    font-size: 1.6rem;
+  }
+
+  h4, .h4 {
+    font-size: 1.2rem;
+  }
+  h5, .h5 {
+    font-size: 1rem;
+  }
+  
   h6, .h6{
     font-size: 0.8rem;
   }
