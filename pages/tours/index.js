@@ -67,13 +67,13 @@ export default function TourIndex({ allTours }) {
           <div className="mx-auto"> 
             <div id="category-options"  className=" justify-content-center mb-5" onClick={handleCategoryChange}>
               <div className={selectedCategory === "active" ? "active-option" : "filter-option"} id="active" >
-              Active
+                Active 
               </div>
               <div className={selectedCategory === "leisure" ? "active-option" : "filter-option"} id="leisure">
-              Leisure
+               Leisure 
               </div>
               <div className={selectedCategory === "culture" ? "active-option" : "filter-option"} id="culture">
-              Culture
+               Culture 
               </div>
             </div> 
 

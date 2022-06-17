@@ -12,7 +12,7 @@ export default function Index( ) {
   return (
     <>
       <Head>
-        <title> {CMS_NAME} </title>
+        <title> {CMS_NAME} | Holidays in Northeast India</title>
       </Head> 
       <TourTypes />
       <About />
