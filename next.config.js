@@ -1,3 +1,5 @@
-export const images = {
-    formats: ['image/avif', 'image/webp'],
-};
+module.exports = {
+    images: {
+      formats: ['image/avif', 'image/webp'],
+    },
+  }
