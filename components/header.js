@@ -1,0 +1,80 @@
+import React, { useState } from "react";
+import Link from "next/link";
+import Image from "next/image";
+import { Navbar, NavDropdown, Container, Nav } from "react-bootstrap";
+import Menuitems from "../data/menu.json";
+
+export default function Header() {
+  const [expanded, setExpanded] = useState(false);
+ 
+  return (
+    <Navbar sticky="top" bg="white" expand="lg" className="shadow-sm py-0" expanded={expanded}>
+      <Container>
+          <Link href="/">
+            <Navbar.Brand className="pt-1 pb-0">
+              <Image
+                className="img-fluid"
+                src="/images/logo.svg"
+                layout="intrinsic"
+                placeholder="blur"
+                blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8v4CpHgAGaQIiff9TZQAAAABJRU5ErkJggg=="
+                width={100}
+                height={69}
+                alt="North by Northeast Journeys"
+              />
+            </Navbar.Brand>
+          </Link>
+          <Navbar.Toggle aria-controls="basic-navbar-nav"
+            data-bs-toggle="collapse"
+            data-bs-target="#basic-navbar-nav"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+            onClick={() => setExpanded(expanded ? false : "expanded")
+           }/>
+        <Navbar.Collapse className="justify-content-end" id="navbarScroll" >
+          <Nav className="mx-5" >
+            <ul className="navbar-nav">
+              <li className="nav-item text-uppercase">
+                <Link href="/" >
+                  <a className="nav-link" onClick={() => setExpanded(false)}> Home</a>
+                </Link>
+              </li>
+              <li className="nav-item text-uppercase">
+                <Link href="/tours" >
+                  <a className="nav-link" onClick={() => setExpanded(false)}> Tours </a>
+                </Link>
+              </li>
+              <NavDropdown title="ABOUT" id="basic-nav-dropdown">
+                <li>
+                  <Link href="/about-us">
+                    <a className="dropdown-item text-uppercase" onClick={() => setExpanded(false)}>About Us</a>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/about-us/team">
+                    <a className="dropdown-item text-uppercase" onClick={() => setExpanded(false)}>Team</a>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/about-us/insights">
+                    <a className="dropdown-item  text-uppercase" onClick={() => setExpanded(false)}>Insights</a>
+                  </Link>
+                </li>
+              </NavDropdown>
+              {/* <li className="nav-item text-uppercase">
+                <Link href="/posts">
+                  <a className="nav-link"> Blog </a>
+                </Link>
+              </li> */}
+              <li className="nav-item text-uppercase">
+                <Link href="/contact">
+                  <a className="nav-link" onClick={() => setExpanded(false)}> Contact </a>
+                </Link>
+              </li>
+            </ul>
+          </Nav>
+        </Navbar.Collapse>
+      </Container>
+    </Navbar>
+  );
+}
