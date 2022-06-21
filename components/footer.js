@@ -4,6 +4,7 @@ import Menuitems from "../data/menu.json";
 import Sociallinks from "../data/social.json";
 import Link from "next/link";
 import Image from "next/image";
+import { imgblurDataURL } from "../lib/constants";
 import { Nav } from "react-bootstrap";
 import { useRouter } from "next/router";
 import { Icon } from '@iconify/react';
@@ -24,7 +25,7 @@ export default function Footer() {
                   src="/images/logo.svg"
                   layout='intrinsic'
                   placeholder="blur"
-                  blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mPsqQcAAZ0BDTSBuAQAAAAASUVORK5CYII="
+                  blurDataURL={ imgblurDataURL }
                   alt="logo"
                   width={200}
                   height={136}

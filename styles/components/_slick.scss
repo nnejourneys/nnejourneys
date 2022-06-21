@@ -1,8 +1,8 @@
 /* 8. testimonial section start */
-.testimonial-slider {
-    box-shadow: 0px 10px 35px 0px rgba(0, 0, 0, 0.1);
-    position: relative;
-  }
+// .testimonial-slider {
+    // box-shadow: 0px 10px 35px 0px rgba(0, 0, 0, 0.1);
+    // position: relative;
+  // }
   
   .testimonial-slider .prevArrow,
   .testimonial-slider .nextArrow {
@@ -33,16 +33,21 @@
   }
   
   .testimonial-icon {
-    height: 80px;
-    width: 80px;
-    border-radius: 50%;
-    background: #f5f5f5;
-    color: var(--nne-primary);
-    font-size: 25px;
+    height: 4rem;
+    width: 4rem;
+    padding: 0.2rem; 
+    color: var(--nne-primary); 
     line-height: 80px;
     display: inline-block;
     text-align: center;
     margin-bottom: 25px;
+  }
+
+  .testimonial-img { 
+    border-radius: 50%;
+    display: block !important;
+    margin: 0 auto !important;
+     
   }
   
   /* testimonial section end */

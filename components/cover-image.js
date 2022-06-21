@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
+import { imgblurDataURL } from "../lib/constants";
 
 export default function CoverImage({ title, src, slug, height, width }) {
   const image = (
@@ -8,7 +9,7 @@ export default function CoverImage({ title, src, slug, height, width }) {
       alt={`Cover Image for ${title}`}
       layout="responsive"
       placeholder="blur"
-      blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mPsqQcAAZ0BDTSBuAQAAAAASUVORK5CYII="
+      blurDataURL={ imgblurDataURL }
       width={width}
       height={height}
     />

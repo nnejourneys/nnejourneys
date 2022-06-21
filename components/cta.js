@@ -2,6 +2,7 @@ import React from "react";
 import { Button } from "react-bootstrap";
 import Link from "next/link";
 import Image from "next/image";
+import { imgblurDataURL } from "../lib/constants";
 
 export default function CTA() {
   return (
@@ -12,7 +13,7 @@ export default function CTA() {
           src="/images/ferry-crossing.jpg"
           layout="fill"
           placeholder="blur"
-          blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mPsqQcAAZ0BDTSBuAQAAAAASUVORK5CYII="
+          blurDataURL={ imgblurDataURL }
           objectFit="cover"
           objectPosition="center"
         />

@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import { imgblurDataURL } from "../lib/constants";
 import { useRouter } from "next/router";
 
 export default function HeroSliderPage() {
@@ -18,7 +19,7 @@ export default function HeroSliderPage() {
           src={image}
           alt="Cover Image"
           placeholder="blur"
-          blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mPsqQcAAZ0BDTSBuAQAAAAASUVORK5CYII="
+          blurDataURL={ imgblurDataURL }
           layout="fill"
           objectFit="cover"
         />

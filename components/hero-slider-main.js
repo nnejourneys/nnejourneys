@@ -1,5 +1,6 @@
 import React from "react"; 
 import Image from "next/image";
+import { imgblurDataURL } from "../lib/constants";
 import { Icon } from '@iconify/react';
 import Slider from "react-slick";
 import Slides from "../data/heroslider.json";
@@ -44,8 +45,9 @@ export default function HeroSliderMain() {
                 alt="Cover Image"
                 layout="fill"
                 placeholder="blur"
-                blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mPsqQcAAZ0BDTSBuAQAAAAASUVORK5CYII="
-                objectFit="cover"
+                blurDataURL={ imgblurDataURL }
+                objectFit="cover" 
+                objectPosition= "center"
                 priority
               />
               <div className="hero-content">

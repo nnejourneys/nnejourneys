@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import { imgblurDataURL } from "../../lib/constants";
 import { Button } from "react-bootstrap";
 import { Icon } from "@iconify/react";
 
@@ -23,7 +24,7 @@ export default function TourCard({
                 src={bg_image}
                 layout="responsive"
                 placeholder="blur"
-                blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mPsqQcAAZ0BDTSBuAQAAAAASUVORK5CYII="
+                blurDataURL={ imgblurDataURL }
                 width={240}
                 height={160}
                 alt={title}

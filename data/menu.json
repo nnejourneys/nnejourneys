@@ -12,9 +12,23 @@
           "weight": 2
         },
         {
-          "name": "About Us",
+          "name": "About",
           "URL": "/about-us",
-          "weight": 3
+          "weight": 3,
+          "children": [
+            {
+              "name": "About Us",
+              "URL": "/about-us"
+            },
+            {
+              "name": "Team",
+              "URL": "/about-us/team"
+            },
+            {
+              "name": "Insights",
+              "URL": "/about-us/insights"
+            }
+          ]
         },
         {
           "name": "Contact",

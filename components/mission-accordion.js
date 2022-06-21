@@ -1,6 +1,7 @@
 import React from "react";
 import Accordian from "./accordian";
 import Image from 'next/image'
+import { imgblurDataURL } from "../lib/constants";
 
 export default function MissionAccordion() {
   return (
@@ -22,7 +23,7 @@ export default function MissionAccordion() {
               <Image
                 src="/images/map-of-northeast-india.jpg"
                 placeholder="blur"
-                blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mPsqQcAAZ0BDTSBuAQAAAAASUVORK5CYII="
+                blurDataURL={ imgblurDataURL }
                 alt="chart"
                 width={600}
                 height={680}

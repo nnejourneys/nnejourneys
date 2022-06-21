@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import { imgblurDataURL } from "../lib/constants";
 import Link from "next/link";
 import Tourtypedata from "../data/tourtypes.json";
 
@@ -17,7 +18,7 @@ export default function TourTypes() {
             <div className="row">
               {Tourtypedata.tourtype.map((item, index) => (
                 <div className="col-lg-4 col-sm-6 mb-4" key={index}>
-                  <div className="card text-center">
+                  <div className="card border-1 rounded-0 text-center">
                     <h5 className="card-title py-3">{item.title}</h5>
                     <div className="card-img-wrapper">
                       <Image
@@ -25,7 +26,7 @@ export default function TourTypes() {
                         src={item.img}
                         alt={item.title}
                         placeholder="blur"
-                        blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mPsqQcAAZ0BDTSBuAQAAAAASUVORK5CYII="
+                        blurDataURL={ imgblurDataURL }
                         width={240}
                         height={160}
                         layout="responsive"

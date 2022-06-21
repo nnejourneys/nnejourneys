@@ -1,6 +1,7 @@
 import React from "react";
 import Link from 'next/link'
 import Image from "next/image";
+import { imgblurDataURL } from "../lib/constants";
 import Aboutdata from "../data/about.json";
 
 export default function About() {
@@ -12,7 +13,7 @@ export default function About() {
           src={Aboutdata.about.img}
           layout="fill"
           placeholder="blur"
-          blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mPsqQcAAZ0BDTSBuAQAAAAASUVORK5CYII="
+          blurDataURL={ imgblurDataURL }
           objectFit="cover"
           objectPosition="center"
         />
@@ -24,14 +25,13 @@ export default function About() {
                   {Aboutdata.about.title}
                 </h3>
                 <p className="text-justify text-white mb-40">
-                {Aboutdata.about.text} 
+                  {Aboutdata.about.text} 
                 </p> 
                 <Link href={Aboutdata.about.btnlink} >
                 <a className="btn btn-primary mt-2">
-                {Aboutdata.about.btntext}
+                  {Aboutdata.about.btntext}
                 </a>
                 </Link>
-                
               </div>
             </div>
           </div>
