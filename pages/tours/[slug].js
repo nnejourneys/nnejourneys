@@ -41,27 +41,36 @@ export default function Tour({ tour }) {
               </title>
               {/* <meta property="og:image" content={tour.ogImage.url} /> */}
             </Head>
-            <TourHeader
-              title={tour.title}
-              subtitle={tour.subtitle}
-              days={tour.days}
-              image={tour.bg_image}
-            />
+
+            {tour.title || tour.subtitle || tour.days || tour.bg_image ? (
+              <TourHeader
+                title={tour.title}
+                subtitle={tour.subtitle}
+                days={tour.days}
+                image={tour.bg_image}
+              />
+            ) : null}
             <Container>
               <div className="row mt-5">
                 <div className="col-md-12 text-center">
-                  <h6 className="my-5">{tour.description}</h6>
+                  {tour.description ? (
+                    <h6 className="my-5">{tour.description}</h6>
+                  ) : null}
                 </div>
               </div>
               <div className="row">
                 <aside className="col-lg-4">
                   <div className="p-3 rounded border mb-50">
                     <h4 className="text-color mb-20">Tour Overview</h4>
-                    <TourOverview overview={tour.overview} />
+                    {tour.overview ? (
+                      <TourOverview overview={tour.overview} />
+                    ) : null}
                   </div>
                 </aside>
                 <div className="col-lg-8 ">
-                  <TourBody className="mb-5" content={tour.content} />
+                  {tour.content ? (
+                    <TourBody className="mb-5" content={tour.content} />
+                  ) : null}
                 </div>
               </div>
               <Tabs
@@ -71,40 +80,47 @@ export default function Tour({ tour }) {
               >
                 <Tab eventKey="overview" title="Overview">
                   <h5 className="mb-5">Overview</h5>
-                  <TouroversList overs={tour.overs} />
+                  {tour.overs ? <TouroversList overs={tour.overs} /> : null}
                 </Tab>
                 <Tab eventKey="highlights" title="Highlights">
                   <h5 className="mb-5">Highlights</h5>
-                  <TourdataList datalist={tour.highlights} />
+                  {tour.highlights ? (
+                    <TourdataList datalist={tour.highlights} />
+                  ) : null}
                 </Tab>
                 <Tab eventKey="inclusions" title="Inclusions">
                   <h5 className="mb-5">Inclusions</h5>
-                  <TourdataList datalist={tour.inclusions} />
+                  {tour.inclusions ? (
+                    <TourdataList datalist={tour.inclusions} />
+                  ) : null}
                 </Tab>
                 <Tab eventKey="accommodation" title="Accomodation">
                   <h5 className="mb-5">Accomodation</h5>
-                  <TouraccoList
-                    meals={tour.meals}
-                    accommodation={tour.accommodation}
-                    refreshments={tour.refreshments}
-                  />
+
+                  {tour.meals || tour.accommodation || tour.refreshments ? (
+                    <TouraccoList
+                      meals={tour.meals}
+                      accommodation={tour.accommodation}
+                      refreshments={tour.refreshments}
+                    />
+                  ) : null}
                 </Tab>
                 <Tab eventKey="gallery" title="Gallery">
-                  <h5 className="mb-5">Gallery</h5>
-                  <TourGallery
-                    galleryimages={tour.galleryimages}
-                    subtitle={tour.subtitle}
-                  />
+                  <h5 className="mb-5">Gallery</h5> 
+                    <TourGallery
+                      galleryimages={tour.galleryimages}
+                      subtitle={tour.subtitle}
+                    /> 
                 </Tab>
                 <Tab eventKey="enquire" title="Enquire">
                   <h5 className="mb-5">Enquire</h5>
-                  <EnquiryForm title={tour.title} />
+                  {tour.title ? <EnquiryForm title={tour.title} /> : null}
                 </Tab>
               </Tabs>
               <SectionSeparator />
               <div className="mt-5">
                 <h5>FAQ</h5>
-                <TourFaq faq={tour.faq} />
+                {tour.faq ? <TourFaq faq={tour.faq} /> : null}
               </div>
               <SectionSeparator />
               <div className="my-5">
@@ -116,7 +132,9 @@ export default function Tour({ tour }) {
               </div>
               <SectionSeparator />
               <h4 className="text-capitalize"> other {tour.type} tours</h4>
-              <TourOthertours othertours={tour.othertours} />
+              {tour.othertours ? (
+                <TourOthertours othertours={tour.othertours} />
+              ) : null}
               <SectionSeparator />
             </Container>
           </article>

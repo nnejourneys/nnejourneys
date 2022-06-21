@@ -1,9 +1,9 @@
 import { getAllTours } from "../../lib/api";
 import { useEffect, useState } from "react";
-import Head from "next/head";
 import { CMS_NAME } from "../../lib/constants";
+import { Container } from "react-bootstrap";
+import Head from "next/head";
 import TourItem from "../../components/tours/tour-item";
-import { Container } from "react-bootstrap"; 
 
 export default function TourIndex({ allTours }) {
   const [filteredList, setFilteredList] = useState(allTours);
@@ -39,7 +39,7 @@ export default function TourIndex({ allTours }) {
     const inputCategory = (event.target.id) ;
 
     if (inputCategory === selectedCategory) {
-      setSelectedCategory("");
+      setSelectedCategory(inputCategory);
     } else {
       setSelectedCategory(inputCategory);
       setSelectedTag("");
@@ -66,7 +66,7 @@ export default function TourIndex({ allTours }) {
             <div id="category-options"  className=" justify-content-center mb-5" onClick={handleCategoryChange}>
               <div className={selectedCategory === "active" ? "active-option" : "filter-option"} id="active" >
                 Active 
-              </div>
+              </div> 
               <div className={selectedCategory === "leisure" ? "active-option" : "filter-option"} id="leisure">
                Leisure 
               </div>

@@ -6,7 +6,7 @@ days: "6 days"
 description : "Trekking & Wildlife Expedition in Namdapha National Park of Eastern Arunachal Pradesh. A unique trek in the worlds northernmost rainforest"
 bg_image: /images/tours/trekking-in-namdapha-rainforest.jpg
 image : /images/tours/trekking-in-namdapha-rainforest.jpg
-category: "trekking"
+category: "active"
 cat: "Easy to Moderate"
 type : "active"
 tags: ["trekking", "east-arunachal"]

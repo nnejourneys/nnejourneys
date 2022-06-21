@@ -41,16 +41,6 @@ overview:
 
 ############### Not entered
 
-over:
- - Level- Off the Grid
- - Total Days- 6 to 10
- - Experiences Water based activities, walks, cultural insights, cuisine, Rafting & cycling
- - Terrain- 85% Plains
- - Altitude variation- 150 to 800 mts
- - Best Time- October to March
- - Airport in- Dibrugarh (Assam)
- - Airport out- Dibrugarh (Assam)
-
 overs:
   - l: Level 
     d: Off the Grid

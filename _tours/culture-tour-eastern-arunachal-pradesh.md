@@ -41,16 +41,6 @@ overview:
 
 ############# Not Entered
 
-over:
- - Level- Off the Grid
- - Total Days- 6 to 10
- - Experiences Water based activities, walks, cultural insights, cuisine, Rafting & cycling
- - Terrain- 85% Plains
- - Altitude variation- 150 to 800 mts
- - Best Time- October to March
- - Airport in- Dibrugarh (Assam)
- - Airport out- Dibrugarh (Assam)
-
 overs:
   - l: Level 
     d: Off the Grid
@@ -122,4 +112,4 @@ othertours:
   image: /images/tours/culture-tour-of-nagaland-hornbill-festival.jpg
 ---
  
-We take you to one of the least known part of Northeast India. The eastern bit of the region buffering Tibet and Myanmar lies in the state of Arunachal Pradesh. This is a region of giant rivers, uending forests and a ring of hills climbing ever higher till it becomes snowy peaks at the Chinese border. This region is home to the Theravada Buddhist tribes who live in the plains and the Animist ones who live in the hills.
+We take you to one of the least known part of Northeast India. The eastern bit of the region buffering Tibet and Myanmar lies in the state of Arunachal Pradesh. This is a region of giant rivers, unending forests and a ring of hills climbing ever higher till it becomes snowy peaks at the Chinese border. This region is home to the Theravada Buddhist tribes who live in the plains and the Animist ones who live in the hills.

@@ -80,15 +80,6 @@ inclusions:
  - Activities as mentioned
  - All permits, tolls and fees
 
-###### Covid 19 Precautions
-#```
-#> Single occupany camping
-#> 3 persons per vehicle for main transfers
-#> No local contact or stoppages in towns and settlements
-#> Follow all protcols of tourism ministry
-#> Guides well sentisized to the requirements
-#> All clients require a mandatory PCR test certificate no more than 72 before arrival
-
 accommodation: Eco cottages & Camping
 meals: All meals, water and refreshments
 refreshments: -- 
