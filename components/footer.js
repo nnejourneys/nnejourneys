@@ -72,8 +72,8 @@ export default function Footer() {
               </ul>
             </div>
             <div className="col-lg-2 col-md-6 ">
-//               <h6 className="text-white mb-4">Join our mailing list</h6>
-//               <MailingList/>
+              {/* <h6 className="text-white mb-4">Join our mailing list</h6>
+              <MailingList/> */}
             </div>
           </div>
         </div>
