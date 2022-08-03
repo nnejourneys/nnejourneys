@@ -48,10 +48,15 @@
 .nav-tabs {
   color: black !important;
   background-color: rgb(225, 225, 225) !important;
+  border: none !important;
   & :focus{
     color: rgb(91, 91, 91) !important;
     background-color: rgb(255, 255, 255) !important;
   }
+}
+
+.nav-link{
+  border-radius: 0 !important;
 }
 
 .tour-body{
