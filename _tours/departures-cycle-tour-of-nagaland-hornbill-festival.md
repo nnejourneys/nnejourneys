@@ -11,7 +11,7 @@ category: "departures"
 cat: "30 Nov - 9 Dec' 2022"
 tags: ["nagaland", "assam", "November"]
 weight: 6
-touricon: "iconoir:church-alt"
+touricon: "iconoir:cycling"
  
 # overview
 overview:
