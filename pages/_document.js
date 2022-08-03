@@ -8,6 +8,7 @@ export default class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
+        
           <Script
             strategy="afterInteractive"
             dangerouslySetInnerHTML={{
@@ -22,7 +23,7 @@ export default class MyDocument extends Document {
           />
           <meta charSet="UTF-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-         
+          <meta name="google-site-verification" content="QfsOeosyiiIzUmJfOvnMGdMdd5guZLzJTvU1C3AwPww" />
           <link
             rel="preconnect"
             href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&family=Open+Sans:wght@400;500;600;700&display=swap"
