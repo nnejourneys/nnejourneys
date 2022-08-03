@@ -1,14 +1,14 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
 import { CMS_NAME, HOME_OG_IMAGE_URL, EXAMPLE_PATH } from "../lib/constants";
-// import Script from "next/script"
-// import { GTM_ID } from "../lib/gtm";
+import Script from "next/script"
+import { GTM_ID } from "../lib/gtm";
 
 export default class MyDocument extends Document {
   render() {
     return (
       <Html lang="en">
         <Head>
-          {/* <Script
+          <Script
             strategy="afterInteractive"
             dangerouslySetInnerHTML={{
               __html: `
@@ -19,13 +19,13 @@ export default class MyDocument extends Document {
             })(window,document,'script','dataLayer', '${GTM_ID}');
           `,
             }}
-          /> */}
+          />
           <meta charSet="UTF-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
          
           <link
             rel="preconnect"
-            href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&family=Open+Sans:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&family=Open+Sans:wght@400;500;600;700&display=swap"
             crossOrigin="true"
           />
           {/* <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&display=swap" rel="stylesheet">  */}
@@ -53,14 +53,14 @@ export default class MyDocument extends Document {
           <meta name="twitter:creator" content="@mogsishere" />
         </Head>
         {/* <!-- Google Tag Manager (noscript) --> */}
-        {/* <noscript>
+        <noscript>
             <iframe
               src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}
               height="0"
               width="0"
               style={{ display: "none", visibility: "hidden" }}
             />
-          </noscript> */}
+          </noscript>
         {/* <!-- End Google Tag Manager (noscript) --> */}
         <body>
           <Main />
