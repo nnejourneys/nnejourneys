@@ -40,8 +40,8 @@ export default function Tour({ tour }) {
               <title>
                 {tour.title} | {CMS_NAME}
               </title>
-              <meta property="og:title" content="${tour.title}"/>
-              <meta property="og:image" content={`${tour.bg_image}`} />
+              <meta property="og:title" content={tour.title}/>
+              <meta property="og:image" content={tour.bg_image} />
               <meta property="og:type" content="tour itinerary" />
               <meta property="og:image:alt" content="TourImage" /> 
               <meta property="og:description" content={tour.description} />
