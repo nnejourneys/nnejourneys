@@ -99,14 +99,14 @@ faq:
     text : We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
   
 galleryimages:
-  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/arunachal-pradesh-trek.jpg"
-  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/bailey-trail-arunachal-pradesh-trek.jpg"
-  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/bailey-trail-trekking.jpg"
-  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/bailey-trail.jpg"
-  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/tawang-trek.jpg"
-  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/trek-arunachal-pradesh-himalayas.jpg"
-  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/trekking-in-eastern-himalayas.jpg"
-  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/trekking-in-tawang.jpg"
+  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/trekking-in-west-arunachal-pradesh1.jpg"
+  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/trekking-in-west-arunachal-pradesh2.jpg"
+  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/trekking-in-west-arunachal-pradesh3.jpg"
+  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/trekking-in-west-arunachal-pradesh4.jpg"
+  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/trekking-in-west-arunachal-pradesh5.jpg"
+  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/trekking-in-west-arunachal-pradesh6.jpg"
+  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/trekking-in-west-arunachal-pradesh7.jpg"
+  - "/images/tours/gallery/trekking-in-west-arunachal-pradesh/trekking-in-west-arunachal-pradesh8.jpg"
 
 othertours:
 - title: Walks in the Clouds

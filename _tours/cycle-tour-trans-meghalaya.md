@@ -109,14 +109,14 @@ faq:
     text : We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
 galleryimages:
-- "/images/tours/gallery/cycle-tour-trans-meghalaya/27880685867_7caf1e7d97_k.jpg"
 - "/images/tours/gallery/cycle-tour-trans-meghalaya/cycle-tour-trans-meghalaya1.jpg"
-- "/images/tours/gallery/cycle-tour-trans-meghalaya/IMG_01372.JPG"
-- "/images/tours/gallery/cycle-tour-trans-meghalaya/IMG_01662.JPG"
-- "/images/tours/gallery/cycle-tour-trans-meghalaya/IMG_20171024_093326.jpg"
-- "/images/tours/gallery/cycle-tour-trans-meghalaya/IMG_20211116_084823.jpg"
-- "/images/tours/gallery/cycle-tour-trans-meghalaya/_MG_887531.jpg"
-- "/images/tours/gallery/cycle-tour-trans-meghalaya/_MG_9059.jpg"
+- "/images/tours/gallery/cycle-tour-trans-meghalaya/cycle-tour-trans-meghalaya2.jpg"
+- "/images/tours/gallery/cycle-tour-trans-meghalaya/cycle-tour-trans-meghalaya3.jpg"
+- "/images/tours/gallery/cycle-tour-trans-meghalaya/cycle-tour-trans-meghalaya4.jpg"
+- "/images/tours/gallery/cycle-tour-trans-meghalaya/cycle-tour-trans-meghalaya5.jpg"
+- "/images/tours/gallery/cycle-tour-trans-meghalaya/cycle-tour-trans-meghalaya6.jpg"
+- "/images/tours/gallery/cycle-tour-trans-meghalaya/cycle-tour-trans-meghalaya7.jpg"
+- "/images/tours/gallery/cycle-tour-trans-meghalaya/cycle-tour-trans-meghalaya8.jpg"
 
 othertours:
 - title: The Brahmaputra Explorer 

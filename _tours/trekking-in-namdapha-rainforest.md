@@ -102,14 +102,14 @@ faq:
   text: We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
 galleryimages:
-  - "/images/tours/gallery/trekking-in-namdapha-rainforest/namdapha-national-park-trek-arunachal-pradesh.jpg"
-  - "/images/tours/gallery/trekking-in-namdapha-rainforest/namdapha-national-park.jpg"
-  - "/images/tours/gallery/trekking-in-namdapha-rainforest/Namdapha-painforest-trek.jpg"
-  - "/images/tours/gallery/trekking-in-namdapha-rainforest/namdapha-trek.jpg"
-  - "/images/tours/gallery/trekking-in-namdapha-rainforest/rainforest-trek-arunachal-pradesh.jpg"
-  - "/images/tours/gallery/trekking-in-namdapha-rainforest/rainforest-trek-namdapha-national-park.jpg"
-  - "/images/tours/gallery/trekking-in-namdapha-rainforest/trek-rainforest-namdapha.jpg"
-  - "/images/tours/gallery/trekking-in-namdapha-rainforest/Trekking-in-namdapha-national-park.jpg"
+  - "/images/tours/gallery/trekking-in-namdapha-rainforest/trekking-in-namdapha-rainforest1.jpg"
+  - "/images/tours/gallery/trekking-in-namdapha-rainforest/trekking-in-namdapha-rainforest2.jpg"
+  - "/images/tours/gallery/trekking-in-namdapha-rainforest/trekking-in-namdapha-rainforest3.jpg"
+  - "/images/tours/gallery/trekking-in-namdapha-rainforest/trekking-in-namdapha-rainforest4.jpg"
+  - "/images/tours/gallery/trekking-in-namdapha-rainforest/trekking-in-namdapha-rainforest5.jpg"
+  - "/images/tours/gallery/trekking-in-namdapha-rainforest/trekking-in-namdapha-rainforest6.jpg"
+  - "/images/tours/gallery/trekking-in-namdapha-rainforest/trekking-in-namdapha-rainforest7.jpg"
+  - "/images/tours/gallery/trekking-in-namdapha-rainforest/trekking-in-namdapha-rainforest8.jpg"
  
 othertours:
 - title: Monyul & Brahmaputa Valley 

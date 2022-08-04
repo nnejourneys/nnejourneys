@@ -109,14 +109,14 @@ faq:
 
 galleryimages:
 
-- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/Cycling in northeast India.jpg"
-- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/cycling-arunachal-pradesh.jpg"
-- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/Cycling-in-eastern-arunachal-pradesh.jpg"
-- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/Mishmi-hills-cycle-tour2.jpg"
-- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/Mishmi-hills-cycle-tour.jpg"
-- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/Mishmi-hills-cycling.jpg"
-- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/Mishmi-hills-explorer-cycling.jpg"
-- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/_MG_95942.jpg"
+- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/cycle-tour-of-mishmi-hills-arunachal-pradesh1.jpg"
+- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/cycle-tour-of-mishmi-hills-arunachal-pradesh2.jpg"
+- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/cycle-tour-of-mishmi-hills-arunachal-pradesh3.jpg"
+- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/cycle-tour-of-mishmi-hills-arunachal-pradesh4.jpg"
+- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/cycle-tour-of-mishmi-hills-arunachal-pradesh5.jpg"
+- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/cycle-tour-of-mishmi-hills-arunachal-pradesh6.jpg"
+- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/cycle-tour-of-mishmi-hills-arunachal-pradesh7.jpg"
+- "/images/tours/gallery/cycle-tour-of-mishmi-hills-arunachal-pradesh/cycle-tour-of-mishmi-hills-arunachal-pradesh8.jpg"
 
 othertours:
 - title: The Brahmaputra Explorer 

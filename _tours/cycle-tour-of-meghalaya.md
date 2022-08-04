@@ -107,14 +107,14 @@ faq:
 
 galleryimages:
  
-- "/images/tours/gallery/cycle-tour-of-meghalaya/Cycle-Tour-of-Meghalaya.jpg"
-- "/images/tours/gallery/cycle-tour-of-meghalaya/Cycle-trip-Meghalaya.jpg"
-- "/images/tours/gallery/cycle-tour-of-meghalaya/Cycling-in-Meghalaya.jpg"
-- "/images/tours/gallery/cycle-tour-of-meghalaya/Meghalaya-cycling-holiday2.jpg"
-- "/images/tours/gallery/cycle-tour-of-meghalaya/Meghalaya-cycling-holiday3.jpg"
-- "/images/tours/gallery/cycle-tour-of-meghalaya/Meghalaya-cycling-holiday4.jpg"
-- "/images/tours/gallery/cycle-tour-of-meghalaya/Meghalaya-cycling-holiday.jpg"
-- "/images/tours/gallery/cycle-tour-of-meghalaya/Riding-in-Meghalaya.jpg"
+- "/images/tours/gallery/cycle-tour-of-meghalaya/cycle-tour-of-meghalaya1.jpg"
+- "/images/tours/gallery/cycle-tour-of-meghalaya/cycle-tour-of-meghalaya2.jpg"
+- "/images/tours/gallery/cycle-tour-of-meghalaya/cycle-tour-of-meghalaya3.jpg"
+- "/images/tours/gallery/cycle-tour-of-meghalaya/cycle-tour-of-meghalaya4.jpg"
+- "/images/tours/gallery/cycle-tour-of-meghalaya/cycle-tour-of-meghalaya5.jpg"
+- "/images/tours/gallery/cycle-tour-of-meghalaya/cycle-tour-of-meghalaya6.jpg"
+- "/images/tours/gallery/cycle-tour-of-meghalaya/cycle-tour-of-meghalaya7.jpg"
+- "/images/tours/gallery/cycle-tour-of-meghalaya/cycle-tour-of-meghalaya8.jpg"
 
 #### Other Ethno-Cultural Tours
 othertours:

@@ -106,14 +106,14 @@ faq:
     text : We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
 galleryimages:
-- "/images/tours/gallery/cycle-tour-of-sikkim/40938973860_1403e25d2d_k2.jpg"
-- "/images/tours/gallery/cycle-tour-of-sikkim/DSC00638.jpg"
-- "/images/tours/gallery/cycle-tour-of-sikkim/DSC00693.jpg"
-- "/images/tours/gallery/cycle-tour-of-sikkim/IMG_6901.jpg"
-- "/images/tours/gallery/cycle-tour-of-sikkim/IMG_6918-2.jpg"
-- "/images/tours/gallery/cycle-tour-of-sikkim/pemayangtse-monastery-featured.jpg"
-- "/images/tours/gallery/cycle-tour-of-sikkim/tea_pickers.jpg"
-- "/images/tours/gallery/cycle-tour-of-sikkim/WP_20140920_0722.jpg"
+- "/images/tours/gallery/cycle-tour-of-sikkim/cycle-tour-of-sikkim1.jpg"
+- "/images/tours/gallery/cycle-tour-of-sikkim/cycle-tour-of-sikkim2.jpg"
+- "/images/tours/gallery/cycle-tour-of-sikkim/cycle-tour-of-sikkim3.jpg"
+- "/images/tours/gallery/cycle-tour-of-sikkim/cycle-tour-of-sikkim4.jpg"
+- "/images/tours/gallery/cycle-tour-of-sikkim/cycle-tour-of-sikkim5.jpg"
+- "/images/tours/gallery/cycle-tour-of-sikkim/cycle-tour-of-sikkim6.jpg"
+- "/images/tours/gallery/cycle-tour-of-sikkim/cycle-tour-of-sikkim7.jpg"
+- "/images/tours/gallery/cycle-tour-of-sikkim/cycle-tour-of-sikkim8.jpg"
 
 othertours:
 - title: The Brahmaputra Explorer 

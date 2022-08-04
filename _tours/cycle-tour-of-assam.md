@@ -107,14 +107,14 @@ faq:
     text : We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
 galleryimages:
-- "/images/tours/gallery/cycle-tour-of-assam/375985_201969429880547_1583092574_n.jpg"
-- "/images/tours/gallery/cycle-tour-of-assam/42700489642_2f6f3b7f9d_k.jpg"
-- "/images/tours/gallery/cycle-tour-of-assam/IMG_20160924_152828.jpg"
-- "/images/tours/gallery/cycle-tour-of-assam/IMG_20190327_111626.jpg"
-- "/images/tours/gallery/cycle-tour-of-assam/IMG_20190408_163159_HDR.jpg"
-- "/images/tours/gallery/cycle-tour-of-assam/IMG_20211224_110215.jpg"
-- "/images/tours/gallery/cycle-tour-of-assam/IMG_6715.jpg"
-- "/images/tours/gallery/cycle-tour-of-assam/IMG_6724.jpg"
+- "/images/tours/gallery/cycle-tour-of-assam/cycle-tour-of-assam1.jpg"
+- "/images/tours/gallery/cycle-tour-of-assam/cycle-tour-of-assam2.jpg"
+- "/images/tours/gallery/cycle-tour-of-assam/cycle-tour-of-assam3.jpg"
+- "/images/tours/gallery/cycle-tour-of-assam/cycle-tour-of-assam4.jpg"
+- "/images/tours/gallery/cycle-tour-of-assam/cycle-tour-of-assam5.jpg"
+- "/images/tours/gallery/cycle-tour-of-assam/cycle-tour-of-assam6.jpg"
+- "/images/tours/gallery/cycle-tour-of-assam/cycle-tour-of-assam7.jpg"
+- "/images/tours/gallery/cycle-tour-of-assam/cycle-tour-of-assam8.jpg"
 
 othertours:
 - title: The Brahmaputra Explorer 
