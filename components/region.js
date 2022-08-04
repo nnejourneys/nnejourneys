@@ -36,7 +36,7 @@ export default function Region() {
             </h2>
           </div>
         </div>
-        <ul ref={ref} className="region-card-list ms-0">
+        <ul ref={ref} className="region-card-list ps-0">
           {Regiondata.accordion.map((item, index) => (
             <motion.li className="row region-card text-color p-0 my-5" key={index} animate={animation}>
               <div className="col-md-7 region-text"  >
