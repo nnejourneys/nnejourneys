@@ -55,14 +55,7 @@ export default class MyDocument extends Document {
         </Head>
         {/* <!-- Google Tag Manager (noscript) --> */}
         <!-- Google tag (gtag.js) -->
-//         <script async src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}/>
-//         <script>
-//           window.dataLayer = window.dataLayer || [];
-//           function gtag(){dataLayer.push(arguments);}
-//           gtag('js', new Date());
 
-//           gtag('config', '${GTM_ID}');
-//         </script>
         <noscript>
             <iframe
               src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}
