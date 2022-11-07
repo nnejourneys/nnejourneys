@@ -54,8 +54,6 @@ export default class MyDocument extends Document {
           <meta name="twitter:creator" content="@mogsishere" />
         </Head>
         {/* <!-- Google Tag Manager (noscript) --> */}
-        <!-- Google tag (gtag.js) -->
-
         <noscript>
             <iframe
               src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}
