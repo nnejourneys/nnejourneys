@@ -54,22 +54,14 @@ export default class MyDocument extends Document {
           <meta name="twitter:creator" content="@mogsishere" />
         </Head>
         {/* <!-- Google Tag Manager (noscript) --> */}
-//         <noscript>
-//             <iframe
-//               src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}
-//               height="0"
-//               width="0"
-//               style={{ display: "none", visibility: "hidden" }}
-//             />
-//           </noscript>
-          <noscript
-            dangerouslySetInnerHTML={{
-             __html: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WPTHXWZ" height="0" width="0" style="display: none; visibility: hidden;" />`,
-          }}
-        />
-
-
-
+         <noscript>
+             <iframe
+               src="https://www.googletagmanager.com/ns.html?id=GTM-WPTHXWZ"
+               height="0"
+               width="0"
+               style={{ display: "none", visibility: "hidden" }}
+             />
+           </noscript>
         {/* <!-- End Google Tag Manager (noscript) --> */}
         <body>
           <Main />
