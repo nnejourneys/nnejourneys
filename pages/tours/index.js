@@ -1,12 +1,15 @@
+import { useRouter } from "next/router";
 import { getAllTours } from "../../lib/api";
 import { useEffect, useState } from "react";
-import { CMS_NAME } from "../../lib/constants";
+import { CMS_NAME, BASE_PATH } from "../../lib/constants";
 import { Container } from "react-bootstrap";
 import Head from "next/head";
 import { motion } from "framer-motion";
 import TourItem from "../../components/tours/tour-item";
 
 export default function TourIndex({ allTours }) {
+  const router = useRouter();
+  const slug = router.asPath; 
   const [filteredList, setFilteredList] = useState(allTours);
   const [selectedTag, setSelectedTag] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("active");
@@ -56,8 +59,10 @@ export default function TourIndex({ allTours }) {
   return (
     <>
       <Head>
-        <title> Tours | {CMS_NAME} </title> 
+        <title> All Tours | {CMS_NAME} </title> 
         <meta property="og:title" content={`Tours | ${CMS_NAME}`}/>
+        <link rel="canonical" href={`${BASE_PATH}${slug}`}/> 
+        <meta name="description" content="We specialize in the little-known Northeast of India, offering adventure, nature and culture tours across Assam, Arunachal, Meghalaya, Nagaland and Sikkim." />
       </Head>
 
       <Container >
