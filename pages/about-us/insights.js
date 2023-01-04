@@ -1,14 +1,18 @@
 import React from "react";
 import Head from "next/head";
-import { CMS_NAME, imgblurDataURL } from "../../lib/constants";
+import { useRouter } from "next/router";
+import { CMS_NAME, imgblurDataURL, BASE_PATH } from "../../lib/constants";
 import Insightsdata from "../../data/insights.json";
 import Image from "next/image";
 
 export default function Insights() {
+  const router = useRouter();
+  const slug = router.asPath; 
   return (
     <>
       <Head>
         <title> Insights | {CMS_NAME}</title>
+        <link rel="canonical" href={`${BASE_PATH}${slug}`}/>
         {/* <meta property="og:image" content={tour.ogImage.url} /> */}
       </Head>
       <section className="section">

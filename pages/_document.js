@@ -1,5 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
-import { CMS_NAME, HOME_OG_IMAGE_URL, EXAMPLE_PATH } from "../lib/constants";
+import { CMS_NAME, HOME_OG_IMAGE_URL, BASE_PATH } from "../lib/constants";
 import Script from "next/script"
 import { GTM_ID } from "../lib/gtm";
 
@@ -29,13 +29,12 @@ export default class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&family=Open+Sans:wght@400;500;600;700&display=swap"
             crossOrigin="true"
           />
-          {/* <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&display=swap" rel="stylesheet">  */}
           <link rel="shortcut icon" href="/images/logo.png" />
 
 
           {/* General Meta */}
-          <meta name="description" content={`North by Northeast Journeys, specializes in the little-known Northeast region of India, offering adventure, nature and culture tours across Assam, Arunachal Pradesh, Meghalaya, Nagaland and Sikkim. | ${CMS_NAME}.`}/>
-          <meta property="og:url" content={EXAMPLE_PATH} />
+          <meta name="description" content={`We specialize in adventure, nature and culture tours across the little-known Northeast region of India. | ${CMS_NAME}.`}/>
+          <meta property="og:url" content={BASE_PATH} />
           <meta property="og:type" content="website" />
           <meta property="og:title" content={CMS_NAME}/>
           <meta
@@ -50,18 +49,18 @@ export default class MyDocument extends Document {
           {/* Twitter Card */}
           <meta name="twitter:card" content="summary"/>
           <meta name="twitter:title" content="North by Northeast Journeys"/>
-          <meta name="twitter:site" content={EXAMPLE_PATH} />
+          <meta name="twitter:site" content={BASE_PATH} />
           <meta name="twitter:creator" content="@mogsishere" />
         </Head>
         {/* <!-- Google Tag Manager (noscript) --> */}
-         <noscript>
-             <iframe
-               src="https://www.googletagmanager.com/ns.html?id=GTM-WPTHXWZ"
-               height="0"
-               width="0"
-               style={{ display: "none", visibility: "hidden" }}
-             />
-           </noscript>
+        <noscript>
+            <iframe
+              src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}
+              height="0"
+              width="0"
+              style={{ display: "none", visibility: "hidden" }}
+            />
+          </noscript>
         {/* <!-- End Google Tag Manager (noscript) --> */}
         <body>
           <Main />

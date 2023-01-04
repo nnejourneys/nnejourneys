@@ -1,12 +1,16 @@
+import { useRouter } from "next/router";
 import React, { useEffect } from "react";
 import Contacts from "../components/contacts";
 import ContactForm from "../components/contact-form"; 
-import { CMS_NAME } from "../lib/constants";
+import { CMS_NAME, BASE_PATH } from "../lib/constants";
 import Head from "next/head"; 
 import { motion, useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 
 export default function Contact() {
+  const router = useRouter();
+  const slug = router.asPath; 
+
   const { ref, inView } = useInView({
     threshold: 0.1,
   });
@@ -44,6 +48,7 @@ export default function Contact() {
     <>
       <Head>
         <title>Contact | {CMS_NAME}</title>
+        <link rel="canonical" href={`${BASE_PATH}${slug}`}/>
       </Head>
       <section className="section">
         <div className="container">

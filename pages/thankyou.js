@@ -9,6 +9,7 @@ export default function Thankyou() {
     <>
       <Head>
         <title>Thank You | {CMS_NAME} </title>
+        <meta name="robots" content="noindex"/>
       </Head>
       <Container className="my-5">
         <h4 className="my-5 text-center"> 
