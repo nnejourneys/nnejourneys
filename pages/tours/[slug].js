@@ -44,7 +44,10 @@ export default function Tour({ tour }) {
               <meta property="og:image" content={tour.bg_image} />
               <meta property="og:type" content="tour itinerary" />
               <meta property="og:image:alt" content="TourImage" /> 
-              <meta property="og:description" content={tour.description} />
+              <meta property="og:description" content={tour.description} /> 
+              <meta name="description" content={tour.description}/>
+              <meta name="keywords" content={tour.keywords}/>
+              <link rel="canonical" href={`${BASE_PATH}${slug}`}/>
             </Head>
 
             {tour.title || tour.subtitle || tour.days || tour.bg_image ? (
