@@ -1,5 +1,5 @@
 import { useRouter } from "next/router";
-import { CMS_NAME, imgblurDataURL, EXAMPLE_PATH,  HOME_OG_IMAGE_URL } from "../../lib/constants";
+import { CMS_NAME, imgblurDataURL, BASE_PATH,  HOME_OG_IMAGE_URL } from "../../lib/constants";
 import { getTourBySlug, getAllTours } from "../../lib/api";
 import { Container, Tabs, Tab } from "react-bootstrap";
 import ErrorPage from "next/error";
@@ -21,6 +21,8 @@ import SectionSeparator from "../../components/section-separator";
 
 export default function Tour({ tour }) {
   const router = useRouter();
+  const slug = router.asPath; 
+
   if (!router.isFallback && !tour?.slug) {
     return (
       <>
@@ -37,9 +39,7 @@ export default function Tour({ tour }) {
         <>
           <article className="mb-5">
             <Head>
-              <title>
-                {tour.title} | {CMS_NAME}
-              </title>
+              <title>{tour.title} | {CMS_NAME}</title>
               <meta property="og:title" content={tour.title}/>
               <meta property="og:image" content={tour.bg_image} />
               <meta property="og:type" content="tour itinerary" />
@@ -75,7 +75,7 @@ export default function Tour({ tour }) {
                     ) : null}
                   </div>
                 </aside>
-                <div className="col-lg-8 ">
+                <div className="col-lg-8">
                   {tour.content ? (
                     <TourBody className="mb-5" content={tour.content} />
                   ) : null}
@@ -170,6 +170,7 @@ export default function Tour({ tour }) {
 
 export async function getStaticProps({ params }) {
   const tour = getTourBySlug(params.slug, [
+    "keywords",
     "title",
     "slug",
     "subtitle",
