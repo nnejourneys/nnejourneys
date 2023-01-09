@@ -1,15 +1,16 @@
 ---
 draft: false
+keywords: "Eastern Arunachal Pradesh, Arunachal Pradesh, Cycling holiday, the Brahmaputra Valley"
 title: "CYCLE TOUR OF EASTERN ARUNACHAL PRADESH"
 subtitle: "Watershed of the Brahmaputra "
-days: "6 Days"
+days: "8 days"
 description : "This tour takes you to eastern Arunachal Pradesh on a multiday cycling holiday across the watershed region of the Brahmaputra Valley."
 bg_image: /images/tours/departures-cycle-tour-of-eastern-arunachal-pradesh.jpg
 image : /images/tours/departures-cycle-tour-of-eastern-arunachal-pradesh.jpg
 # video: https://www.youtube.com/watch?v=AV5-Chp6p14&ab_channel=NorthBynortheast
 type: "departures"
 category: "departures"
-cat: "18 - 23 March' 2022"
+cat: "4 - 11 March' 2023"
 tags: ["arunachal"]
 weight: 3
 touricon: "iconoir:cycling"
@@ -23,7 +24,7 @@ overview:
 
   - label : DURATION
     icon : bytesize:flag
-    data : 6 days
+    data : 8 days
 
   - label : STATES
     icon : bi:globe
@@ -43,51 +44,56 @@ overview:
 
   - label : COST
     icon : bi:wallet2
-    data : ₹39,000/ Twin share
+    data : ₹57,000/ Twin share
 
 
 overs:
 - l: Level 
-  d: Easy to Moderate 
+  d: Moderate 
 - l: Duration
-  d: 6 Days
+  d: 8 Days
 - l: Riding Days
-  d: 4
+  d: 6
 - l: Total cycling distance
-  d: ~280 Km
+  d: ~380 Km
 - l: Terrain
   d: 25% Hilly 
 - l: Altitude variation
-  d: 150 to 700 mts
+  d: 150 to 1800 mts
 - l: Airport in
-  d: Dibrugarh
+  d: Dibrugarh (Assam)
 - l: Airport out
-  d: Dibrugarh
+  d: Dibrugarh (Assam)
 
-highlights:
+highlights: 
  - Watershed of the Mighty Brahmaputra river
  - Explore around the Dibang and Lohit Rivers
- - Meet the Animist and Theravada Buddhist tribes 
+ - Meet the Animist and Theravada Buddhist tribes
  - Raft down the Mighty Dibang
  - Ride via two unique wildlife sanctuaries
  - Indulge in varied local cuisines
  - Tea Plantations, River Valleys, Remote Villages
+ - Meet the Lisu tribe, who are totally cut off from civilization till just a couple of years back
+ - Indulge in various cuisines of the region
+
 
 inclusions:
  - All accommodation
  - All Meals
+ - All transportation
  - Refreshment and water throughout
- - Coach / SUV backup throughout
+ - Guide
  - FA Kit
  - Activities as mentioned in the itinerary
  - All permits
 
-exclusions:
- - Cycles:- Charge for rental cycles INR 600 / day
- - Alcoholic Beverages
- - Personal expenses
 
-accommodation: Best Eco-lodges in the area
+exclusions:
+#  - Cycles:- Charge for rental cycles INR 600 / day
+#  - Alcoholic Beverages
+#  - Personal expenses
+
+accommodation: Cottages & Camping
 meals: As much as possibly we try cover all the local cuisines
 refreshments: High energy snacks and Water during activities  
  
