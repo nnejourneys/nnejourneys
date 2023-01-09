@@ -33,7 +33,7 @@ export default function Departures({ allTours }) {
         <meta property="og:title" content={`Departures | ${CMS_NAME}`}/>
       </Head>
       <Container>
-        <h4 className="text-center my-5"> Fixed Departures 2022 - 23</h4>
+        <h4 className="text-center my-5"> Fixed Departures 2023</h4>
       </Container>
       <div className="container-xxl container-fluid mt-5">
         <TourItem tours={departures} />
