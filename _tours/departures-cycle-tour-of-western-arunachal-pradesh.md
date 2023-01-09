@@ -1,16 +1,16 @@
 ---
 draft: false
 keywords: "Eastern Arunachal Pradesh, Arunachal Pradesh, Cycling holiday, the Brahmaputra Valley"
-title: "CYCLE TOUR OF EASTERN ARUNACHAL PRADESH"
-subtitle: "Watershed of the Brahmaputra "
-days: "8 days"
-description : "This tour takes you to eastern Arunachal Pradesh on a multiday cycling holiday across the watershed region of the Brahmaputra Valley."
-bg_image: /images/tours/departures-cycle-tour-of-eastern-arunachal-pradesh.jpg
-image : /images/tours/departures-cycle-tour-of-eastern-arunachal-pradesh.jpg
+title: "CYCLE TOUR OF WESTERN ARUNACHAL PRADESH"
+subtitle: "The Himalayan High"
+days: "10 days"
+description : "This cycling tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang. Lying close to the tri-juncture of India, Bhutan and Tibet, this is the Buddhist belt, home to the Monpa, Sherdukpen and Brokpa people."
+bg_image: /images/tours/departures-cycle-tour-of-western-arunachal-pradesh.jpg
+image : /images/tours/departures-cycle-tour-of-western-arunachal-pradesh.jpg
 # video: https://www.youtube.com/watch?v=AV5-Chp6p14&ab_channel=NorthBynortheast
 type: "departures"
 category: "departures"
-cat: "4 - 11 March' 2023"
+cat: "7 - 16 April 2023"
 tags: ["arunachal"]
 weight: 3
 touricon: "iconoir:cycling"
@@ -20,72 +20,66 @@ overview:
 
   - label : TOUR DATE
     icon : bi:sun
-    data : 18 - 23 March' 2022
+    data : 7 Apr - 16 Apr 2023
 
   - label : DURATION
     icon : bytesize:flag
-    data : 8 days
+    data : 10 days
 
   - label : STATES
     icon : bi:globe
-    data : Arunachal Pradesh & Assam
+    data : Arunachal Pradesh
 
   - label : LEVEL
     icon : bi:speedometer2
-    data : Easy to Moderate
+    data : Moderate
 
   - label : AIRPORT IN
     icon : ic:round-flight-land
-    data : Dibrugarh (Assam)
+    data : Guwahati (Assam)
 
   - label : AIRPORT OUT
     icon : ic:round-flight-takeoff
-    data : Dibrugarh (Assam)
+    data : Guwahati (Assam)
 
   - label : COST
     icon : bi:wallet2
-    data : ₹57,000/ Twin share
+    data : ₹65,000/ Twin share
 
 
 overs:
 - l: Level 
   d: Moderate 
 - l: Duration
-  d: 8 Days
+  d: 10 Days
 - l: Riding Days
-  d: 6
+  d: 7
 - l: Total cycling distance
-  d: ~380 Km
+  d: ~400 Km
 - l: Terrain
   d: 25% Hilly 
 - l: Altitude variation
-  d: 150 to 1800 mts
+  d: 150 to 4170 mts
 - l: Airport in
-  d: Dibrugarh (Assam)
+  d: Guwahati (Assam)
 - l: Airport out
-  d: Dibrugarh (Assam)
+  d: Guwahati (Assam)
 
-highlights: 
- - Watershed of the Mighty Brahmaputra river
- - Explore around the Dibang and Lohit Rivers
- - Meet the Animist and Theravada Buddhist tribes
- - Raft down the Mighty Dibang
- - Ride via two unique wildlife sanctuaries
- - Indulge in varied local cuisines
- - Tea Plantations, River Valleys, Remote Villages
- - Meet the Lisu tribe, who are totally cut off from civilization till just a couple of years back
- - Indulge in various cuisines of the region
+highlights:
+- Some of the highest motorable roads in the Eastern Himalayas
+- Meet the Monpa, Sherdukpen and Brokpa people
+- Little used back roads with negligible traffic
+- Tea Plantations, River Valleys, Remote Villages
 
-
-inclusions:
- - All accommodation
- - All Meals
- - All transportation
- - Refreshment and water throughout
- - Guide
- - FA Kit
- - Activities as mentioned in the itinerary
- - All permits
+inclusions: 
+- All accommodation
+- All Meals
+- All transportation
+- Refreshment and water throughout
+- Guide
+- FA Kit
+- Activities as mentioned in the itinerary
+- All permits
 
 
 exclusions:
@@ -93,7 +87,7 @@ exclusions:
 #  - Alcoholic Beverages
 #  - Personal expenses
 
-accommodation: Cottages & Camping
+accommodation: Tea bungalows, Cottages & Camping
 meals: As much as possibly we try cover all the local cuisines
 refreshments: High energy snacks and Water during activities  
  
@@ -118,14 +112,14 @@ faq:
 
 
 galleryimages:
-- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh1.jpg"
-- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh2.jpg" 
-- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh3.jpg" 
-- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh4.jpg"
-- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh5.jpg"
-- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh6.jpg" 
-- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh7.jpg" 
-- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh8.jpg" 
+- "/images/tours/gallery/cycle-tour-of-western-arunachal-pradesh/cycle-tour-of-western-arunachal-pradesh1.jpg"
+- "/images/tours/gallery/cycle-tour-of-western-arunachal-pradesh/cycle-tour-of-western-arunachal-pradesh2.jpg" 
+- "/images/tours/gallery/cycle-tour-of-western-arunachal-pradesh/cycle-tour-of-western-arunachal-pradesh3.jpg" 
+- "/images/tours/gallery/cycle-tour-of-western-arunachal-pradesh/cycle-tour-of-western-arunachal-pradesh4.jpg"
+- "/images/tours/gallery/cycle-tour-of-western-arunachal-pradesh/cycle-tour-of-western-arunachal-pradesh5.jpg"
+- "/images/tours/gallery/cycle-tour-of-western-arunachal-pradesh/cycle-tour-of-western-arunachal-pradesh6.jpg" 
+- "/images/tours/gallery/cycle-tour-of-western-arunachal-pradesh/cycle-tour-of-western-arunachal-pradesh7.jpg" 
+- "/images/tours/gallery/cycle-tour-of-western-arunachal-pradesh/cycle-tour-of-western-arunachal-pradesh8.jpg" 
 
 
 othertours:
@@ -152,6 +146,7 @@ othertours:
   image: /images/tours/departures-trekking-in-namdapha-rainforest.jpg       
 --- 
 
-This cycle tour of Eastern Arunachal Pradesh (the eastern most state of India) takes you to the watershed of the mighty Brahmaputra River. This is where the three easternmost tributaries come together to form one of the mightiest river valleys of the world.
+This cycling tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang. Lying close to the tri-juncture of India, Bhutan and Tibet, this is the Buddhist belt, home to the Monpa, Sherdukpen and Brokpa people. Up till 1935 this region was administered and taxed by the Tibetian authorities. In 1938 Capt. GS Lightfoot was sent to demonstrate British sovereignty over the region. It was only in 1944 that the Tibetian authorities accepted the proposed Mcmohan line (1914 line) as the defacto border and hence it becoming a part of British India.
 
-Exciting experiences right from crossing some of the largest tributaries of the Brahmaputra to cycling through the rlush regions of the Dibang and Lohit Rivers of eastern Arunachal Pradesh, all the while overshadowed by the mighty Himalayan chain. Covering territories of over 8 different tribes with religious beliefs ranging from Hinduism,Theravada Buddhism to Old school Animism. This bicycle tour offers bounties of wide vistas, riding across little known villages, meeting myriads of ethnic groups and riding along some of the better wildlife sanctuaries of the subcontinent. All the while living in some quaint family run Eco lodges and camping in beautiful secluded locations .
+This region has some of the highest motorable roads of the eastern Himalayas, at places taking you to an altitude of 4600 mts. We start cycling from the lush tea fields of the Brahmaputra valley, making our way through the sub-tropial broad leaf forest at the foothills to the alpine forest and finally crossing beyond the tree line. Enroute you will pass through small settlements and towns giving you a first hand view into the life in these mountanious regions. The cycling phase covers between 300 to 650 Kms depending on the duration you choose, for most parts riding on little used backroads of this region historically known as the Monyul. Incidentally, in a rough manner we mirror the same route the Dalai Lama used in his exodus from Tibet in the year 1959.
+

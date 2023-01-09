@@ -9,7 +9,7 @@ bg_image: /images/tours/departures-cycle-tour-of-nagaland-hornbill-festival.jpg
 image : /images/tours/departures-cycle-tour-of-nagaland-hornbill-festival.jpg 
 type: "departures"
 category: "departures"
-cat: "30 Nov - 9 Dec' 2022"
+cat: "30 Nov - 9 Dec' 2023"
 tags: ["nagaland", "assam", "November"]
 weight: 6
 touricon: "iconoir:cycling"
@@ -18,7 +18,7 @@ touricon: "iconoir:cycling"
 overview:
   - label : TOUR DATE
     icon : bi:sun
-    data : 30 Nov - 9 Dec' 2022
+    data : 30 Nov - 9 Dec' 2023
     
   - label : DURATION
     icon : bytesize:flag
@@ -42,7 +42,7 @@ overview:
 
   - label : COST
     icon : bi:wallet2
-    data : ₹45,000/ Twin share
+    data : ₹66,000/ Twin share
  
 
 overs:
