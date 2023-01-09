@@ -20,7 +20,7 @@ overview:
 
   - label : TOUR DATE
     icon : bi:sun
-    data : 18 - 23 March' 2022
+    data : 24 Feb - 4 Mar 2023
 
   - label : DURATION
     icon : bytesize:flag
