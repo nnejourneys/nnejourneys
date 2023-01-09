@@ -1,7 +1,7 @@
 ---
 draft: false
 keywords: "Hornbill Festival Tour, Nagaland, Assam, Culture, Cuisine, Wildlife"
-title: "HORNBILL CYCLE EXPEDITION"
+title: "CYCLE TOUR TO HORNBILL FEST"
 subtitle: "Shillong to Kohima"
 days: "10 Days"
 description : "Hornbill Festival Tour, Nagaland and Assam. Culture, Cuisine and Wildlife of Assam and Nagaland"
@@ -9,9 +9,9 @@ bg_image: /images/tours/departures-cycle-tour-of-nagaland-hornbill-festival.jpg
 image : /images/tours/departures-cycle-tour-of-nagaland-hornbill-festival.jpg 
 type: "departures"
 category: "departures"
-cat: "30 Nov - 9 Dec' 2023"
+cat: "30 Nov - 9 Dec 2023"
 tags: ["nagaland", "assam", "November"]
-weight: 6
+weight: 5
 touricon: "iconoir:cycling"
  
 # overview
@@ -103,20 +103,14 @@ faq:
   
 
 galleryimages:
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival1.jpg"
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival2.jpg"
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival3.jpg"
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival4.jpg"
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival5.jpg"
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival6.jpg"
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival7.jpg"
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival8.jpg"
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival9.jpg"
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival10.jpg"
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival11.jpg"
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival12.jpg"
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival13.jpg"
-  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival14.jpg"
+  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival-1.jpg"
+  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival-2.jpg"
+  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival-3.jpg"
+  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival-4.jpg"
+  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival-5.jpg"
+  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival-6.jpg"
+  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival-7.jpg"
+  - "/images/tours/gallery/departures-cycle-tour-of-nagaland-hornbill-festival/departures-cycle-tour-of-nagaland-hornbill-festival-8.jpg"
 
 othertours:
 - title: Ziro Festival 2022 Camping Packages

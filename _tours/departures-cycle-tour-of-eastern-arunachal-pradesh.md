@@ -2,7 +2,7 @@
 draft: false
 keywords: "Eastern Arunachal Pradesh, Arunachal Pradesh, Cycling holiday, the Brahmaputra Valley"
 title: "CYCLE TOUR OF EASTERN ARUNACHAL PRADESH"
-subtitle: "Watershed of the Brahmaputra "
+subtitle: "Watershed of the Brahmaputra"
 days: "8 days"
 description : "This tour takes you to eastern Arunachal Pradesh on a multiday cycling holiday across the watershed region of the Brahmaputra Valley."
 bg_image: /images/tours/departures-cycle-tour-of-eastern-arunachal-pradesh.jpg
@@ -10,9 +10,9 @@ image : /images/tours/departures-cycle-tour-of-eastern-arunachal-pradesh.jpg
 # video: https://www.youtube.com/watch?v=AV5-Chp6p14&ab_channel=NorthBynortheast
 type: "departures"
 category: "departures"
-cat: "4 - 11 March' 2023"
+cat: "4 - 11 March 2023"
 tags: ["arunachal"]
-weight: 3
+weight: 2
 touricon: "iconoir:cycling"
  
 # overview

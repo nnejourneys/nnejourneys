@@ -1,7 +1,7 @@
 ---
 draft: false
 keywords: "Eastern Arunachal Pradesh, Arunachal Pradesh, Cycling holiday, the Brahmaputra Valley"
-title: "CYCLE TOUR OF WESTERN ARUNACHAL PRADESH"
+title: "CYCLE TOUR OF TAWANG"
 subtitle: "The Himalayan High"
 days: "10 days"
 description : "This cycling tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang. Lying close to the tri-juncture of India, Bhutan and Tibet, this is the Buddhist belt, home to the Monpa, Sherdukpen and Brokpa people."

@@ -1,7 +1,7 @@
 ---
 draft: false
 keywords: "Cycle tour, Arunachal Pradesh, Mishmi Hills"
-title: "CYCLING TOUR OF ARUNACHAL PRADESH"
+title: "CYCLING TOUR OF MISHMI HILLS"
 subtitle: "The Mishmi Hills Explorer"
 days: "12 days"
 description : "This cycle tour of Arunachal Pradesh takes you to the Mishmi Hills, easternmost flank of the Himalayan chain"
@@ -9,16 +9,16 @@ bg_image: /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
 image : /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
 type: "cycling tours"
 category: "departures"
-cat: "20 oct - 31 oct-2023"
+cat: "20 - 31 October 2023"
 tags: ["east-arunachal","cycling"]
-weight: 5
+weight: 4
 touricon: "iconoir:cycling"
 
 # overview
 overview:
   - label : TOUR DATE
     icon : bi:sun
-    data : 18 - 23 March' 2022
+    data : 20 - 31 October' 2023
 
   - label : STATES
     icon : bi:globe

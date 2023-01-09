@@ -1,7 +1,7 @@
 ---
 draft: false
 keywords: "Eastern Arunachal Pradesh, Arunachal Pradesh, Cycling holiday, the Brahmaputra Valley"
-title: "Vijaynagar Cycle Expedition 2023"
+title: "CYCLE EXPEDITION TO VIJAYANAGAR"
 subtitle: "Vijaynagar, the last village of India."
 days: "9 days"
 description : "Everybody talks about it, yet only a handful have ever reached Vijaynagar. This is the last of exploratory expeditions of the Indian subcontinent."
@@ -12,7 +12,7 @@ type: "departures"
 category: "departures"
 cat: "24 Feb - 4 March 2023"
 tags: ["arunachal"]
-weight: 3
+weight: 1
 touricon: "iconoir:cycling"
  
 # overview
