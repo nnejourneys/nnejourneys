@@ -1,5 +1,6 @@
 ---
-draft: false
+draft: true
+keywords: "Cycle tour, Arunachal Pradesh, Ziro Festival of Music"
 title: "ZIRO FESTIVAL OF MUSIC 2022"
 subtitle: "Camping Packages"
 days: "4 nights"

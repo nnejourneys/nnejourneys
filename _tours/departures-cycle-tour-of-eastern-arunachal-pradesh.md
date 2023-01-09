@@ -118,14 +118,14 @@ faq:
 
 
 galleryimages:
-- "/images/tours/gallery/departures-eastern-arunachal-cycling/departures-eastern-arunachal-cycling1.jpg"
-- "/images/tours/gallery/departures-eastern-arunachal-cycling/departures-eastern-arunachal-cycling2.jpg" 
-- "/images/tours/gallery/departures-eastern-arunachal-cycling/departures-eastern-arunachal-cycling3.jpg" 
-- "/images/tours/gallery/departures-eastern-arunachal-cycling/departures-eastern-arunachal-cycling4.jpg"
-- "/images/tours/gallery/departures-eastern-arunachal-cycling/departures-eastern-arunachal-cycling5.jpg"
-- "/images/tours/gallery/departures-eastern-arunachal-cycling/departures-eastern-arunachal-cycling6.jpg" 
-- "/images/tours/gallery/departures-eastern-arunachal-cycling/departures-eastern-arunachal-cycling7.jpg" 
-- "/images/tours/gallery/departures-eastern-arunachal-cycling/departures-eastern-arunachal-cycling8.jpg" 
+- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh1.jpg"
+- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh2.jpg" 
+- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh3.jpg" 
+- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh4.jpg"
+- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh5.jpg"
+- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh6.jpg" 
+- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh7.jpg" 
+- "/images/tours/gallery/departures-cycle-tour-of-eastern-arunachal-pradesh/departures-cycle-tour-of-eastern-arunachal-pradesh8.jpg" 
 
 
 othertours:

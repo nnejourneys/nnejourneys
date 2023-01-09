@@ -1,9 +1,10 @@
 ---
 draft: false
+keywords: "Trek, Worlds northernmost rainforest, Namdapha National Park, Eastern Arunachal Pradesh, Arunachal Pradesh"
 title: "THE RAINFOREST TREK"
 subtitle: "Trekking in Namdapha National Park"
 days: "6 days"
-description : "A unique trek in the worlds northernmost rainforest, Namdapha National Park of Eastern Arunachal Pradesh. "
+description : "A unique trek in the worlds northernmost rainforest, Namdapha National Park of Eastern Arunachal Pradesh."
 bg_image: /images/tours/departures-trekking-in-namdapha-rainforest.jpg
 image : /images/tours/departures-trekking-in-namdapha-rainforest.jpg
 category: "departures"

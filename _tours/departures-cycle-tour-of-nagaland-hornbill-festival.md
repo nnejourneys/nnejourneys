@@ -1,5 +1,6 @@
 ---
-draft: false 
+draft: false
+keywords: "Hornbill Festival Tour, Nagaland, Assam, Culture, Cuisine, Wildlife"
 title: "HORNBILL CYCLE EXPEDITION"
 subtitle: "Shillong to Kohima"
 days: "10 Days"

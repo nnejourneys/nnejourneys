@@ -1,5 +1,6 @@
 --- 
-draft: false
+draft: true
+keywords: "Roadtrip, Arunachal Pradesh, Ziro Festival of Music"
 title: "ZIRO FESTIVAL OF MUSIC 2022"
 subtitle: "A Roadtrip to Central Arunachal Pradesh"
 days: "6 days"
