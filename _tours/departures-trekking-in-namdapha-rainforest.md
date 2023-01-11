@@ -8,7 +8,7 @@ description : "A unique trek in the worlds northernmost rainforest, Namdapha Nat
 bg_image: /images/tours/departures-trekking-in-namdapha-rainforest.jpg
 image : /images/tours/departures-trekking-in-namdapha-rainforest.jpg
 category: "departures"
-cat: "18 - 23, March 2022"
+cat: "18 - 23 March 2022"
 type : "departures"
 tags: ["trekking", "east-arunachal"]
 weight: 10
@@ -85,21 +85,21 @@ accommodation: Eco cottages & Camping
 meals: All meals, water and refreshments
 refreshments: High energy snacks and Water during throughout   
 
-faq:
-- title: Terrain
-  text: Undulating between 300 to 950 mts
+# faq:
+# - title: Terrain
+#   text: Undulating between 300 to 950 mts
  
-- title: Backup
-  text: On the trek we have elephant and porter backup.
+# - title: Backup
+#   text: On the trek we have elephant and porter backup.
  
-- title: Permits
-  text: Indian nationals require an Inner Line Permit (ILP) whereas foreign nationals require a Restricted Area Permit (RAP / PAP). These have a govt. charge attached to them. Rest assured we take care of the arrangements.
+# - title: Permits
+#   text: Indian nationals require an Inner Line Permit (ILP) whereas foreign nationals require a Restricted Area Permit (RAP / PAP). These have a govt. charge attached to them. Rest assured we take care of the arrangements.
  
-- title: Weather Pattern
-  text: Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 15 C in the nights, where as the days are quite pleasant.
+# - title: Weather Pattern
+#   text: Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 15 C in the nights, where as the days are quite pleasant.
  
-- title: Safety
-  text: We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
+# - title: Safety
+#   text: We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
 galleryimages:
   - "/images/tours/gallery/departures-trekking-in-namdapha-rainforest/departures-trekking-in-namdapha-rainforest1.jpg"
@@ -112,24 +112,27 @@ galleryimages:
   - "/images/tours/gallery/departures-trekking-in-namdapha-rainforest/departures-trekking-in-namdapha-rainforest8.jpg"  
     
 othertours:
-- title: Ziro Festival 2022 Camping Packages
-  link: /tours/departures-ziro-festival-of-music-camping
-  image: /images/tours/departures-ziro-festival-of-music-camping.jpg
-- title: Ziro Festival 2022 & A Roadtrip to Central Arunachal Pradesh
-  link: /tours/departures-ziro-festival-of-music-2022-trip
-  image: /images/tours/departures-ziro-festival-of-music-camping.jpg
-- title: Ziro Festival 2022 & A Roadtrip to Central, Eastern Arunachal Pradesh
-  link: /tours/departures-ziro-festival-of-music-2022-and-mechuka-roadtrip
-  image: /images/tours/departures-ziro-festival-of-music-camping.jpg
-- title: Watershed of the Brahmaputra 
+- title: Vijaynagar, the last village of India.
+  link: /tours/departures-vijaynagar-cycle-expedition-2023
+  image: /images/tours/departures-vijaynagar-cycle-expedition-2023.jpg
+- title: Watershed of the Brahmaputra
   link: /tours/departures-cycle-tour-of-eastern-arunachal-pradesh
   image: /images/tours/departures-cycle-tour-of-eastern-arunachal-pradesh.jpg
+- title: The Himalayan High
+  link: /tours/departures-cycle-tour-of-western-arunachal-pradesh
+  image: /images/tours/departures-ziro-festival-of-music-camping.jpg
+- title: The Mishmi Hills Explorer 
+  link: /tours/departures-cycle-tour-of-mishmi-hills-arunachal-pradesh
+  image: /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
 - title: Hornbill Cycle Expedition Shillong to Kohima
   link: /tours/departures-cycle-tour-of-nagaland-hornbill-festival
   image: /images/tours/departures-cycle-tour-of-nagaland-hornbill-festival.jpg
-- title: Walks in the Clouds
-  link: /tours/departures-walking-tour-meghalaya
-  image: /images/tours/departures-walking-tour-meghalaya.jpg
+# - title: Walks in the Clouds
+#   link: /tours/departures-walking-tour-meghalaya
+#   image: /images/tours/departures-walking-tour-meghalaya.jpg
+# - title: Trekking in Namdapha National Park
+#   link: /tours/departures-trekking-in-namdapha-rainforest
+#   image: /images/tours/departures-trekking-in-namdapha-rainforest.jpg    
 ---
 
 
