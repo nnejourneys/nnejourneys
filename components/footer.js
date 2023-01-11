@@ -100,12 +100,12 @@ export default function Footer() {
           </button>
         </div>
       </div>
-      <hr className="p-0 m-0" />
+    {/* <hr className="p-0 m-0" /> */}
       <div className="text-center">
         <p className="m-0 fw-light  ">
           Designed and Developed by 
           <a 
-          className="fw-light text-muted" 
+          className="fw-light text-footer" 
           href="https://mohankumar.dev/" target="_blank"> 
             {' '}Mohan 
           </a>
