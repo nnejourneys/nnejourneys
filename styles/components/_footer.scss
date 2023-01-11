@@ -3,6 +3,13 @@ footer{
   border-top: 0.2rem solid var(--nne-secondary) !important;
 }
 
+.text-footer{
+  color: var(--nne-font-paragraph) !important;
+  &:hover{
+    color: var(--nne-font-color) !important;
+  }
+}
+
 .footer-links {
     padding-left: 2px;
   }
