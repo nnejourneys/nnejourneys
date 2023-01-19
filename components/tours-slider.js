@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import { imgblurDataURL } from "../lib/constants";
 import { Icon } from "@iconify/react";
-import Slider from "react-slick";
+import Slider from "react-slick"; 
 import { motion, useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import TourSliderCard from "../components/tours/tour-itin-slider-card";
@@ -65,10 +65,18 @@ export default function ToursSlider({ tours }) {
     prevArrow: <PrevArrow />,
     responsive: [
       {
+        breakpoint: 1200,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 3, 
+        },
+      },
+      {
         breakpoint: 991,
         settings: {
           slidesToShow: 2,
           slidesToScroll: 2,
+          arrows: false,
         },
       },
       {
@@ -77,6 +85,7 @@ export default function ToursSlider({ tours }) {
           slidesToShow: 1,
           slidesToScroll: 1,
           initialSlide: 1,
+          arrows: false,
         },
       },
     ],
@@ -84,7 +93,7 @@ export default function ToursSlider({ tours }) {
   return (
     <section className="my-5 py-5">
       <h4 className="text-center my-5"> Some of our upcoming Departures</h4>
-      <Slider {...settings} ref={setcurrentSlide} className="mx-5 px-5">
+      <Slider {...settings} ref={setcurrentSlide} className="mx-lg-5 px-lg-5 mx-md-2 px-md-2 ">
         {tours.map((tour, index) => (
           <TourSliderCard
             key={index}
