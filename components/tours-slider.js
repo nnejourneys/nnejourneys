@@ -3,7 +3,6 @@ import Image from "next/image";
 import { imgblurDataURL } from "../lib/constants";
 import { Icon } from "@iconify/react";
 import Slider from "react-slick";
-import Slides from "../data/departuresslider.json";
 import { motion, useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import TourSliderCard from "../components/tours/tour-itin-slider-card";
