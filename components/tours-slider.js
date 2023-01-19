@@ -91,7 +91,7 @@ export default function ToursSlider({ tours }) {
     ],
   };
   return (
-    <section className="my-5 py-5">
+    <section className="pb-5">
       <h4 className="text-center my-5"> Some of our upcoming Departures</h4>
       <Slider {...settings} ref={setcurrentSlide} className="mx-lg-5 px-lg-5 mx-md-2 px-md-2 ">
         {tours.map((tour, index) => (
