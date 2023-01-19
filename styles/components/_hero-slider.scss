@@ -253,3 +253,33 @@
 .hero-content h4 {
   letter-spacing: 2px;
 }
+
+
+// ***********************************************************************
+
+.prevArrow,
+.nextArrow {
+  position: absolute;
+  top: 50%; 
+  height: 2.5rem;
+  width: 2.5rem;
+  border-radius: 50%;
+  background: var(--nne-bg-secondary);
+  // color: var(--nne-white);
+  color: #303032;
+  border: 0; 
+  transition: all linear 0.2s;
+}
+.prevArrow{
+  left: 0;
+}
+.nextArrow{
+  right: 0
+}
+
+@media (max-width: 575px) {
+  .prevArrow,
+  .nextArrow {
+    display: none;
+  }
+}

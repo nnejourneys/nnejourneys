@@ -2,7 +2,7 @@
 .top-header {
     background: #6e6e77;
   }
-  
+ 
   @media (max-width: 575px) {
     .top-header ul {
       text-align: center;
@@ -117,22 +117,7 @@
   
   .navigation .navbar .nav-item .nav-link:hover {
     color: #c50a0a;
-  }
-  
-  /* .navigation .navbar .nav-item:last-child {
-    padding: 28px 0 28px 30px;
-  }
-  
-  @media (max-width: 991px) {
-    .navigation .navbar .nav-item:last-child {
-      padding: 0;
-      margin-bottom: 20px;
-    }
-  }
-  
-  .navigation .navbar .nav-item:last-child .nav-link {
-    color: #fff;
-  } */
+  } 
   
   .navigation .navbar .nav-item .nav-link.pgactive {
     color: var(--nne-primary);
@@ -255,7 +240,6 @@
   &:focus{
     color: var(--nne-font-dark) !important;
     font-weight: 700 !important;
-    outline: none !important;
-    // background-color: var(--nne-bg-menu) !important;
+    outline: none !important; 
   }
 } 
