@@ -1,5 +1,10 @@
 import { useRouter } from "next/router";
-import { CMS_NAME, imgblurDataURL, BASE_PATH,  HOME_OG_IMAGE_URL } from "../../lib/constants";
+import {
+  CMS_NAME,
+  imgblurDataURL,
+  BASE_PATH,
+  HOME_OG_IMAGE_URL,
+} from "../../lib/constants";
 import { getTourBySlug, getAllTours } from "../../lib/api";
 import { Container, Tabs, Tab } from "react-bootstrap";
 import ErrorPage from "next/error";
@@ -21,7 +26,15 @@ import SectionSeparator from "../../components/section-separator";
 
 export default function Tour({ tour }) {
   const router = useRouter();
-  const slug = router.asPath; 
+  const slug = router.asPath;
+
+  const structuredData = {
+    '@context': 'https://schema.org',
+    '@type': 'TouristTrip',
+    headline: tour.title,
+    description: tour.description,
+    image: tour.bg_image,
+  };
 
   if (!router.isFallback && !tour?.slug) {
     return (
@@ -39,15 +52,22 @@ export default function Tour({ tour }) {
         <>
           <article className="mb-5">
             <Head>
-              <title>{tour.title} | {CMS_NAME}</title>
-              <meta property="og:title" content={tour.title}/>
+              <title>
+                {tour.title} | {CMS_NAME}
+              </title>
+              <meta property="og:title" content={tour.title} />
               <meta property="og:image" content={tour.bg_image} />
               <meta property="og:type" content="tour itinerary" />
-              <meta property="og:image:alt" content="TourImage" /> 
-              <meta property="og:description" content={tour.description} /> 
-              <meta name="description" content={tour.description}/>
-              <meta name="keywords" content={tour.keywords}/>
-              <link rel="canonical" href={`${BASE_PATH}${slug}`}/>
+              <meta property="og:image:alt" content="TourImage" />
+              <meta property="og:description" content={tour.description} />
+              <meta name="description" content={tour.description} />
+              <meta name="keywords" content={tour.keywords} />
+              <link rel="canonical" href={`${BASE_PATH}${slug}`} />
+              <script
+                key="structured-data"
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+              />
             </Head>
 
             {tour.title || tour.subtitle || tour.days || tour.bg_image ? (
@@ -86,67 +106,68 @@ export default function Tour({ tour }) {
                 id="uncontrolled-tab-example"
                 className="my-5"
               >
-                {tour.overs ?
-                <Tab eventKey="overview" title="Overview">
-                  <h5 className="mb-5">Overview</h5>
-                   <TouroversList overs={tour.overs} /> 
-                </Tab>
-                : null}
+                {tour.overs ? (
+                  <Tab eventKey="overview" title="Overview">
+                    <h5 className="mb-5">Overview</h5>
+                    <TouroversList overs={tour.overs} />
+                  </Tab>
+                ) : null}
                 {tour.highlights ? (
-                <Tab eventKey="highlights" title="Highlights">
-                  <h5 className="mb-5">Highlights</h5>
-                    <TourdataList datalist={tour.highlights} />    
-                </Tab>) : null}
+                  <Tab eventKey="highlights" title="Highlights">
+                    <h5 className="mb-5">Highlights</h5>
+                    <TourdataList datalist={tour.highlights} />
+                  </Tab>
+                ) : null}
                 {tour.inclusions ? (
-                <Tab eventKey="inclusions" title="Inclusions">
-                  <h5 className="mb-5">Inclusions</h5>
+                  <Tab eventKey="inclusions" title="Inclusions">
+                    <h5 className="mb-5">Inclusions</h5>
                     <TourdataList datalist={tour.inclusions} />
-                </Tab>
+                  </Tab>
                 ) : null}
                 {tour.exclusions ? (
-                    <Tab eventKey="exclusions" title="Exclusions">
-                  <h5 className="mb-5">Exclusions</h5>
+                  <Tab eventKey="exclusions" title="Exclusions">
+                    <h5 className="mb-5">Exclusions</h5>
                     <TourdataList datalist={tour.exclusions} />
-                </Tab>
+                  </Tab>
                 ) : null}
                 {tour.meals || tour.accommodation || tour.refreshments ? (
-                <Tab eventKey="accommodation" title="Accomodation">
-                  <h5 className="mb-5">Accomodation</h5>
+                  <Tab eventKey="accommodation" title="Accomodation">
+                    <h5 className="mb-5">Accomodation</h5>
                     <TouraccoList
                       meals={tour.meals}
                       accommodation={tour.accommodation}
                       refreshments={tour.refreshments}
                     />
-                </Tab>
-                 ) : null}
+                  </Tab>
+                ) : null}
                 <Tab eventKey="gallery" title="Gallery">
-                  <h5 className="mb-5">Gallery</h5> 
-                    <TourGallery
-                      galleryimages={tour.galleryimages}
-                      subtitle={tour.subtitle}
-                    /> 
+                  <h5 className="mb-5">Gallery</h5>
+                  <TourGallery
+                    galleryimages={tour.galleryimages}
+                    subtitle={tour.subtitle}
+                  />
                 </Tab>
                 {tour.video ? (
-                    <Tab eventKey="video" title="Video">
-                  <h5 className="mb-5">Video</h5>
+                  <Tab eventKey="video" title="Video">
+                    <h5 className="mb-5">Video</h5>
                     <TourVideo video={tour.video} />
-                </Tab>
+                  </Tab>
                 ) : null}
-                {tour.title ? 
-                <Tab eventKey="enquire" title="Enquire">
-                  <h5 className="mb-5">Enquire</h5>
-                  <EnquiryForm title={tour.title} /> 
-                </Tab>
-                : null} 
+                {tour.title ? (
+                  <Tab eventKey="enquire" title="Enquire">
+                    <h5 className="mb-5">Enquire</h5>
+                    <EnquiryForm title={tour.title} />
+                  </Tab>
+                ) : null}
               </Tabs>
               <SectionSeparator />
-              {tour.faq ? 
-              <div className="mt-5">
-                <h5>FAQ</h5>
-                 <TourFaq faq={tour.faq} />
-                 <SectionSeparator />
-              </div> 
-              : null}
+              {tour.faq ? (
+                <div className="mt-5">
+                  <h5>FAQ</h5>
+                  <TourFaq faq={tour.faq} />
+                  <SectionSeparator />
+                </div>
+              ) : null}
               <div className="my-5">
                 <h6 className="text-danger fw-light text-center">
                   * Our Itineraries are quite unique hence we prefer not to put
