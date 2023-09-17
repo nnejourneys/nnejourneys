@@ -1,8 +1,8 @@
 ---
 draft: false
 keywords: "Eastern Arunachal Pradesh, Arunachal Pradesh, Cycling holiday, the Brahmaputra Valley"
-title: "CYCLE TOUR OF TAWANG"
-subtitle: "The Himalayan High"
+title: "THE ROAD TO TAWANG"
+subtitle: "Cycling in Western Arunachal Pradesh"
 days: "10 days"
 description : "This cycling tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang. Lying close to the tri-juncture of India, Bhutan and Tibet, this is the Buddhist belt, home to the Monpa, Sherdukpen and Brokpa people."
 bg_image: /images/tours/departures-cycle-tour-of-western-arunachal-pradesh.jpg
@@ -10,9 +10,9 @@ image : /images/tours/departures-cycle-tour-of-western-arunachal-pradesh.jpg
 # video: https://www.youtube.com/watch?v=AV5-Chp6p14&ab_channel=NorthBynortheast
 type: "departures"
 category: "departures"
-cat: "7 - 16 April 2023"
+cat: "3 - 12 October 2023"
 tags: ["arunachal"]
-weight: 3
+weight: 1
 touricon: "iconoir:cycling"
  
 # overview
@@ -20,7 +20,7 @@ overview:
 
   - label : TOUR DATE
     icon : bi:sun
-    data : 7 Apr - 16 Apr 2023
+    data : 3 Oct  - 12 Oct 2023
 
   - label : DURATION
     icon : bytesize:flag
@@ -44,7 +44,7 @@ overview:
 
   - label : COST
     icon : bi:wallet2
-    data : ₹65,000/ Twin share
+    data : ₹54,000/ Twin share
 
 
 overs:

@@ -10,9 +10,9 @@ image : /images/tours/departures-vijaynagar-cycle-expedition-2023.jpg
 # video: https://www.youtube.com/watch?v=AV5-Chp6p14&ab_channel=NorthBynortheast
 type: "departures"
 category: "departures"
-cat: "24 Feb - 4 March 2023"
+cat: "24 Feb - 4 March 2024"
 tags: ["arunachal"]
-weight: 1
+weight: 5
 touricon: "iconoir:cycling"
  
 # overview
@@ -20,7 +20,7 @@ overview:
 
   - label : TOUR DATE
     icon : bi:sun
-    data : 24 Feb - 4 Mar 2023
+    data : 24 Feb - 4 Mar 2024
 
   - label : DURATION
     icon : bytesize:flag

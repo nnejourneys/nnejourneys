@@ -9,16 +9,16 @@ bg_image: /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
 image : /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
 type: "cycling tours"
 category: "departures"
-cat: "20 - 31 October 2023"
+cat: "03 - 12 November 2023"
 tags: ["east-arunachal","cycling"]
-weight: 4
+weight: 2
 touricon: "iconoir:cycling"
 
 # overview
 overview:
   - label : TOUR DATE
     icon : bi:sun
-    data : 20 - 31 October' 2023
+    data : 03 - 12 November 2023
 
   - label : STATES
     icon : bi:globe
@@ -30,7 +30,7 @@ overview:
     
   - label : DURATION
     icon : bytesize:flag
-    data : 12 days
+    data : 10 days
 
   - label : AIRPORT IN
     icon : ic:round-flight-land
@@ -42,7 +42,7 @@ overview:
   
   - label : COST
     icon : bi:wallet2
-    data : ₹70,500/ Twin share
+    data : ₹59,000/ Twin share
 
 overs:
 - l: Level 
@@ -52,7 +52,7 @@ overs:
 - l: Riding Days
   d: 7
 - l: Total cycling distance
-  d: ~550 Km
+  d: ~400 Km
 # - l: Terrain
 #   d: 25% Hilly 
 - l: Altitude variation

@@ -10,9 +10,9 @@ image : /images/tours/departures-cycle-tour-of-eastern-arunachal-pradesh.jpg
 # video: https://www.youtube.com/watch?v=AV5-Chp6p14&ab_channel=NorthBynortheast
 type: "departures"
 category: "departures"
-cat: "4 - 11 March 2023"
+cat: "29 Jan - 04 Feb 2024"
 tags: ["arunachal"]
-weight: 2
+weight: 4
 touricon: "iconoir:cycling"
  
 # overview
@@ -20,7 +20,7 @@ overview:
 
   - label : TOUR DATE
     icon : bi:sun
-    data : 18 - 23 March' 2022
+    data : 29 Jan - 04 Feb 2024
 
   - label : DURATION
     icon : bytesize:flag
