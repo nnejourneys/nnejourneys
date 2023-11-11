@@ -7,6 +7,11 @@ import Slides from "../data/heroslider.json";
 import { motion, useAnimation } from "framer-motion";
 import { useInView } from 'react-intersection-observer';
 
+
+import Tourtypedata from "../data/tourtypes.json";
+import Link from "next/link";
+
+
 export default function HeroSliderMain() {
   const { ref, inView, entry } = useInView();
   const [currentSlide, setcurrentSlide] = useState();
@@ -86,14 +91,16 @@ export default function HeroSliderMain() {
                   priority
                 />
 
-                <div
-                  className="hero-content" 
-                >
+                <div className="hero-content">
                   <motion.h3 animate={animation} className="hero-title mb-1">{item.title}</motion.h3>
                   <motion.h1 className="hero-subtitle mb-3">{item.subtitle}</motion.h1>
                   <motion.p className="hero-text text-uppercase mb-5">
                     {item.description}
+
                   </motion.p>
+                  <Link href={Tourtypedata.btnlink}>
+                  <a className="btn btn-primary">{Tourtypedata.btntext}</a>
+                  </Link>
                 </div>
               </div>
             ))}
