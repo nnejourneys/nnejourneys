@@ -20,8 +20,8 @@ export default function Index({ allTours }) {
         <title> {CMS_NAME} | Holidays in Northeast India</title>
         <link rel="canonical" href={BASE_PATH}/>
         <meta name="robots" content="index"/>
-      </Head> 
-      <TourTypes />
+      </Head>
+      <TourTypes/>
       <ToursSlider tours={departures}/>
       <About /> 
       <Region/>
