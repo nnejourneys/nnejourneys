@@ -94,7 +94,7 @@ export default function HeroSliderMain() {
                 <div className="hero-content">
                   <motion.h3 animate={animation} className="hero-title mb-1">{item.title}</motion.h3>
                   <motion.h1 className="hero-subtitle mb-3">{item.subtitle}</motion.h1>
-                  <motion.p className="hero-text text-uppercase mb-5">
+                  <motion.p className="hero-text">
                     {item.description}
 
                   </motion.p>
