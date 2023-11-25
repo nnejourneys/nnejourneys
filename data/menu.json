@@ -49,6 +49,11 @@
           "name": "Contact",
           "URL": "/contact",
           "weight": 4
+        },
+        {
+          "name": "Blog",
+          "URL": "/posts",
+          "weight": 4
         }
       ],
       "footer": [

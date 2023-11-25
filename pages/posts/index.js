@@ -9,7 +9,7 @@ export default function PostIndex({ allPosts }) {
   return (
     <>
       <Head>
-        <title>Posts | {CMS_NAME}</title>
+        <title>Blog Posts | {CMS_NAME}</title>
       </Head>
       <Container>
         <PostItem posts={allPosts} />
