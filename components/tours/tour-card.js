@@ -35,14 +35,14 @@ export default function TourCard({
             <div className="col-md-5">
               <div className="card-body">
                 <Link href={`/tours/${slug}`}>
-                  <a>
+                  <a className="text-dark">
                     <h6 className="card-title tour-card mb-1 fw-bold">{title}</h6>
                     <p className="card-text tour-card tour-card-subtitle mb-2">{subtitle}</p>
                     <div className="row">
-                      <div className="col-2">
-                        <h6 >
+                      <div className="col-2 ">
+                        <h6>
                           <Icon
-                            className="my-1 p-1 bg-nne-secondary"
+                            className="my-1 p-2 bg-nne-neutral rounded"
                             icon={touricon}
                             width="40"
                           />
