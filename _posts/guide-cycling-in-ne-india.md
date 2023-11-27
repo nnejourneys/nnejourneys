@@ -12,6 +12,8 @@ ogImage:
 
 Cycling in Northeast India can be a thrilling and rewarding experience, offering diverse landscapes, vibrant cultures, and a unique blend of natural beauty. Here's an ultimate guide to help you plan an unforgettable cycling adventure in this region.
 
+![alt text](/images/blog/guide-cycling-in-ne-india/cultural-sensitivity-cycling-holidays-in-northeast-india.jpeg "Title")
+
 ## 1. Choose Your Route:
 
 Nestled in the lap of nature, Northeast India offers a plethora of captivating experiences for both novice and seasoned cyclists alike. Explore the mystical beauty of Meghalaya's rolling hills, pedal through the lush tea gardens of Assam, and challenge yourself with exhilarating uphill climbs in Arunachal Pradesh and Nagaland. Immerse yourself in the rich cultural tapestry as you cycle through vibrant villages and interact with the local inhabitants. Each turn on your journey will unveil hidden gems such as cascading waterfalls, pristine lakes, quaint villages and centuries-old monasteries that exude tranquility. These cycling routes provide a unique opportunity to connect with nature at its purest form. Breathe in the fresh mountain air as you traverse winding roads that lead to mesmerizing viewpoints offering panoramic vistas that will leave you spellbound.

@@ -84,7 +84,10 @@ button {
   background-size: 50%;
   background-repeat: no-repeat;
 }
+.post-body > p > img{
+  width: 100%;
 
+}
 @media (max-width: 991px) {
   .clients {
     background-size: cover !important;
