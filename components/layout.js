@@ -11,10 +11,11 @@ import { useRouter } from "next/router";
 export default function Layout({ children }) {
   const router = useRouter();
   const rootPath = `${baseURL}`;
-  const tourPath = `/tours/[slug]`;
+   const tourPath = `/tours/[slug]`;
+  const postPath = `/posts/[slug]`;
   const isRootPath = router.route === rootPath;
   const isTourPath = router.route === tourPath;
- 
+  const isPostPath = router.route === postPath;
   let header;
 
   if (isRootPath) {
@@ -29,7 +30,14 @@ export default function Layout({ children }) {
       <> 
       </>
     );
-  } else {
+  } 
+  else if (isPostPath)  {
+    header = (
+      <> 
+      </>
+    );
+  }
+  else {
     header = (
       <> 
         <HeroSliderPage />

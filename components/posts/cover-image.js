@@ -10,6 +10,7 @@ export default function CoverImage({ title, src, slug, height, width }) {
       placeholder="blur"
       blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mPsqQcAAZ0BDTSBuAQAAAAASUVORK5CYII="
       layout="responsive"
+      objectFit="cover"
       width={width}
       height={height}
     />

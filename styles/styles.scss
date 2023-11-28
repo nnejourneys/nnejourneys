@@ -16,7 +16,6 @@ a,
 a:hover,
 a:focus {
   text-decoration: none !important;
- 
 }
 
 a {
@@ -84,6 +83,21 @@ button {
   background-size: 50%;
   background-repeat: no-repeat;
 }
+.post-body > p > img{
+  width: 100%;
+  margin-top: 16px;
+
+}
+.post-body > h2{
+  font-size:1.5rem;
+  margin-top:48px;
+
+}
+
+.post-container{
+  width:50% !important;
+  margin: 0 auto;
+}
 
 @media (max-width: 991px) {
   .clients {
@@ -91,6 +105,10 @@ button {
     background-position: center center;
     text-align: center;
   }
+  .post-container{
+  width:100% !important;
+
+}
 }
 
 .clients ul li {
@@ -168,6 +186,10 @@ img.arrow-bottom {
   img.arrow-bottom {
     display: none;
   }
+  .post-container{
+  width:70% !important;
+
+}
 }
  
 .work-slider-image {
@@ -256,6 +278,11 @@ img.arrow-bottom {
   .work-slider .slick-dots li {
     margin: 0 2px;
   }
+
+.post-container{
+  width:100% !important;
+
+}
 }
 
 .work-slider .slick-dots li:first-child {
@@ -283,9 +310,18 @@ img.arrow-bottom {
   .work-slider .slick-dots li button {
     width: 10px;
   }
+
 }
 
 .work-slider .slick-dots li.slick-active button {
   border-color: var(--nne-primary);;
+}
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 992px) {
+  .post-container{
+  width:100% !important;
+
+}
 }
  
