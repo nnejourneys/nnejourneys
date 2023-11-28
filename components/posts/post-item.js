@@ -4,7 +4,7 @@ export default function PostItem({ posts }) {
   return (
     <section>
       <h2 className="my-5">
-       Posts
+       Blog
       </h2>
       <div className="row">
         {posts.map((post) => (
