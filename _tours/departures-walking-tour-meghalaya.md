@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 keywords: "Walking Tour, Khasi and Jaintia hills, Khasi hills, Jaintia hills ,Meghalaya"
 title: "WALKERS TOUR OF MEGHALAYA"
 subtitle: "Walks in the Clouds"
@@ -8,16 +8,16 @@ description : "A series of day walks across the Khasi and Jaintia hills of Megha
 bg_image: /images/tours/departures-walking-tour-meghalaya.jpg
 image: /images/tours/departures-walking-tour-meghalaya.jpg
 category: "departures"
-cat: "1 - 6 Oct' 2022"
+cat: "17 - 22 Feb' 2024"
 type : "departures"
 tags: ["meghalaya", "walking"]
-weight: 8
+weight: 3
 touricon: "iconoir:walking"
 
 overview:
   - label : TOUR DATE
     icon : bi:sun
-    data : 1 - 6 Oct' 2022
+    data : 17 - 22 Feb' 2024
 
   - label : DURATION
     icon : bytesize:flag
@@ -41,7 +41,7 @@ overview:
 
   - label : COST
     icon : bi:wallet2
-    data : ₹32,000/ Twin share
+    data : ₹36,000
 
 overs:
   - l: Level 

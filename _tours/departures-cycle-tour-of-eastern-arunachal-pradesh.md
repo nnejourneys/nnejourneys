@@ -10,7 +10,7 @@ image : /images/tours/departures-cycle-tour-of-eastern-arunachal-pradesh.jpg
 # video: https://www.youtube.com/watch?v=AV5-Chp6p14&ab_channel=NorthBynortheast
 type: "departures"
 category: "departures"
-cat: "29 Jan - 04 Feb 2024"
+cat: "09 - 16 March 2024"
 tags: ["arunachal"]
 weight: 4
 touricon: "iconoir:cycling"
@@ -20,7 +20,7 @@ overview:
 
   - label : TOUR DATE
     icon : bi:sun
-    data : 29 Jan - 04 Feb 2024
+    data : 09 - 16 March 2024
 
   - label : DURATION
     icon : bytesize:flag
@@ -44,7 +44,7 @@ overview:
 
   - label : COST
     icon : bi:wallet2
-    data : ₹57,000/ Twin share
+    data : ₹60,000
 
 
 overs:
@@ -53,13 +53,13 @@ overs:
 - l: Duration
   d: 8 Days
 - l: Riding Days
-  d: 6
+  d: 5
 - l: Total cycling distance
-  d: ~380 Km
+  d: ~300 Km
 - l: Terrain
   d: 25% Hilly 
 - l: Altitude variation
-  d: 150 to 1800 mts
+  d: 150 to 1200 mts
 - l: Airport in
   d: Dibrugarh (Assam)
 - l: Airport out
@@ -73,7 +73,6 @@ highlights:
  - Ride via two unique wildlife sanctuaries
  - Indulge in varied local cuisines
  - Tea Plantations, River Valleys, Remote Villages
- - Meet the Lisu tribe, who are totally cut off from civilization till just a couple of years back
  - Indulge in various cuisines of the region
 
 
@@ -152,6 +151,6 @@ othertours:
 #   image: /images/tours/departures-trekking-in-namdapha-rainforest.jpg       
 --- 
 
-This cycle tour of Eastern Arunachal Pradesh (the eastern most state of India) takes you to the watershed of the mighty Brahmaputra River. This is where the three easternmost tributaries come together to form one of the mightiest river valleys of the world.
+This cycle tour of Eastern Arunachal Pradesh (the eastern most state of India) takes you to the watershed of the mighty Brahmaputra River. This is where the three easternmost tributaries come together to form one of the mightiest river valleys of the world. This is a land of unending forests, vast river valleys and a plethora of unique tribes.
 
-Exciting experiences right from crossing some of the largest tributaries of the Brahmaputra to cycling through the rlush regions of the Dibang and Lohit Rivers of eastern Arunachal Pradesh, all the while overshadowed by the mighty Himalayan chain. Covering territories of over 8 different tribes with religious beliefs ranging from Hinduism,Theravada Buddhism to Old school Animism. This bicycle tour offers bounties of wide vistas, riding across little known villages, meeting myriads of ethnic groups and riding along some of the better wildlife sanctuaries of the subcontinent. All the while living in some quaint family run Eco lodges and camping in beautiful secluded locations .
+Exciting experiences right from crossing one of the largest rivers of India in Assam to cycling through the riverine areas of the Dibang and the Lohit Rivers of eastern Arunachal Pradesh, all the while overshadowed by the mighty Himalayan chain . Covering territories of over 10 different tribes with religious beliefs ranging from Hinduism,Theravada Buddhism to old school Animism. This bicycle tour offers bounties of wide vistas, riding across little known villages, meeting myriads of ethnic groups , cycling through National Parks and much much more. All the while living in some quaint family run guest houses, homestays and camping in beautiful secluded locations.

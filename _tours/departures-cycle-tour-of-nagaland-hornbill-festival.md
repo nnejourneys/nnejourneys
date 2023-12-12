@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 keywords: "Hornbill Festival Tour, Nagaland, Assam, Culture, Cuisine, Wildlife"
 title: "CYCLE TOUR TO HORNBILL FEST"
 subtitle: "Shillong to Kohima"

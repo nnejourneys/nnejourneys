@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 keywords: "Eastern Arunachal Pradesh, Arunachal Pradesh, Cycling holiday, the Brahmaputra Valley"
 title: "THE ROAD TO TAWANG"
 subtitle: "Cycling in Western Arunachal Pradesh"
@@ -10,9 +10,9 @@ image : /images/tours/departures-cycle-tour-of-western-arunachal-pradesh.jpg
 # video: https://www.youtube.com/watch?v=AV5-Chp6p14&ab_channel=NorthBynortheast
 type: "departures"
 category: "departures"
-cat: "3 - 12 October 2023"
+cat: "5 - 14 April 2024"
 tags: ["arunachal"]
-weight: 1
+weight: 6
 touricon: "iconoir:cycling"
  
 # overview
@@ -20,7 +20,7 @@ overview:
 
   - label : TOUR DATE
     icon : bi:sun
-    data : 3 Oct  - 12 Oct 2023
+    data : 5 - 14 April 2024
 
   - label : DURATION
     icon : bytesize:flag

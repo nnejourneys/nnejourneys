@@ -1,18 +1,18 @@
 --- 
-draft: true
-keywords: "Roadtrip, Arunachal Pradesh, Ziro Festival of Music"
-title: "ZIRO FESTIVAL OF MUSIC 2022"
-subtitle: "A Roadtrip to Central Arunachal Pradesh"
-days: "6 days"
-description : "An adventure trip to the easternmost point of India."
+draft: false
+keywords: "Rivertrip, Arunachal Pradesh, raft, SUP, Kayak"
+title: "Multi-River Adventure in Arunachal Pradesh"
+subtitle: "Birth of the Brahmaputra"
+days: "7 days"
+description : "Explore the easternmost rivers of India on Rafts, Canoes and SUP."
 bg_image: /images/tours/departures-ziro-festival-of-music-2022-trip.jpg
 image : /images/tours/departures-ziro-festival-of-music-2022-trip.jpg
 category: "departures"
-cat: "29 Sept - 4 Oct, 2022"
+cat: "23 - 29 March, 2024"
 type : "departures"
-tags: ["September", "east-arunachal"]
-weight: 2
-touricon: "iconoir:car-outline"
+tags: ["March", "east-arunachal"]
+weight: 5
+touricon: "iconoir:bonfire"
 
 # overview
 overview:

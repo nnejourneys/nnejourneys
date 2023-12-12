@@ -10,9 +10,9 @@ image : /images/tours/departures-vijaynagar-cycle-expedition-2023.jpg
 # video: https://www.youtube.com/watch?v=AV5-Chp6p14&ab_channel=NorthBynortheast
 type: "departures"
 category: "departures"
-cat: "24 Feb - 4 March 2024"
+cat: "2 - 10 Feb 2024"
 tags: ["arunachal"]
-weight: 5
+weight: 2
 touricon: "iconoir:cycling"
  
 # overview
@@ -20,7 +20,7 @@ overview:
 
   - label : TOUR DATE
     icon : bi:sun
-    data : 24 Feb - 4 Mar 2024
+    data : 2 - 10 Feb 2024
 
   - label : DURATION
     icon : bytesize:flag
@@ -32,7 +32,7 @@ overview:
 
   - label : LEVEL
     icon : bi:speedometer2
-    data : Easy to Moderate
+    data : Moderate
 
   - label : AIRPORT IN
     icon : ic:round-flight-land
@@ -44,7 +44,7 @@ overview:
 
   - label : COST
     icon : bi:wallet2
-    data : ₹59,000/ Twin share
+    data : ₹64,000
 
 
 overs:

@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 keywords: "Cycle tour, Arunachal Pradesh, Mishmi Hills"
 title: "CYCLING TOUR OF MISHMI HILLS"
 subtitle: "The Mishmi Hills Explorer"
@@ -9,9 +9,9 @@ bg_image: /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
 image : /images/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh.jpg
 type: "cycling tours"
 category: "departures"
-cat: "03 - 12 November 2023"
+cat: "09 - 15 March 2024"
 tags: ["east-arunachal","cycling"]
-weight: 2
+weight: 4
 touricon: "iconoir:cycling"
 
 # overview

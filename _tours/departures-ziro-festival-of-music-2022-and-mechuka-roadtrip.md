@@ -1,16 +1,16 @@
 --- 
 draft: true
-keywords: "Roadtrip, Arunachal Pradesh, Ziro Festival of Music"
-title: "ZIRO FESTIVAL OF MUSIC AND BEYOND"
-subtitle: "A Roadtrip to Central, Eastern Arunachal Pradesh and the Ziro Festival of Music 2022"
-days: "11 days"
-description : "An adventurous roadtrip across central and eastern Arunachal Pradesh, including the Ziro Festival of Music."
+keywords: "Roadtrip, Eastern Arunachal Pradesh, Walong"
+title: "The Eastern Odeyssey"
+subtitle: "A Roadtrip to the easternmost point of India"
+days: "7 days"
+description : "An adventurous roadtrip to the easternmost point of India, where the first sunrise of India happens"
 bg_image: /images/tours/departures-ziro-festival-of-music-2022-and-mechuka-roadtrip.jpg
 image : /images/tours/departures-ziro-festival-of-music-2022-and-mechuka-roadtrip.jpg
 category: "departures"
-cat: "29 Sept - 9 Oct, 2022"
+cat: "21 - 27 Jan, 2024"
 type : "departures"
-tags: ["September", "east-arunachal"]
+tags: ["January", "east-arunachal"]
 weight: 3
 touricon: "iconoir:car-outline" 
 
