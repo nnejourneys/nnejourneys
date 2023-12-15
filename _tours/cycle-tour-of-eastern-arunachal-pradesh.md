@@ -1,5 +1,6 @@
 ---
 draft: false
+keywords: "Cycle tour, Arunachal Pradesh, cycling in Arunachal Pradesh, Arunachal cycle tour"
 title: "CYCLING IN EASTERN ARUNACHAL"
 subtitle: "Watershed of the Brahmaputra"
 days: "6 to 12 days"

@@ -1,6 +1,6 @@
 ---
 draft: false
-keywords: "Eastern Arunachal Pradesh, Arunachal Pradesh, Cycling holiday, the Brahmaputra Valley"
+keywords: " Arunachal Pradesh, Cycling holiday, cycling to tawang, cycle tour tawang"
 title: "THE ROAD TO TAWANG"
 subtitle: "Cycling in Western Arunachal Pradesh"
 days: "10 days"
@@ -44,7 +44,7 @@ overview:
 
   - label : COST
     icon : bi:wallet2
-    data : ₹54,000/ Twin share
+    data : ₹59,000/ Twin share
 
 
 overs:

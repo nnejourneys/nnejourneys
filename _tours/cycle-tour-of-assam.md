@@ -1,5 +1,6 @@
 ---
 draft: false
+keywords: "Cycle tour, Assam, cycling in Assam, Assam cycle tour"
 title: "CYCLE TOUR OF ASSAM" 
 subtitle: "The Brahmaputra Explorer" 
 days: "6 to 12 days" 

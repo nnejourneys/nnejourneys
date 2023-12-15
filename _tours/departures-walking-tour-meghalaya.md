@@ -1,6 +1,6 @@
 ---
 draft: false
-keywords: "Walking Tour, Khasi and Jaintia hills, Khasi hills, Jaintia hills ,Meghalaya"
+keywords: "Walking Tour, Khasi and Jaintia hills, Khasi hills, Jaintia hills , Meghalaya tour, Walking holiday"
 title: "WALKERS TOUR OF MEGHALAYA"
 subtitle: "Walks in the Clouds"
 days: "6 days"

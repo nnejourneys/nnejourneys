@@ -1,5 +1,6 @@
 ---
 draft: false
+keywords: "Cycle tour, Meghalaya, cycling in Meghalaya, Meghalaya cycle tour, Cycling to Meghalaya"
 title: "CYCLE TOUR OF MEGHALAYA"
 subtitle: "The Abode of clouds"
 days: "6 to 12 days"

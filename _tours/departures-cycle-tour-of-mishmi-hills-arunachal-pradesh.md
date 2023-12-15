@@ -1,6 +1,6 @@
 ---
 draft: true
-keywords: "Cycle tour, Arunachal Pradesh, Mishmi Hills"
+keywords: "Cycle tour, Arunachal Pradesh, cycling in Arunachal Pradesh, Arunachal cycle tour, Cycling to Anini"
 title: "CYCLING TOUR OF MISHMI HILLS"
 subtitle: "The Mishmi Hills Explorer"
 days: "12 days"

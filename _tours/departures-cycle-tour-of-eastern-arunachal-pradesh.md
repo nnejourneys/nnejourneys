@@ -1,6 +1,6 @@
 ---
 draft: false
-keywords: "Eastern Arunachal Pradesh, Arunachal Pradesh, Cycling holiday, the Brahmaputra Valley"
+keywords: "Cycle tour, cycling in Arunachal Pradesh, Arunachal cycle tour, Cycling in Eastern Arunachal Pradesh"
 title: "CYCLE TOUR OF EASTERN ARUNACHAL PRADESH"
 subtitle: "Watershed of the Brahmaputra"
 days: "8 days"

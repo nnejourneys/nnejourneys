@@ -1,6 +1,6 @@
 ---
 draft: false
-keywords: "Eastern Arunachal Pradesh, Arunachal Pradesh, Cycling holiday, the Brahmaputra Valley"
+keywords: "Cycle Expedition, Arunachal Pradesh, Cycling holiday, Cycling Expedition to Vijoynagar"
 title: "CYCLE EXPEDITION TO VIJAYANAGAR"
 subtitle: "Vijaynagar, the last village of India."
 days: "9 days"

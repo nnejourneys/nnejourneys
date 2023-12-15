@@ -122,9 +122,4 @@ othertours:
 #   image: /images/tours/departures-trekking-in-namdapha-rainforest.jpg     
 ---
 
-#### ZIRO FESTIVAL OF MUSIC 2022: A Roadtrip to Central Arunachal Pradesh
-
-We take you to the Ziro Valley of central Arunachal Pradesh for the Ziro Festival of Music. Ziro Festival of music can be categorized as a contemporary Musical festival with a large involvement of guests, bands, artists and performers, ZFM includes a broad division of musical genre, it is in essence the ‘Woodstock’ of India. Apart from the music, there is various  cuisines and brew to be tried, cultural activities and local experiences to be had.
-
-The journey starts from Guwahati taking you through the Brahmaputra valley, into the lower Himalayas of Arunachal Pradesh. 
-Other than the festivities at Ziro, we indulge in some dolphin spotting on the Brahmaputra and experience life in a Tea Plantation.
+This trip takes you to the plains of eastern Arunachal Pradesh, a land entwined with a mesh of rivers of all sizes and shapes. This is where the Brahmaputra as we know it is born.
