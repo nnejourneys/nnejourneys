@@ -20,6 +20,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/index.js"
     ],
+    "/404": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/404.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -30,10 +35,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/tours": [
+    "/tours/[slug]": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/tours.js"
+      "static/chunks/pages/tours/[slug].js"
+    ],
+    "/tours/departures": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/tours/departures.js"
     ]
   },
   "ampFirstPages": []
