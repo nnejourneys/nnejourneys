@@ -5,8 +5,8 @@ title: "CYCLE EXPEDITION TO VIJAYANAGAR"
 subtitle: "Vijaynagar, the last village of India."
 days: "9 days"
 description : "Everybody talks about it, yet only a handful have ever reached Vijaynagar. This is the last of exploratory expeditions of the Indian subcontinent."
-bg_image: /images/tours/departures-vijaynagar-cycle-expedition-2023.jpg
-image : /images/tours/departures-vijaynagar-cycle-expedition-2023.jpg
+bg_image: /images/tours/departures-vijaynagar-cycle-expedition.jpg
+image : /images/tours/departures-vijaynagar-cycle-expedition.jpg
 # video: https://www.youtube.com/watch?v=AV5-Chp6p14&ab_channel=NorthBynortheast
 type: "departures"
 category: "departures"
@@ -116,20 +116,20 @@ refreshments: High energy snacks and Water during activities
 
 
 galleryimages:
-- "/images/tours/gallery/departures-vijaynagar-cycle-expedition-2023/departures-vijaynagar-cycle-expedition-2023-2.jpg"
-- "/images/tours/gallery/departures-vijaynagar-cycle-expedition-2023/departures-vijaynagar-cycle-expedition-2023-3.jpg"
-- "/images/tours/gallery/departures-vijaynagar-cycle-expedition-2023/departures-vijaynagar-cycle-expedition-2023-4.jpg"
-- "/images/tours/gallery/departures-vijaynagar-cycle-expedition-2023/departures-vijaynagar-cycle-expedition-2023-5.jpg"
-- "/images/tours/gallery/departures-vijaynagar-cycle-expedition-2023/departures-vijaynagar-cycle-expedition-2023-6.jpg"
-- "/images/tours/gallery/departures-vijaynagar-cycle-expedition-2023/departures-vijaynagar-cycle-expedition-2023-7.jpg"
-- "/images/tours/gallery/departures-vijaynagar-cycle-expedition-2023/departures-vijaynagar-cycle-expedition-2023-8.jpg"
-- "/images/tours/gallery/departures-vijaynagar-cycle-expedition-2023/departures-vijaynagar-cycle-expedition-2023-9.jpg"
+- "/images/tours/gallery/departures-vijaynagar-cycle-expedition/departures-vijaynagar-cycle-expedition-2.jpg"
+- "/images/tours/gallery/departures-vijaynagar-cycle-expedition/departures-vijaynagar-cycle-expedition-3.jpg"
+- "/images/tours/gallery/departures-vijaynagar-cycle-expedition/departures-vijaynagar-cycle-expedition-4.jpg"
+- "/images/tours/gallery/departures-vijaynagar-cycle-expedition/departures-vijaynagar-cycle-expedition-5.jpg"
+- "/images/tours/gallery/departures-vijaynagar-cycle-expedition/departures-vijaynagar-cycle-expedition-6.jpg"
+- "/images/tours/gallery/departures-vijaynagar-cycle-expedition/departures-vijaynagar-cycle-expedition-7.jpg"
+- "/images/tours/gallery/departures-vijaynagar-cycle-expedition/departures-vijaynagar-cycle-expedition-8.jpg"
+- "/images/tours/gallery/departures-vijaynagar-cycle-expedition/departures-vijaynagar-cycle-expedition-9.jpg"
 
 
 othertours:
 # - title: Vijaynagar, the last village of India.
-#   link: /tours/departures-vijaynagar-cycle-expedition-2023
-#   image: /images/tours/departures-vijaynagar-cycle-expedition-2023.jpg
+#   link: /tours/departures-vijaynagar-cycle-expedition
+#   image: /images/tours/departures-vijaynagar-cycle-expedition.jpg
 - title: Watershed of the Brahmaputra
   link: /tours/departures-cycle-tour-of-eastern-arunachal-pradesh
   image: /images/tours/departures-cycle-tour-of-eastern-arunachal-pradesh.jpg

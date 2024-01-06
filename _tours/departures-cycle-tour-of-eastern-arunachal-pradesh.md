@@ -129,7 +129,7 @@ galleryimages:
 
 othertours:
 - title: Vijaynagar, the last village of India.
-  link: /tours/departures-vijaynagar-cycle-expedition-2023
+  link: /tours/departures-vijaynagar-cycle-expedition
   image: /images/tours/departures-vijaynagar-cycle-expedition-2023.jpg
 # - title: Watershed of the Brahmaputra
 #   link: /tours/departures-cycle-tour-of-eastern-arunachal-pradesh
