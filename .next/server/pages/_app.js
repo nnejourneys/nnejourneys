@@ -860,7 +860,7 @@ module.exports = JSON.parse('{"hero":{"slides":[{"title":"North by Northeast Jou
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"menu":{"mainmenu":[{"name":"Home","URL":"/","weight":1},{"name":"Tours","URL":"/tours","weight":2,"children":[{"name":"All Tours","URL":"/tours","order":1},{"name":"Departures","URL":"/tours/departures","order":2}]},{"name":"About","URL":"/about-us","weight":3,"children":[{"name":"About Us","URL":"/about-us","order":1},{"name":"Team","URL":"/about-us/team","order":2},{"name":"Insights","URL":"/about-us/insights","order":3}]},{"name":"Contact","URL":"/contact","weight":4},{"name":"Blog","URL":"/posts","weight":4}],"footer":[{"name":"Responsible Tourism","URL":"/about-us","weight":1},{"name":"Insights","URL":"/about-us/insights","weight":2}]}}');
+module.exports = JSON.parse('{"menu":{"mainmenu":[{"name":"Home","URL":"/","weight":1},{"name":"Tours","URL":"/tours","weight":2,"children":[{"name":"All Tours","URL":"/tours","order":1},{"name":"Departures","URL":"/tours/departures","order":2}]},{"name":"About","URL":"/about-us","weight":3,"children":[{"name":"About Us","URL":"/about-us","order":1},{"name":"Team","URL":"/about-us/team","order":2},{"name":"Insights","URL":"/about-us/insights","order":3}]},{"name":"Contact","URL":"/contact","weight":4},{"name":"Blog","URL":"/posts","weight":4}],"footer":[{"name":"Responsible Tourism","URL":"/about-us","weight":1},{"name":"Insights","URL":"/about-us/insights","weight":2},{"name":"Terms and Conditions","URL":"/terms-and-conditions","weight":2}]}}');
 
 /***/ }),
 

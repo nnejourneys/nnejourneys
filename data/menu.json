@@ -66,6 +66,11 @@
           "name": "Insights",
           "URL": "/about-us/insights",
           "weight": 2
+        },
+        {
+          "name": "Terms and Conditions",
+          "URL": "/terms-and-conditions",
+          "weight": 2
         }
       ]
     }
