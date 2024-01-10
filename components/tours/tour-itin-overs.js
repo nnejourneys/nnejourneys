@@ -7,9 +7,9 @@ export default function TouroversList({overs}) {
             {overs.map((item, index) => (
               <li className="py-1 border-bottom-not-last" key={index}>
                 <p className="my-1">
-                  <b className="text-muted">{item.l}</b>&nbsp;
-                  |&nbsp;&nbsp;
-                   {item.d}
+                  <b className="text-muted">{item.l}</b>
+                  <br />
+                  {item.d}
                 </p>
               </li>
             ))}

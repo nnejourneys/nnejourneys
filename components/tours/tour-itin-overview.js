@@ -6,8 +6,8 @@ export default function TourOverview({ overview }) {
     <>
       <ul className="ps-0 m-1">
         {overview.map((item, index) => (
-          <li className="py-2 " key={index}>
-            <p className="d-inline-block font-primary m-0 text-color">
+          <li className="py-2 border-bottom-not-last" key={index}>
+            <p className="d-inline-block font-primary m-0">
               <Icon className="me-2 mb-1" icon={item.icon} />
               {item.label}
             </p>
