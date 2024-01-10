@@ -24,6 +24,7 @@ import TourFaq from "../../components/tours/tour-itin-faq";
 import TourOthertours from "../../components/tours/tour-itin-othertours";
 import SectionSeparator from "../../components/section-separator";
 
+
 export default function Tour({ tour }) {
   const router = useRouter();
   const slug = router.asPath;
@@ -78,29 +79,50 @@ export default function Tour({ tour }) {
                 image={tour.bg_image}
               />
             ) : null}
-            <Container>
-              <div className="row mt-5">
-                <div className="col-md-12 text-center">
-                  {tour.description ? (
-                    <h6 className="my-5">{tour.description}</h6>
-                  ) : null}
-                </div>
-              </div>
+         
+
+            <Container className="container-fluid">
               <div className="row">
-                <aside className="col-lg-4">
-                  <div className="p-3 rounded border shadow-sm mb-50">
-                    <h4 className="text-color mb-20">Tour Overview</h4>
+                <div className="col-lg-7 mt-3">
+                  {tour.content ? ( <div className=" mt-5  mb-50 ">
+                    <h4>Highlights</h4>
+                    <TourdataList datalist={tour.highlights} />
+                  </div>
+                 
+                    ) : null}
+                  
+                </div>
+                <div className="col-lg-4 offset-lg-1" id="sticky-sidebar">
+                 
+                 <div className=" p-3 mt-5 rounded shadow-sm mb-50 tour-overview ">
+                    <h4 className="mb-20">Tour Overview</h4>
                     {tour.overview ? (
                       <TourOverview overview={tour.overview} />
                     ) : null}
+                    
                   </div>
-                </aside>
-                <div className="col-lg-8">
-                  {tour.content ? (
-                    <TourBody className="mb-5" content={tour.content} />
-                  ) : null}
+
+                </div>
+                
+              </div>
+            </Container>
+
+            <Container className="" >
+
+              <div className="row">  
+                <div className="col-lg-7">
+                  <div>
+                  {tour.description ? (
+                      <h3 className="mb-5 tour-description">{tour.description}</h3>
+                      ) : null}
+
+                    {tour.content ? (<TourBody className="mb-5" content={tour.content} />
+                    ) : null}
+                  </div> 
                 </div>
               </div>
+
+              
               <Tabs
                 defaultActiveKey="overview"
                 id="uncontrolled-tab-example"
@@ -112,12 +134,7 @@ export default function Tour({ tour }) {
                     <TouroversList overs={tour.overs} />
                   </Tab>
                 ) : null}
-                {tour.highlights ? (
-                  <Tab eventKey="highlights" title="Highlights">
-                    <h5 className="mb-5">Highlights</h5>
-                    <TourdataList datalist={tour.highlights} />
-                  </Tab>
-                ) : null}
+             
                 {tour.inclusions ? (
                   <Tab eventKey="inclusions" title="Inclusions">
                     <h5 className="mb-5">Inclusions</h5>

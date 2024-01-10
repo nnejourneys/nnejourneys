@@ -1,7 +1,8 @@
 export default function TourBody({ content }) {
   return (
     <>
-      <div className="tour-body" dangerouslySetInnerHTML={{ __html: content }}/>
+    <h4>Summary</h4>
+      <div className="tour-body mt-4" dangerouslySetInnerHTML={{ __html: content }}/>
     </>
   )
 }

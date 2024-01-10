@@ -63,6 +63,29 @@
   text-align: justify;
 }
 
+.tour-highlight{
+  padding-left: 0 !important;
+}
+.tour-highlight svg {
+  color: #73A853 !important;
+}
+
+.tour-highlight li{
+  list-style:none !important;
+  padding-left: 0 !important;
+}
+
+.tour-description{
+  font-weight: 800 !important;
+  line-height:2.4rem;
+ 
+}
+
+.tour-overview {
+  background-color: #FBFAF9 ;
+}
+
+
 .gallery{
     display: flex; 
     flex-direction: row;

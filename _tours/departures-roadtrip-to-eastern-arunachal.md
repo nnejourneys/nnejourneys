@@ -55,13 +55,13 @@ overs:
   - l: Airport Out 
     d: Dibrugarh (Assam) 
 
-highlights:
- - The northernmost lowland rainforest of the world
- - India's first sunrise and sunset
- - Meet the Theravada and Animist tribes
- - A naturalist to explain life under the canopy, the grasslands and the riverine areas
+highlights: 
+ - Traverse the northernmost lowland rainforest of the world
+ - Catch India's first sunrise and sunset
+ - Meet the Theravada and Animist tribesmen and women
+ - Explore sun-dappled forests, vast grasslands & vibrant waterways with an experienced naturalist
  - Spot the Hornbills and the Hollock Gibbons
- - Cuisine and culture of far eastern India
+ - Experience the cuisine and culture of far eastern India
 
 inclusions:
  - All accommodation
@@ -103,7 +103,7 @@ othertours:
   link: /tours/culture-tour-western-arunachal-pradesh
   image: /images/tours/culture-tour-western-arunachal-pradesh.jpg  
 ---
-
+### Summary
  We take you to far east of India, to the land of the ‘Dawn lit ‘Mountains’. Typically when one talks of Arunachal Pradesh, Tawang and Ziro valley automatically come up, rest remains mostly unknown. Here we take you all the way to far eastern Arunachal Pradesh bordering China and Myanmar, in fact, to the point where the first rays of the sun hits India.
 On this tour you will explore the easternmost part of India, meet the Animist and Buddhist tribes who reside here, soak in the unparalleled vistas, hike in the worlds northernmost rainforest, visit the Therevada Buddhist temples, sample local cuisine and much more.
 
