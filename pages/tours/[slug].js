@@ -95,29 +95,28 @@ export default function Tour({ tour }) {
                     ) : null}
                   </div>
                 </aside>
-                <div className="col-lg-8">
-                  {tour.content ? (
+                <div className="col-lg-7 offset-lg-1">
+                <div className=" mb-50">
+                    <h4 className="text-color mb-20">Tour Highlights</h4>
+                    {tour.highlights ? (
+                      <TourdataList datalist={tour.highlights} />
+                    ) : null}
+                  </div>
+                   {tour.content ? (
                     <TourBody className="mb-5" content={tour.content} />
                   ) : null}
+                  
+                 
                 </div>
               </div>
-              <Tabs
-                defaultActiveKey="overview"
-                id="uncontrolled-tab-example"
-                className="my-5"
-              >
+              <Tabs defaultActiveKey="overview" id="uncontrolled-tab-example" className="my-5" >
                 {tour.overs ? (
                   <Tab eventKey="overview" title="Overview">
                     <h5 className="mb-5">Overview</h5>
                     <TouroversList overs={tour.overs} />
                   </Tab>
                 ) : null}
-                {tour.highlights ? (
-                  <Tab eventKey="highlights" title="Highlights">
-                    <h5 className="mb-5">Highlights</h5>
-                    <TourdataList datalist={tour.highlights} />
-                  </Tab>
-                ) : null}
+               
                 {tour.inclusions ? (
                   <Tab eventKey="inclusions" title="Inclusions">
                     <h5 className="mb-5">Inclusions</h5>
