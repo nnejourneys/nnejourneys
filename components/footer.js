@@ -45,7 +45,9 @@ export default function Footer() {
                 </ul>
               </div>
             </div>
-            <div className="col-lg-2 col-md-3">
+
+
+            <div className="col-lg-3 col-md-3 offset-lg-1">
               <h6 className="text-white mb-4">Important Links</h6>
               <ul className="footer-links">
                 {Menuitems.menu.footer.map((item, index) => (
@@ -71,9 +73,9 @@ export default function Footer() {
                 ))}
               </ul>
             </div>
-            <div className="col-lg-2 col-md-6 ">
+           /* <div className="col-lg-2 col-md-6 ">
               {/* <h6 className="text-white mb-4">Join our mailing list</h6>
-              <MailingList/> */}
+              <MailingList/> */}*/
             </div>
           </div>
         </div>

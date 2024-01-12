@@ -15,6 +15,11 @@
   ],
   "rootMainFiles": [],
   "pages": {
+    "/404": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/404.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -25,15 +30,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/tours/[slug]": [
+    "/booking-and-cancellation-policy": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/tours/[slug].js"
-    ],
-    "/tours/departures": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/tours/departures.js"
+      "static/chunks/pages/booking-and-cancellation-policy.js"
     ]
   },
   "ampFirstPages": []

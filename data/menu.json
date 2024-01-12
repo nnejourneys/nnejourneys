@@ -76,6 +76,11 @@
           "name": "Privacy Policy",
           "URL": "/privacy-policy",
           "weight": 2
+        },
+        {
+          "name": "Booking & Cancellation Policy",
+          "URL": "/booking-and-cancellation-policy",
+          "weight": 2
         }
       ]
     }
