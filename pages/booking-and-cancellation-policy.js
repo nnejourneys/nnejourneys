@@ -21,13 +21,13 @@ export default function Privacypolicy() {
         <div className="container">
           <div className="row">
             <div className="col-lg-8 offset-lg-2 cancellation-policy"> 
-               <h1 className="mb-3">Booking Policy</h1>
+               <h2 className="mb-3">Booking Policy</h2>
                <ol>
-                <li>30% of the tour expenses is to be deposited with North by Northeast Journeys at the time of booking. This deposit along with an invoice from North by Northeast Journeys on receipt of such an amount will be considered the confirmation of the booking</li>
-                <li>The full payment for the tour needs to be paid 40 days prior to departure</li>
+                <li> To secure your booking, kindly submit a 30% deposit at the time of reservation. North by Northeast Journeys will subsequently provide a confirmation invoice upon deposit confirmation, detailing the remaining amount due.</li>
+                <li>The remaining 70% balance payment is due 40 days prior to departure</li>
                </ol>
               <SectionSeparator />
-                <h1 className="mt-5 mb-5">Cancellation Policy</h1>
+                <h2 className="mt-5 mb-5">Cancellation Policy</h2>
                 <table class="table table-striped-columns">
                    <thead>
                       <tr>
@@ -64,6 +64,11 @@ export default function Privacypolicy() {
                   <li>Cancellation in the unforeseen eventualities of disaster, war, riots, political or industrial unrest like Airline operators strike or any other force majeure (forces outside our control), it may be necessary to cancel the tour in the best interests of our clients. In such an eventuality our clients will be informed as soon as possible. 75% of the expenses borne by the clients (depending on the cancellation policies of the hotels, resorts, homestays etc) will be refunded by North by Northeast Journeys.</li>
                   <li>North by Northeast Journeys does not own places of accommodation (hotels, resorts) for its clients. While we do exert influence for the service providers to adhere to the utmost quality, the ultimate responsibility for the service is with the Hotels themselves.</li>
                   <li>North by Northeast Journeys will not refund the booking amount for entry refused due to VISA or health factors, such cancellations will be guided by the cancellation policy.</li>
+                </ol>
+                <ol>
+                <li>North by Northeast Journeys reserves the right, at any time, without prior notice and liability and without assigning any reason whatsoever, to add/alter/modify/change or vary all of these terms and conditions or to replace, wholly or in part, this offer by another offer, whether similar to this Offer or not, or to extend or withdraw it altogether.</li>
+                <li>North by Northeast Journeys is the sole authority for interpretation of these terms.</li>
+                <li>North by Northeast Journeys shall not be liable for any loss or damage arising due to force majeure event.</li>
                 </ol>
 
                </div>
