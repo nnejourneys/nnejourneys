@@ -88,7 +88,7 @@ export default function Tour({ tour }) {
               </div>
               <div className="row">
                 <aside className="col-lg-4">
-                  <div className="p-3 rounded border shadow-sm mb-50">
+                  <div className="p-3 rounded border shadow-sm mb-50 tour-overview">
                     <h4 className="text-color mb-20">Tour Overview</h4>
                     {tour.overview ? (
                       <TourOverview overview={tour.overview} />
@@ -109,7 +109,9 @@ export default function Tour({ tour }) {
                  
                 </div>
               </div>
-              <Tabs defaultActiveKey="overview" id="uncontrolled-tab-example" className="my-5" >
+             <div className="row ">
+              <div className="col-lg-12 tour-tabs">
+                 <Tabs defaultActiveKey="overview" id="uncontrolled-tab-example" className="my-5" >
                 {tour.overs ? (
                   <Tab eventKey="overview" title="Overview">
                     <h5 className="mb-5">Overview</h5>
@@ -159,6 +161,8 @@ export default function Tour({ tour }) {
                   </Tab>
                 ) : null}
               </Tabs>
+              </div>
+             </div>
               <SectionSeparator />
               {tour.faq ? (
                 <div className="mt-5">

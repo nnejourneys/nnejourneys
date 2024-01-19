@@ -34,6 +34,7 @@ export default function Post({ post, morePosts, preview }) {
                 author={post.author}
               />
               <PostBody content={post.content} />
+         
             </article>
           </>
         )}

@@ -1,3 +1,15 @@
+.tour-overview, .tour-tabs{
+  ol,
+ul {
+  list-style-type: none;
+  margin: 0px;
+  & .liststyle{
+    list-style-type: circle;
+  }
+}
+}
+
+
 .tour-cover-image {
   height: 90vh ;
   width: 100%;
@@ -62,6 +74,7 @@
 .tour-body{
   text-align: justify;
 }
+
 
 .gallery{
     display: flex; 

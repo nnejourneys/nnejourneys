@@ -13,7 +13,7 @@ export default function Footer() {
     <footer className="mt-5">
       <div className="pt-5 ">
         <div className="container">
-          <div className="row">
+          <div className="row footer">
             <div className="col-lg-6 col-md-6">
               <div className="mb-5 text-md-left">
                 <Image

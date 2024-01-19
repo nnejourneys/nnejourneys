@@ -34,6 +34,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/terms-and-conditions.js"
+    ],
+    "/tours/[slug]": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/tours/[slug].js"
     ]
   },
   "ampFirstPages": []
