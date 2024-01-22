@@ -1,7 +1,5 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/terms-and-conditions": "pages/terms-and-conditions.js",
-  "/tours/[slug]": "pages/tours/[slug].js"
+  "/_document": "pages/_document.js"
 }
