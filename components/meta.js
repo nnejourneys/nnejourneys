@@ -11,11 +11,11 @@ export default function Meta() {
       <meta property="og:url" content={`${BASE_PATH}`} />
       <meta property="og:type" content="website" />
       <meta property="og:title" content={`${CMS_NAME}`} />
-      <meta
-        property="og:description"
-        content={`North by Northeast Journeys, specializes in the little-known Northeast region of India, offering adventure, nature and culture tours across Assam, Arunachal Pradesh, Meghalaya, Nagaland and Sikkim. | ${CMS_NAME}.`}
-      />
+      <meta property="og:description" content={`North by Northeast Journeys, specializes in the little-known Northeast region of India, offering adventure, nature and culture tours across Assam, Arunachal Pradesh, Meghalaya, Nagaland and Sikkim. | ${CMS_NAME}.`}/>
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="630"/>
+      <meta property="og:image:type" content="image/jpeg" />
 
       {/* Twitter Card */}
       <meta
